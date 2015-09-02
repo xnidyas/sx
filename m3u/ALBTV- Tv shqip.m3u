@@ -1,0 +1,175 @@
+#EXTM3U
+#EXTINF:-1,[COLOR blue][B][UPPERCASE]..:: ALBTV ::.. [/UPPERCASE][/B][/COLOR][COLOR red][B][UPPERCASE]Programe shqip nga platformat Tring&Digitalb[/UPPERCASE][/B][/COLOR]
+http://itshqip.com/
+
+
+#EXTINF:-1,[COLOR red][B][UPPERCASE]itshqip.com [/UPPERCASE][/B][/COLOR][COLOR white][B][UPPERCASE]&[/UPPERCASE][/B][/COLOR][COLOR blue][B][UPPERCASE]it.com.al [/UPPERCASE][/B][/COLOR]
+http://itshqip.com/
+
+#EXTINF:-1,[COLOR yellow][B][UPPERCASE]..:: KRYESORE ::.. [/UPPERCASE][/B][/COLOR]
+http://itshqip.com/
+
+#EXTINF:-1,RTK
+rtmp://wowza.rtkit.com/live/livestream
+
+#EXTINF:-1,Klan Kosova 
+http://4.31.30.135:1935/str2iosmd5/10ios_klankosova_56468946/playlist.m3u8
+
+#EXTINF:-1,Tvsh
+http://str105mb.setplex.net:1935/str2iosmd5/tvsh_62554_5hfaa/HasBahCa.m3u8
+
+#EXTINF:-1,Alsat M 2
+rtsp://fms.zulu.mk/zulu/alsat_1
+
+#EXTINF:-1,Vision +
+rtmp://live.vizionplus.tv/live//livestream2
+
+
+#EXTINF:-1,[COLOR yellow][B][UPPERCASE]..:: LOKALE ::.. [/UPPERCASE][/B][/COLOR]
+http://itshqip.com/
+
+
+
+#EXTINF:-1,Syri Vizion
+http://str105mb.setplex.net:1935/str2iosmd5/21ios_tvsyrivis_13226654/HasBahCa.m3u8
+
+#EXTINF:-1,Tv Era
+http://fms.zulu.mk:1935/zulu/era_1/hasbahca.m3u8
+
+#EXTINF:-1,Rrokum Tv
+rtmp://82.114.65.202/live/rrokumtv
+
+#EXTINF:-1,Mktv 2 (Mrt2)
+http://stream.mrt-edge.spectar.tv:1935/mrt-liveedge/_definst_/amlst:dm/hls/video_id/3548/token/bd0b11a4f8d05cc0bffe589f55909615/chunklist_w787058205_b1196000.m3u8
+
+#EXTINF:-1,Tip Tv
+rtmp://arlind.ontv.al:1935/live/tiptv
+
+#EXTINF:-1,Agon Channel
+http://str105mb.setplex.net:1935/str2iosmd5/7ios_agontv_34536544/HasBahCa.m3u8
+
+#EXTINF:-1,Alb Info
+http://str105mb.setplex.net:1935/str2iosmd5/stralbinfo_2654_dfs/HasBahCa.m3u8
+
+#EXTINF:-1,TV Dukagjini
+http://str105mb.setplex.net:1935/str2iosmd5/20ios_tvdukagjini_2233555/HasBahCa.m3u8
+
+#EXTINF:-1,TV Iliret
+http://str105mb.setplex.net:1935/str2iosmd5/16ios_tviliret_26658914/HasBahCa.m3u8
+
+#EXTINF:-1,TV Kopliku
+http://str105mb.setplex.net:1935/str2iosmd5/tvkop3542121/HasBahCa.m3u8
+
+#EXTINF:-1,TV Rozafa
+http://str105mb.setplex.net:1935/str2iosmd5/7ios_rozafa_65226289/HasBahCa.m3u8
+
+#EXTINF:-1,TV Teuta
+http://str105mb.setplex.net:1935/str2iosmd5/7ios_tvteuta_34654675644/HasBahCa.m3u8
+
+#EXTINF:0, Alb Uk HD
+rtmp://188.138.17.8:1935/albuk/albuk.stream
+
+#EXTINF:0, Alb Uk Plus
+rtmp://188.138.17.8:1935/albuk/albuk+.stream
+
+
+#EXTINF:-1,[COLOR yellow][B][UPPERCASE]..:: PER FEMIJE ::.. [/UPPERCASE][/B][/COLOR]
+http://itshqip.com/
+
+
+#EXTINF:-1,Tring Tring
+rtmp://arlind.ontv.al:1935/live/tringtring
+
+#EXTINF:-1,Bang Bang 
+rtmp://arlind.ontv.al:1935/live/bangbang
+
+
+#EXTINF:-1,[COLOR yellow][B][UPPERCASE]..:: MUZIKE ::..  [/UPPERCASE][/B][/COLOR]
+http://itshqip.com/
+
+
+#EXTINF:-1,Super Sonic Tv
+rtmp://str103.setplex.net/228/stv_online
+
+#EXTINF:-1,Zico TV
+http://str105mb.setplex.net:1935/str2iosmd5/zicoTV_652_4dfaa/HasBahCa.m3u8
+
+#EXTINF:-1,Folk Plus
+http://str105mb.setplex.net:1935/str2iosmd5/7ios_folkplus_34564765/HasBahCa.m3u8
+
+#EXTINF:-1,STV folk
+rtmp://str103.setplex.net:1935/228/stv_folk
+
+#EXTINF:-1,ALB uk music
+rtmp://188.138.17.8:1935/albuk/albmus.stream
+
+
+
+
+#EXTINF:-1,[COLOR yellow][B][UPPERCASE]..:: SPORT HD ::.. [/UPPERCASE][/B][/COLOR]
+http://itshqip.com/
+
+
+#EXTINF:-1,SS 1
+http://81.7.13.162/hls/ss1/index.m3u8
+
+#EXTINF:-1,SS 2
+http://81.7.13.162/hls/ss2/index.m3u8
+
+#EXTINF:-1,SS 3
+http://81.7.13.162/hls/ss3/index.m3u8
+
+
+#EXTINF:-1,[COLOR yellow][B][UPPERCASE]..:: TE HUAJA ::.. [/UPPERCASE][/B][/COLOR]
+http://itshqip.com/
+
+
+#EXTINF:0,BBC Sport
+http://93.184.221.133/00573D/1104/1104-0.m3u8
+
+#EXTINF:0,MTV MUSIC TELEVISION
+http://93.184.221.133/00573D/1345/1345-0.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
