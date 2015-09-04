@@ -12,6 +12,16 @@ http://itshqip.com/
 #EXTINF:-1,RTK
 rtmp://wowza.rtkit.com/live/livestream
 
+#EXTINF:-1,Top Chanel 
+#EXTVLCOPT:network-caching=4500 
+http://balkanstream.com/stream/topchanel/mip001/25hsK6Sa9
+
+#EXTINF:-1,TopChannel 
+http://94.100.31.242:8183/hls/TopChannel/index.m3u8
+
+#EXTINF:-1,Film Nje HD
+http://94.100.31.242:8183/hls/film3/index.m3u8
+
 #EXTINF:-1,Klan Kosova 
 http://4.31.30.135:1935/str2iosmd5/10ios_klankosova_56468946/playlist.m3u8
 
@@ -91,11 +101,21 @@ http://itshqip.com/
 #EXTINF:-1,Super Sonic Tv
 rtmp://str103.setplex.net/228/stv_online
 
+#EXTINF:3+ Music HD
+http://live.tv3plushd.com:1935/8008/8008/playlist.m3u8
+
 #EXTINF:-1,Zico TV
 http://str105mb.setplex.net:1935/str2iosmd5/zicoTV_652_4dfaa/HasBahCa.m3u8
 
 #EXTINF:-1,Folk Plus
 http://str105mb.setplex.net:1935/str2iosmd5/7ios_folkplus_34564765/HasBahCa.m3u8
+
+#EXTINF:-1, Folk + 
+#EXTVLCOPT:network-caching=4500 
+http://balkanstream.com/stream/folkplus/mip001/25hsK6Sa9l 
+
+#EXTINF:Super Folk
+http://str105mb.setplex.net:1935/str2iosmd5/11ios_stvfolk_32236215/playlist.m3u8
 
 #EXTINF:-1,STV folk
 rtmp://str103.setplex.net:1935/228/stv_folk
@@ -131,7 +151,54 @@ http://93.184.221.133/00573D/1104/1104-0.m3u8
 http://93.184.221.133/00573D/1345/1345-0.m3u8
 
 
-#EXTINF:-1,[COLOR yellow][B][UPPERCASE]..:: AL NEW LINKS ::.. [/UPPERCASE][/B][/COLOR]
+#EXTINF:-1,[COLOR yellow][B][UPPERCASE]..:: EX-YU CH ::.. [/UPPERCASE][/B][/COLOR]
+
+
+#EXTINF:-1,PINK
+http://www.nasatv.eu:80/live?channelId=22&uid=7&deviceUser=dm800&devicePass=dm800
+
+#EXTINF:-1,PINK 2 - PINK 2
+http://www.nasatv.eu:80/live?channelId=23&uid=7&deviceUser=dm800&devicePass=dm800
+
+#EXTINF:-1,PINK WESTERN - PINK WESTERN
+http://www.nasatv.eu:80/live?channelId=56&uid=7&deviceUser=dm800&devicePass=dm800
+
+#EXTINF:-1,PINK MUSIC - PINK MUSIC
+http://www.nasatv.eu:80/live?channelId=81&uid=7&deviceUser=dm800&devicePass=dm800
+
+#EXTINF:-1,PINK LIVE - PINK LIVE
+http://www.nasatv.eu:80/live?channelId=36&uid=7&deviceUser=dm800&devicePass=dm800
+
+#EXTINF:-1,PINK ZABAVA - PINK ZABAVA
+http://www.nasatv.eu:80/live?channelId=62&uid=7&deviceUser=dm800&devicePass=dm800
+
+#EXTINF:-1,HAPPY - HAPPY TV
+http://edge1.volim.tv/live/happy.stream/playlist.m3u8?hash=2baa99ec4c5c5141cd8d78ca3dfbbb6ece7745dc
+
+#EXTINF:0,HAPPY
+http://edge1.volim.tv/live/happy.stream/playlist.m3u8?hash=41f1c9080b62848336609fcc1aab1f744723af0e
+
+#EXTINF:-1, Tv Klan 
+#EXTVLCOPT:network-caching=4500 
+http://balkanstream.com/stream/tvklan/mip001/25hsK6Sa9l 
+
+#EXTINF:-1, PlusHD 
+#EXTVLCOPT:network-caching=4500 
+http://balkanstream.com/stream/PlusHD/mip001/25hsK6Sa9l
+
+#EXTINF:-1,BB1 HD
+http://94.100.31.242:8183/hls/xz3128/index.m3u8H
+
+#EXTINF:-1,RTCG mms
+mms://195.252.114.172/tvcg
+
+#EXTINF:-1, Tv Klan 
+http://balkanstream.com/stream/tvklan/mip001/25hsK6Sa9l 
+#EXTVLCOPT:network-caching=4500
+
+
+
+
 
 
 
