@@ -114,7 +114,7 @@ http://str105mb.setplex.net:1935/str2iosmd5/7ios_folkplus_34564765/HasBahCa.m3u8
 #EXTVLCOPT:network-caching=4500 
 http://balkanstream.com/stream/folkplus/mip001/25hsK6Sa9l 
 
-#EXTINF:Super Folk
+#EXTINF:-1, Super Folk
 http://str105mb.setplex.net:1935/str2iosmd5/11ios_stvfolk_32236215/playlist.m3u8
 
 #EXTINF:-1,STV folk
