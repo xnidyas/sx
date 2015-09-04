@@ -151,28 +151,28 @@ http://93.184.221.133/00573D/1104/1104-0.m3u8
 http://93.184.221.133/00573D/1345/1345-0.m3u8
 
 
-#EXTINF:-1,[COLOR yellow][B][UPPERCASE]..:: EX-YU CH ::.. [/UPPERCASE][/B][/COLOR]
+#EXTINF:-1,[COLOR yellow][B][UPPERCASE]..:: ExYU CH ::.. [/UPPERCASE][/B][/COLOR]
 
 
 #EXTINF:-1,PINK
 http://www.nasatv.eu:80/live?channelId=22&uid=7&deviceUser=dm800&devicePass=dm800
 
-#EXTINF:-1,PINK 2 - PINK 2
+#EXTINF:-1,PINK 2 
 http://www.nasatv.eu:80/live?channelId=23&uid=7&deviceUser=dm800&devicePass=dm800
 
-#EXTINF:-1,PINK WESTERN - PINK WESTERN
+#EXTINF:-1,PINK WESTERN 
 http://www.nasatv.eu:80/live?channelId=56&uid=7&deviceUser=dm800&devicePass=dm800
 
-#EXTINF:-1,PINK MUSIC - PINK MUSIC
+#EXTINF:-1,PINK MUSIC 
 http://www.nasatv.eu:80/live?channelId=81&uid=7&deviceUser=dm800&devicePass=dm800
 
-#EXTINF:-1,PINK LIVE - PINK LIVE
+#EXTINF:-1,PINK LIVE 
 http://www.nasatv.eu:80/live?channelId=36&uid=7&deviceUser=dm800&devicePass=dm800
 
-#EXTINF:-1,PINK ZABAVA - PINK ZABAVA
+#EXTINF:-1,PINK ZABAVA
 http://www.nasatv.eu:80/live?channelId=62&uid=7&deviceUser=dm800&devicePass=dm800
 
-#EXTINF:-1,HAPPY - HAPPY TV
+#EXTINF:-1,HAPPY 
 http://edge1.volim.tv/live/happy.stream/playlist.m3u8?hash=2baa99ec4c5c5141cd8d78ca3dfbbb6ece7745dc
 
 #EXTINF:0,HAPPY
@@ -196,6 +196,13 @@ mms://195.252.114.172/tvcg
 http://balkanstream.com/stream/tvklan/mip001/25hsK6Sa9l 
 #EXTVLCOPT:network-caching=4500
 
+#EXTINF:0,Tv Klan
+http://balkanstream.com/stream/tvklan/mip001/25hsK6Sa9l
+
+#EXTINF:0, Tv Klan\par
+http://balkanstream.com/stream/tvklan/mip001/25hsK6Sa9l\par
+#EXTM3U\par
+#EXTVLCOPT:network-caching=4500\par
 
 
 
