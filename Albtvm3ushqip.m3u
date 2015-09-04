@@ -101,7 +101,7 @@ http://itshqip.com/
 #EXTINF:-1,Super Sonic Tv
 rtmp://str103.setplex.net/228/stv_online
 
-#EXTINF:3+ Music HD
+#EXTINF:-1,3+ Music HD
 http://live.tv3plushd.com:1935/8008/8008/playlist.m3u8
 
 #EXTINF:-1,Zico TV
