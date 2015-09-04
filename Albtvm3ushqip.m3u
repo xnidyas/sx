@@ -12,10 +12,6 @@ http://itshqip.com/
 #EXTINF:-1,RTK
 rtmp://wowza.rtkit.com/live/livestream
 
-#EXTINF:-1,Top Chanel 
-#EXTVLCOPT:network-caching=4500 
-http://balkanstream.com/stream/topchanel/mip001/25hsK6Sa9
-
 #EXTINF:-1,TopChannel 
 http://94.100.31.242:8183/hls/TopChannel/index.m3u8
 
@@ -25,7 +21,7 @@ http://94.100.31.242:8183/hls/film3/index.m3u8
 #EXTINF:-1,Klan Kosova 
 http://4.31.30.135:1935/str2iosmd5/10ios_klankosova_56468946/playlist.m3u8
 
-#EXTINF:-1,Tvsh
+#EXTINF:-1,Tvsh NA
 http://str105mb.setplex.net:1935/str2iosmd5/tvsh_62554_5hfaa/HasBahCa.m3u8
 
 #EXTINF:-1,Alsat M 2
@@ -150,10 +146,6 @@ http://93.184.221.133/00573D/1104/1104-0.m3u8
 #EXTINF:0,MTV MUSIC TELEVISION
 http://93.184.221.133/00573D/1345/1345-0.m3u8
 
-
-#EXTINF:-1,[COLOR yellow][B][UPPERCASE]..:: ExYU CH ::.. [/UPPERCASE][/B][/COLOR]
-
-
 #EXTINF:-1,PINK
 http://www.nasatv.eu:80/live?channelId=22&uid=7&deviceUser=dm800&devicePass=dm800
 
@@ -178,10 +170,6 @@ http://edge1.volim.tv/live/happy.stream/playlist.m3u8?hash=2baa99ec4c5c5141cd8d7
 #EXTINF:0,HAPPY
 http://edge1.volim.tv/live/happy.stream/playlist.m3u8?hash=41f1c9080b62848336609fcc1aab1f744723af0e
 
-#EXTINF:-1, Tv Klan 
-#EXTVLCOPT:network-caching=4500 
-http://balkanstream.com/stream/tvklan/mip001/25hsK6Sa9l 
-
 #EXTINF:-1, PlusHD 
 #EXTVLCOPT:network-caching=4500 
 http://balkanstream.com/stream/PlusHD/mip001/25hsK6Sa9l
@@ -192,14 +180,18 @@ http://94.100.31.242:8183/hls/xz3128/index.m3u8H
 #EXTINF:-1,RTCG mms
 mms://195.252.114.172/tvcg
 
-#EXTINF:-1, Tv Klan 
+#EXTINF:-1, Tv Klan NA
+#EXTVLCOPT:network-caching=4500 
+http://balkanstream.com/stream/tvklan/mip001/25hsK6Sa9l 
+
+#EXTINF:-1, Tv Klan NA
 http://balkanstream.com/stream/tvklan/mip001/25hsK6Sa9l 
 #EXTVLCOPT:network-caching=4500
 
-#EXTINF:0,Tv Klan
+#EXTINF:0,Tv Klan  NA
 http://balkanstream.com/stream/tvklan/mip001/25hsK6Sa9l
 
-#EXTINF:0, Tv Klan\par
+#EXTINF:0, Tv Klan NA
 http://balkanstream.com/stream/tvklan/mip001/25hsK6Sa9l\par
 #EXTM3U\par
 #EXTVLCOPT:network-caching=4500\par
