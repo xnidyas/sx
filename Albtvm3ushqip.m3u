@@ -7,10 +7,13 @@ http://itshqip.com/
 http://itshqip.com/
 
 #EXTINF:-1,[COLOR yellow][B][UPPERCASE]..:: KRYESORE ::.. [/UPPERCASE][/B][/COLOR]
-http://itshqip.com/
+
 
 #EXTINF:-1,RTK
 rtmp://wowza.rtkit.com/live/livestream
+
+#EXTINF:-1,RTV 21
+http://84.22.33.25/mpeg2_21sd/playlist.m3u8
 
 #EXTINF:-1,TopChannel 
 http://94.100.31.242:8183/hls/TopChannel/index.m3u8
@@ -18,11 +21,14 @@ http://94.100.31.242:8183/hls/TopChannel/index.m3u8
 #EXTINF:-1,Film Nje HD
 http://94.100.31.242:8183/hls/film3/index.m3u8
 
+#EXTINF:-1,TV KLAN
+http://84.22.33.25/mpeg2_klansd/playlist.m3u8
+
 #EXTINF:-1,Klan Kosova 
 http://4.31.30.135:1935/str2iosmd5/10ios_klankosova_56468946/playlist.m3u8
 
-#EXTINF:-1,Tvsh NA
-http://str105mb.setplex.net:1935/str2iosmd5/tvsh_62554_5hfaa/HasBahCa.m3u8
+#EXTINF:-1,TVSH HD
+http://str105mb.setplex.net:1935/str2iosmd5/tvsh_62554_5hfaa/playlist.m3u8
 
 #EXTINF:-1,Alsat M 2
 rtsp://fms.zulu.mk/zulu/alsat_1
@@ -30,23 +36,71 @@ rtsp://fms.zulu.mk/zulu/alsat_1
 #EXTINF:-1,Vision +
 rtmp://live.vizionplus.tv/live//livestream2
 
+#EXTINF:-1,AKSION Film 
+http://94.100.31.242:8183/hls/xz3126/index.m3u8
+
+#EXTINF:-1,CHANNEL 1.
+http://81.7.13.162/hls/channelone/index.m3u8
+
+#EXTINF:-1,RTV CH 7
+http://iphone-streaming.ustream.tv/uhls/13432602/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1,K KOSOVA
+http://84.22.48.253:8080/klanks/test.m3u8
+
+#EXTINF:-1,TRIBUNA
+http://84.22.48.253:8080/tribuna/test.m3u8
+
+#EXTINF:-1,TV JUG.
+http://84.20.77.50:554/live/rtmp.stream/playlist.m3u8
+
+#EXTINF:-1,APOLLON TV
+http://95.107.200.140:554/live/rtmp.stream/playlist.m3u8
+
+#EXTINF:-1,A1 REPORT HD
+http://66.55.93.204/hls-live/livepkgr/_definst_/a1report/a1stream.m3u8
+
+#EXTINF:-1,TV OPOJA
+http://tvopoja.shqiptv.org:1935/8016/8016/playlist.m3u8
 
 #EXTINF:-1,[COLOR yellow][B][UPPERCASE]..:: LOKALE ::.. [/UPPERCASE][/B][/COLOR]
 http://itshqip.com/
 
+#EXTINF:-1,ELBASANI TV
+http://xredinezirix.api.channel.livestream.com/3.0/playlist.m3u8
 
+#EXTINF:-1,ORA NEWS
+http://81.7.13.162/hls/oranews/index.m3u8
+
+#EXTINF:-1,ABC NEWS
+http://xabcalbaniax.api.channel.livestream.com/3.0/playlist.m3u8
+
+#EXTINF:-1,MPT TV
+http://stream.mrt-edge.spectar.tv:1935/mrt-liveedge/_definst_/amlst:dm/hls/video_id/3548/
+
+#EXTINF:-1,ARTA TV
+http://84.22.48.253:8080/artanews/test.m3u8
+
+#EXTINF:-1,BESA TV
+http://rtvbesa.shqiptv.org/8024/8024/index.m3u8
 
 #EXTINF:-1,Syri Vizion
 http://str105mb.setplex.net:1935/str2iosmd5/21ios_tvsyrivis_13226654/HasBahCa.m3u8
 
-#EXTINF:-1,Tv Era
-http://fms.zulu.mk:1935/zulu/era_1/hasbahca.m3u8
+#EXTINF:-1,ERA TV
+http://fms.zulu.mk:554/zulu/era_2/playlist.m3u8
+
+#EXTINF:-1,RROKUM TV
+http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8
 
 #EXTINF:-1,Rrokum Tv
 rtmp://82.114.65.202/live/rrokumtv
 
 #EXTINF:-1,Mktv 2 (Mrt2)
 http://stream.mrt-edge.spectar.tv:1935/mrt-liveedge/_definst_/amlst:dm/hls/video_id/3548/token/bd0b11a4f8d05cc0bffe589f55909615/chunklist_w787058205_b1196000.m3u8
+
+#EXTINF:-1,TIP TV
+http://94.100.31.242:8183/hls/tiptv/index.m3u8
 
 #EXTINF:-1,Tip Tv
 rtmp://arlind.ontv.al:1935/live/tiptv
@@ -61,16 +115,22 @@ http://str105mb.setplex.net:1935/str2iosmd5/stralbinfo_2654_dfs/HasBahCa.m3u8
 http://str105mb.setplex.net:1935/str2iosmd5/20ios_tvdukagjini_2233555/HasBahCa.m3u8
 
 #EXTINF:-1,TV Iliret
+http://str105mb.setplex.net:1935/str2iosmd5/16ios_tviliret_26658914/playlist.m3u8
+
+#EXTINF:-1,TV Iliret
 http://str105mb.setplex.net:1935/str2iosmd5/16ios_tviliret_26658914/HasBahCa.m3u8
 
 #EXTINF:-1,TV Kopliku
-http://str105mb.setplex.net:1935/str2iosmd5/tvkop3542121/HasBahCa.m3u8
+http://str105mb.setplex.net:1935/str2iosmd5/tvkop3542121/playlist.m3u8
 
 #EXTINF:-1,TV Rozafa
 http://str105mb.setplex.net:1935/str2iosmd5/7ios_rozafa_65226289/HasBahCa.m3u8
 
 #EXTINF:-1,TV Teuta
 http://str105mb.setplex.net:1935/str2iosmd5/7ios_tvteuta_34654675644/HasBahCa.m3u8
+
+#EXTINF:-1,ADRIA RTV
+http://iphone-streaming.ustream.tv/uhls/19749870/streams/live/iphone/playlist.m3u8
 
 #EXTINF:0, Alb Uk HD
 rtmp://188.138.17.8:1935/albuk/albuk.stream
@@ -80,7 +140,6 @@ rtmp://188.138.17.8:1935/albuk/albuk+.stream
 
 
 #EXTINF:-1,[COLOR yellow][B][UPPERCASE]..:: PER FEMIJE ::.. [/UPPERCASE][/B][/COLOR]
-http://itshqip.com/
 
 
 #EXTINF:-1,Tring Tring
@@ -89,10 +148,15 @@ rtmp://arlind.ontv.al:1935/live/tringtring
 #EXTINF:-1,Bang Bang 
 rtmp://arlind.ontv.al:1935/live/bangbang
 
+#EXTINF:-1,CUFO TV KIDS
+http://94.100.31.242:8183/hls/xz3123/index.m3u8
+
 
 #EXTINF:-1,[COLOR yellow][B][UPPERCASE]..:: MUZIKE ::..  [/UPPERCASE][/B][/COLOR]
 http://itshqip.com/
 
+#EXTINF:-1,3+HD MUSIC
+http://3plus.shqiptv.org:1935/8008/8008/playlist.m3u8
 
 #EXTINF:-1,Super Sonic Tv
 rtmp://str103.setplex.net/228/stv_online
@@ -100,11 +164,32 @@ rtmp://str103.setplex.net/228/stv_online
 #EXTINF:-1, RTV Sharri HD
 http://tvopoja.shqiptv.org:1935/8006/8006/playlist.m3u8
 
+#EXTINF:-1,BlueSky TV Muzik
+http://str105mb.setplex.net:1935/str2iosmd5/blueskytv_265265_266548/playlist.m3u8
+
+#EXTINF:-1,ALB Music HD
+http://188.138.17.8:1935/albuk/albmus.stream/index.m3u8
+
+#EXTINF:-1,ALB MUSIC HD
+http://str105mb.setplex.net:1935/str2iosmd5/alb_music/playlist.m3u8
+
 #EXTINF:-1,3+ Music HD
 http://live.tv3plushd.com:1935/8008/8008/playlist.m3u8
 
+#EXTINF:-1,STV HD Music
+http://str103.setplex.net:1935/228/stv_online/playlist.m3u8
+
+#EXTINF:-1,ZICO TV
+http://str105mb.setplex.net:1935/str2iosmd5/zicoTV_652_4dfaa/playlist.m3u8
+
 #EXTINF:-1,Zico TV
 http://str105mb.setplex.net:1935/str2iosmd5/zicoTV_652_4dfaa/HasBahCa.m3u8
+
+#EXTINF:-1,Gurra TV Muzik
+http://iphone-streaming.ustream.tv/uhls/18868686/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1,CHANNEL 1 MUSIC
+http://xtv1channelshkoderx.api.channel.livestream.com/3.0/playlist.m3u8
 
 #EXTINF:-1,Folk Plus
 http://str105mb.setplex.net:1935/str2iosmd5/7ios_folkplus_34564765/HasBahCa.m3u8
@@ -122,20 +207,26 @@ rtmp://str103.setplex.net:1935/228/stv_folk
 #EXTINF:-1,ALB uk music
 rtmp://188.138.17.8:1935/albuk/albmus.stream
 
+#EXTINF:-1,MAD TV Muzik
+http://37.26.81.188:1935/live/livestream/playlist.m3u8
 
+#EXTINF:-1,ALPO TV Muzik
+http://iphone-streaming.ustream.tv/uhls/16296244/streams/live/iphone/playlist.m3u8
 
 
 #EXTINF:-1,[COLOR yellow][B][UPPERCASE]..:: SPORT HD ::.. [/UPPERCASE][/B][/COLOR]
-http://itshqip.com/
 
 
-#EXTINF:-1,SS 1
+#EXTINF:-1,SS 1 HD
 http://81.7.13.162/hls/ss1/index.m3u8
 
-#EXTINF:-1,SS 2
+#EXTINF:-1,SS 2 HD
 http://81.7.13.162/hls/ss2/index.m3u8
 
-#EXTINF:-1,SS 3
+#EXTINF:-1,SUPER SPORT 2 HD
+http://94.100.31.242:8183/hls/Sport2/index.m3u8
+
+#EXTINF:-1,SS 3 HD
 http://81.7.13.162/hls/ss3/index.m3u8
 
 
@@ -183,21 +274,6 @@ http://94.100.31.242:8183/hls/xz3128/index.m3u8H
 #EXTINF:-1,RTCG mms
 mms://195.252.114.172/tvcg
 
-#EXTINF:-1, Tv Klan NA
-#EXTVLCOPT:network-caching=4500 
-http://balkanstream.com/stream/tvklan/mip001/25hsK6Sa9l 
-
-#EXTINF:-1, Tv Klan NA
-http://balkanstream.com/stream/tvklan/mip001/25hsK6Sa9l 
-#EXTVLCOPT:network-caching=4500
-
-#EXTINF:0,Tv Klan  NA
-http://balkanstream.com/stream/tvklan/mip001/25hsK6Sa9l
-
-#EXTINF:0, Tv Klan NA
-http://balkanstream.com/stream/tvklan/mip001/25hsK6Sa9l\par
-#EXTM3U\par
-#EXTVLCOPT:network-caching=4500\par
 
 
 
