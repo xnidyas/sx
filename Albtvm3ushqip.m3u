@@ -97,6 +97,9 @@ http://itshqip.com/
 #EXTINF:-1,Super Sonic Tv
 rtmp://str103.setplex.net/228/stv_online
 
+#EXTINF:-1, RTV Sharri HD
+http://tvopoja.shqiptv.org:1935/8006/8006/playlist.m3u8
+
 #EXTINF:-1,3+ Music HD
 http://live.tv3plushd.com:1935/8008/8008/playlist.m3u8
 
