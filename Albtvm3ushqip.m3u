@@ -161,6 +161,9 @@ http://itshqip.com/
 #EXTINF:-1,3+HD MUSIC
 http://3plus.shqiptv.org:1935/8008/8008/playlist.m3u8
 
+#EXTINF:-1,3+HD MUSIC
+http://live.tv3plushd.com:1935/8008/8008/playlist.m3u8
+
 #EXTINF:-1,Super Sonic Tv
 rtmp://str103.setplex.net/228/stv_online
 
@@ -176,9 +179,6 @@ http://188.138.17.8:1935/albuk/albmus.stream/index.m3u8
 #EXTINF:-1,ALB MUSIC HD
 http://str105mb.setplex.net:1935/str2iosmd5/alb_music/playlist.m3u8
 
-#EXTINF:-1,3+ Music HD
-http://live.tv3plushd.com:1935/8008/8008/playlist.m3u8
-
 #EXTINF:-1,STV HD Music
 http://str103.setplex.net:1935/228/stv_online/playlist.m3u8
 
@@ -186,7 +186,7 @@ http://str103.setplex.net:1935/228/stv_online/playlist.m3u8
 http://str105mb.setplex.net:1935/str2iosmd5/zicoTV_652_4dfaa/playlist.m3u8
 
 #EXTINF:-1,Zico TV
-http://str105mb.setplex.net:1935/str2iosmd5/zicoTV_652_4dfaa/HasBahCa.m3u8
+http://str105mb.setplex.net:1935/str2iosmd5/zicoTV_652_4dfaa/playlist.m3u8
 
 #EXTINF:-1,Gurra TV Muzik
 http://iphone-streaming.ustream.tv/uhls/18868686/streams/live/iphone/playlist.m3u8
@@ -195,7 +195,7 @@ http://iphone-streaming.ustream.tv/uhls/18868686/streams/live/iphone/playlist.m3
 http://xtv1channelshkoderx.api.channel.livestream.com/3.0/playlist.m3u8
 
 #EXTINF:-1,Folk Plus
-http://str105mb.setplex.net:1935/str2iosmd5/7ios_folkplus_34564765/HasBahCa.m3u8
+http://str105mb.setplex.net:1935/str2iosmd5/7ios_folkplus_34564765/playlist.m3u8
 
 #EXTINF:-1, Folk + 
 #EXTVLCOPT:network-caching=4500 
@@ -231,6 +231,9 @@ http://94.100.31.242:8183/hls/Sport2/index.m3u8
 
 #EXTINF:-1,SS 3 HD
 http://81.7.13.162/hls/ss3/index.m3u8
+
+#EXTINF:-1,SS 3 HD
+http://94.100.31.242:8183/hls/Sport3/index.m3u8
 
 
 #EXTINF:-1,[COLOR yellow][B][UPPERCASE]..:: TE HUAJA ::.. [/UPPERCASE][/B][/COLOR]
