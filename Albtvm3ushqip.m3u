@@ -221,7 +221,7 @@ http://iphone-streaming.ustream.tv/uhls/16296244/streams/live/iphone/playlist.m3
 
 
 #EXTINF:-1,SS 1 HD
-http://81.7.13.162/hls/ss1/index.m3u8
+http://80.80.160.201/http_livestr.m3u8?id=ssnews
 
 #EXTINF:-1,SS 2 HD
 http://81.7.13.162/hls/ss2/index.m3u8
