@@ -294,8 +294,13 @@ http://str105mb.setplex.net:1935/st3fstv/4ios_Federalna_974816/playlist.m3u8
 #EXTINF:-1,Atlas TV SRB 
 rtmp://92.60.234.98:1935/live/myStream
 
+#EXTM3U
 #EXTINF:-1,Music Serbshit
 rtmp://46.249.95.140:80/live/livestream
+
+#EXTM3U
+#EXTINF:-1,Music Serbshit
+http://46.249.95.140:80/live/livestream/playlist.m3u8
 
 #EXTINF:-1,RTS SATELIT SRB
 rtsp://195.252.113.40/rts
