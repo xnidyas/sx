@@ -138,6 +138,9 @@ rtmp://188.138.17.8:1935/albuk/albuk.stream
 #EXTINF:0, Alb Uk Plus
 rtmp://188.138.17.8:1935/albuk/albuk+.stream
 
+#EXTINF:-1, PlusHD 
+#EXTVLCOPT:network-caching=4500 
+http://balkanstream.com/stream/PlusHD/mip001/25hsK6Sa9l
 
 #EXTINF:-1,[COLOR yellow][B][UPPERCASE]..:: PER FEMIJE ::.. [/UPPERCASE][/B][/COLOR]
 
@@ -264,15 +267,43 @@ http://edge1.volim.tv/live/happy.stream/playlist.m3u8?hash=2baa99ec4c5c5141cd8d7
 #EXTINF:0,HAPPY
 http://edge1.volim.tv/live/happy.stream/playlist.m3u8?hash=41f1c9080b62848336609fcc1aab1f744723af0e
 
-#EXTINF:-1, PlusHD 
-#EXTVLCOPT:network-caching=4500 
-http://balkanstream.com/stream/PlusHD/mip001/25hsK6Sa9l
-
 #EXTINF:-1,BB1 HD
 http://94.100.31.242:8183/hls/xz3128/index.m3u8H
 
 #EXTINF:-1,RTCG mms
 mms://195.252.114.172/tvcg
+
+#EXTINF:-1,SAT TVCG
+rtsp://beotelmedia.beotel.net/tvcg
+
+#EXTINF:-1, AL Jazeera Balkan
+rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live?videoId=1258549906001&pubId=/aljazeera_balkans_high
+
+#EXTINF:-1,NOVA SPORT
+http://lag1.tv-mobile.org/prgp.m3u8
+
+#EXTINF:-1,B92 SRB
+http://stream.b92.net:7999/tv-b92.ogg
+
+#EXTINF:-1,CRO H1
+rtmp://hugo-iptv.zapto.org/live/h1
+
+#EXTINF:-1,Federalna HR
+http://str105mb.setplex.net:1935/st3fstv/4ios_Federalna_974816/playlist.m3u8
+
+#EXTINF:-1,Atlas TV SRB 
+rtmp://92.60.234.98:1935/live/myStream
+
+#EXTINF:-1,Music Serbshit
+rtmp://46.249.95.140:80/live/livestream
+
+#EXTINF:-1,RTS SATELIT SRB
+rtsp://195.252.113.40/rts
+
+#EXTINF:-1,RTRS SRB
+http://edge1.volim.tv/live/rtrs.stream/HasBahCa.m3u8?hash=206dc563f74bad817eb851dced9cd089b71b7a3f
+
+
 
 
 
