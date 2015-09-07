@@ -270,6 +270,9 @@ http://edge1.volim.tv/live/happy.stream/playlist.m3u8?hash=2baa99ec4c5c5141cd8d7
 #EXTINF:0,HAPPY
 http://edge1.volim.tv/live/happy.stream/playlist.m3u8?hash=41f1c9080b62848336609fcc1aab1f744723af0e
 
+#EXTINF:0,TV PRVA
+http://edge1.volim.tv/live/prva.stream/playlist.m3u8?hash=90df8700863cdf89ca0d31e74377ea58f060e02e
+
 #EXTINF:-1,BB1 HD
 http://94.100.31.242:8183/hls/xz3128/index.m3u8H
 
@@ -300,10 +303,6 @@ rtmp://92.60.234.98:1935/live/myStream
 #EXTM3U
 #EXTINF:-1,Music Serbshit
 rtmp://46.249.95.140:80/live/livestream
-
-#EXTM3U
-#EXTINF:-1,Music Serbshit
-http://46.249.95.140:80/live/livestream/playlist.m3u8
 
 #EXTINF:-1,RTS SATELIT SRB
 rtsp://195.252.113.40/rts
