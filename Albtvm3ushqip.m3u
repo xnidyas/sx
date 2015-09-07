@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1,[COLOR blue][B][UPPERCASE]..:: ALBTV - BES ::.. [/UPPERCASE][/B][/COLOR][COLOR red][B][UPPERCASE]Programe shqip nga platformat Tring&Digitalb[/UPPERCASE][/B][/COLOR]
-http://itshqip.com/
+HDTV
 
 
-#EXTINF:-1,[COLOR red][B][UPPERCASE]itshqip.com [/UPPERCASE][/B][/COLOR][COLOR white][B][UPPERCASE]&[/UPPERCASE][/B][/COLOR][COLOR blue][B][UPPERCASE]it.com.al [/UPPERCASE][/B][/COLOR]
-http://itshqip.com/
+#EXTINF:-1,[COLOR red][B][UPPERCASE]itshqip.com [/UPPERCASE][/B][/COLOR][COLOR white][B][UPPERCASE]&[/UPPERCASE][/B][/COLOR][COLOR blue][B][UPPERCASE] SHQIP [/UPPERCASE][/B][/COLOR]
+ TV HDTV
 
 #EXTINF:-1,[COLOR yellow][B][UPPERCASE]..:: KRYESORE ::.. [/UPPERCASE][/B][/COLOR]
 
@@ -226,15 +226,8 @@ http://80.80.160.201/http_livestr.m3u8?id=ssnews
 #EXTINF:-1,SS 2 HD
 http://81.7.13.162/hls/ss2/index.m3u8
 
-#EXTINF:-1,SUPER SPORT 2 HD
-http://94.100.31.242:8183/hls/Sport2/index.m3u8
-
 #EXTINF:-1,SS 3 HD
 http://81.7.13.162/hls/ss3/index.m3u8
-
-#EXTINF:-1,SS 3 HD
-http://94.100.31.242:8183/hls/Sport3/index.m3u8
-
 
 #EXTINF:-1,[COLOR yellow][B][UPPERCASE]..:: TE HUAJA ::.. [/UPPERCASE][/B][/COLOR]
 http://itshqip.com/
