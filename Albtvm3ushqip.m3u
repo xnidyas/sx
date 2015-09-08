@@ -233,11 +233,11 @@ http://81.7.13.162/hls/ss3/index.m3u8
 http://itshqip.com/
 
 
-#EXTINF:0,BBC Sport
-http://93.184.221.133/00573D/1104/1104-0.m3u8
+#EXTINF:0,Balkan RTV
+rtmp://yayin.tvdunyasi.tv/live/balkanrtv
 
-#EXTINF:0,MTV MUSIC TELEVISION
-http://93.184.221.133/00573D/1345/1345-0.m3u8
+#EXTINF:0,NFL NETWORK
+http://nflsvgatlgame3-i.akamaihd.net/hls/live/223175/NFL_Mobile/2015Mobile_NFLN_200k.m3u8
 
 #EXTINF:-1,PINK
 http://www.nasatv.eu:80/live?channelId=22&uid=7&deviceUser=dm800&devicePass=dm800
@@ -280,8 +280,8 @@ rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live?videoId=125854990
 
 #EXTM3U
 #EXTVLCOPT:network-caching=4500
-#EXTINF:-1, AL Jazeera Balkan
-rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_balkans_high
+#EXTINF:-1, Europa + Live
+http://europaplus.cdnvideo.ru:1935/europaplus-live/eptv_main.sdp/playlist.m3u8
 
 #EXTINF:-1,NOVA SPORT
 http://lag1.tv-mobile.org/prgp.m3u8
