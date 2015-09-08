@@ -22,7 +22,8 @@ http://94.100.31.242:8183/hls/TopChannel/index.m3u8
 http://94.100.31.242:8183/hls/film3/index.m3u8
 
 #EXTINF:-1,TV KLAN
-http://84.22.33.25/mpeg2_klansd/playlist.m3u8
+http://akamai230.tibo.tv/apk230httpT/klanhd.stream_360p/playlist.m3u8
+
 
 #EXTINF:-1,Klan Kosova 
 http://4.31.30.135:1935/str2iosmd5/10ios_klankosova_56468946/playlist.m3u8
@@ -308,7 +309,6 @@ rtsp://195.252.113.40/rts
 
 #EXTINF:-1,RTRS SRB
 http://edge1.volim.tv/live/rtrs.stream/HasBahCa.m3u8?hash=206dc563f74bad817eb851dced9cd089b71b7a3f
-
 
 
 
