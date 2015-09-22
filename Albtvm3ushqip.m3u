@@ -3,36 +3,29 @@
 HDTV
 
 
-#EXTINF:-1,[COLOR red][B][UPPERCASE]itshqip.com [/UPPERCASE][/B][/COLOR][COLOR white][B][UPPERCASE]&[/UPPERCASE][/B][/COLOR][COLOR blue][B][UPPERCASE] SHQIP [/UPPERCASE][/B][/COLOR]
+#EXTINF:-1,[COLOR red][B][UPPERCASE] BESTVHD [/UPPERCASE][/B][/COLOR][COLOR white][B][UPPERCASE]&[/UPPERCASE][/B][/COLOR][COLOR blue][B][UPPERCASE] SHQIP [/UPPERCASE][/B][/COLOR]
  TV HDTV
 
 #EXTINF:-1,[COLOR yellow][B][UPPERCASE]..:: KRYESORE ::.. [/UPPERCASE][/B][/COLOR]
 
 
-#EXTINF:-1,RTK
-rtmp://wowza.rtkit.com/live/livestream
+#EXTINF:-1,KLAN KOSOVA
+http://84.22.48.253:8080/klanks/test.m3u8
 
 #EXTINF:-1,RTV 21
-http://84.22.33.25/mpeg2_21sd/playlist.m3u8
+http://tring-amd-live.tring.tv/out/u/98_42.m3u8
 
 #EXTINF:-1,TopChannel 
-http://94.100.31.242:8183/hls/TopChannel/index.m3u8
+http://tring-amd-live.tring.tv/out/u/55_12.m3u8
 
 #EXTINF:-1,Film Nje HD
 http://94.100.31.242:8183/hls/film3/index.m3u8
 
 #EXTINF:-1,TV KLAN
-http://akamai230.tibo.tv/apk230httpT/klanhd.stream_360p/playlist.m3u8
-
-
-#EXTINF:-1,Klan Kosova 
-http://4.31.30.135:1935/str2iosmd5/10ios_klankosova_56468946/playlist.m3u8
+http://tring-amd-live.tring.tv/out/u/57_20.m3u8
 
 #EXTINF:-1,TVSH HD
 http://str105mb.setplex.net:1935/str2iosmd5/tvsh_62554_5hfaa/playlist.m3u8
-
-#EXTINF:-1,Alsat M 2
-rtsp://fms.zulu.mk/zulu/alsat_1
 
 #EXTINF:-1,Vision +
 rtmp://live.vizionplus.tv/live//livestream2
@@ -65,7 +58,7 @@ http://66.55.93.204/hls-live/livepkgr/_definst_/a1report/a1stream.m3u8
 http://tvopoja.shqiptv.org:1935/8016/8016/playlist.m3u8
 
 #EXTINF:-1,[COLOR yellow][B][UPPERCASE]..:: LOKALE ::.. [/UPPERCASE][/B][/COLOR]
-http://itshqip.com/
+
 
 #EXTINF:-1,ELBASANI TV
 http://xredinezirix.api.channel.livestream.com/3.0/playlist.m3u8
@@ -157,7 +150,7 @@ http://94.100.31.242:8183/hls/xz3123/index.m3u8
 
 
 #EXTINF:-1,[COLOR yellow][B][UPPERCASE]..:: MUZIKE ::..  [/UPPERCASE][/B][/COLOR]
-http://itshqip.com/
+
 
 #EXTINF:-1,3+HD MUSIC
 http://3plus.shqiptv.org:1935/8008/8008/playlist.m3u8
@@ -174,6 +167,9 @@ http://tvopoja.shqiptv.org:1935/8006/8006/playlist.m3u8
 #EXTINF:-1,BlueSky TV Muzik
 http://str105mb.setplex.net:1935/str2iosmd5/blueskytv_265265_266548/playlist.m3u8
 
+#EXTINF:-1,Alsat M 2
+rtsp://fms.zulu.mk/zulu/alsat_1
+
 #EXTINF:-1,ALB Music HD
 http://188.138.17.8:1935/albuk/albmus.stream/index.m3u8
 
@@ -184,9 +180,6 @@ http://str105mb.setplex.net:1935/str2iosmd5/alb_music/playlist.m3u8
 http://str103.setplex.net:1935/228/stv_online/playlist.m3u8
 
 #EXTINF:-1,ZICO TV
-http://str105mb.setplex.net:1935/str2iosmd5/zicoTV_652_4dfaa/playlist.m3u8
-
-#EXTINF:-1,Zico TV
 http://str105mb.setplex.net:1935/str2iosmd5/zicoTV_652_4dfaa/playlist.m3u8
 
 #EXTINF:-1,Gurra TV Muzik
@@ -230,6 +223,16 @@ http://81.7.13.162/hls/ss2/index.m3u8
 #EXTINF:-1,SS 3 HD
 http://81.7.13.162/hls/ss3/index.m3u8
 
+#EXTINF:-1, SPORT NEWS HD
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
+
+#EXTINF:-1, SPORT 2 HD
+http://tring-amd-live.tring.tv/out/u/87_95.m3u8
+
+#EXTINF:-1, SPORT 3 HD
+http://tring-amd-live.tring.tv/out/u/86_101.m3u8
+
+
 #EXTINF:-1,[COLOR yellow][B][UPPERCASE]..:: TE HUAJA ::.. [/UPPERCASE][/B][/COLOR]
 http://itshqip.com/
 
@@ -246,11 +249,14 @@ http://www.nasatv.eu:80/live?channelId=22&uid=7&deviceUser=dm800&devicePass=dm80
 #EXTINF:-1,PINK 2 
 http://www.nasatv.eu:80/live?channelId=23&uid=7&deviceUser=dm800&devicePass=dm800
 
-#EXTINF:-1,PINK WESTERN 
-http://www.nasatv.eu:80/live?channelId=56&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,PINK CLASSIC
+http://178.253.194.68:1935/liveloworigin/pinkclassic.stream/playlist.m3u8
 
 #EXTINF:-1,PINK MUSIC 
-http://www.nasatv.eu:80/live?channelId=81&uid=7&deviceUser=dm800&devicePass=dm800
+http://178.253.194.68:1935/liveloworigin/pinkmusic.stream/playlist.m3u8
+
+#EXTINF:0,Pink Music 2
+http://178.253.194.68:1935/liveloworigin/pinkmusic2.stream/playlist.m3u8
 
 #EXTINF:-1,PINK LIVE 
 http://www.nasatv.eu:80/live?channelId=36&uid=7&deviceUser=dm800&devicePass=dm800
@@ -309,6 +315,44 @@ rtsp://195.252.113.40/rts
 
 #EXTINF:-1,RTRS SRB
 http://edge1.volim.tv/live/rtrs.stream/HasBahCa.m3u8?hash=206dc563f74bad817eb851dced9cd089b71b7a3f
+
+#EXTINF:-1,[COLOR yellow][B][UPPERCASE]..:: PINK CHANNELS ::.. [/UPPERCASE][/B][/COLOR]
+
+
+#EXTINF:0,Pink Horror
+http://178.253.194.68:1935/liveloworigin/pinkhorror.stream/playlist.m3u8
+#EXTINF:0,Pink Pedia
+http://178.253.194.68:1935/liveloworigin/pinkpedia.stream/playlist.m3u8
+#EXTINF:0,Pink Comedy
+http://178.253.194.68:1935/liveloworigin/pinkcomedy.stream/playlist.m3u8
+#EXTINF:0,Pink Premium
+http://178.253.194.68:1935/liveloworigin/pinkpremium.stream/playlist.m3u8
+#EXTINF:0,Pink Reality
+http://178.253.194.68:1935/liveloworigin/pinkreality.stream/playlist.m3u8
+#EXTINF:0,Pink Film
+http://178.253.194.68:1935/liveloworigin/pinkfilm.stream/playlist.m3u8
+#EXTINF:0,Pink Classic
+http://178.253.194.68:1935/liveloworigin/pinkclassic.stream/playlist.m3u8
+#EXTINF:0,Pink Kids
+http://178.253.194.68:1935/liveloworigin/pinkkids.stream/playlist.m3u8
+#EXTINF:0,Pink Movies
+http://109.206.96.129:1935/live/pinkmovies.stream/playlist.m3u8
+#EXTINF:0,Pink Action
+http://178.253.194.68:1935/liveloworigin/pinkaction.stream/playlist.m3u8
+#EXTINF:0,Pink 2
+http://178.253.194.68:1935/liveloworigin/pink2.stream/playlist.m3u8
+#EXTINF:0,Pink Family
+http://178.253.194.68:1935/liveloworigin/pinkfamily.stream/playlist.m3u8
+#EXTINF:0,Pink Fashion
+http://178.253.194.68:1935/liveloworigin/pinkfashion.stream/playlist.m3u8
+#EXTINF:0,Pink Music
+http://178.253.194.68:1935/liveloworigin/pinkmusic.stream/playlist.m3u8
+#EXTINF:0,Pink Music 2
+http://178.253.194.68:1935/liveloworigin/pinkmusic2.stream/playlist.m3u8
+#EXTINF:0,Pink BH
+http://178.253.194.68:1935/liveloworigin/pinkbih.stream/playlist.m3u8
+#EXTINF:0,Pink Kids
+http://178.253.194.68:1935/liveloworigin/pinkkids.stream/playlist.m3u8
 
 
 
