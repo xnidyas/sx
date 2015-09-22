@@ -3,11 +3,11 @@
 HDTV
 
 
-#EXTINF:-1,[COLOR red][B][UPPERCASE] * [/UPPERCASE][/B][/COLOR][COLOR white][B][UPPERCASE]&[/UPPERCASE][/B][/COLOR][COLOR blue][B][UPPERCASE] SHQIP [/UPPERCASE][/B][/COLOR]
- TV HDTV
+#EXTINF:-1,[COLOR red][B][UPPERCASE] * [/UPPERCASE][/B][/COLOR][COLOR white][B][UPPERCASE][/UPPERCASE][/B][/COLOR][COLOR blue][B][UPPERCASE] SHQIP [/UPPERCASE][/B][/COLOR]
+ TV HDTV *
 
 #EXTINF:-1,[COLOR yellow][B][UPPERCASE]..:: KRYESORE ::.. [/UPPERCASE][/B][/COLOR]
-
+http://www.google.com/
 
 #EXTINF:-1,KLAN KOSOVA
 http://84.22.48.253:8080/klanks/test.m3u8
@@ -63,8 +63,8 @@ http://66.55.93.204/hls-live/livepkgr/_definst_/a1report/a1stream.m3u8
 #EXTINF:-1,TV OPOJA
 http://tvopoja.shqiptv.org:1935/8016/8016/playlist.m3u8
 
-#EXTINF:-1,[COLOR yellow][B][UPPERCASE]..:: LOKALE ::.. [/UPPERCASE][/B][/COLOR]
-
+#EXTINF:-1,[COLOR orange][B][UPPERCASE]..:: LOKALE ::.. [/UPPERCASE][/B][/COLOR]
+http://www.google.com/
 
 #EXTINF:-1,ELBASANI TV
 http://xredinezirix.api.channel.livestream.com/3.0/playlist.m3u8
@@ -142,8 +142,8 @@ rtmp://188.138.17.8:1935/albuk/albuk+.stream
 #EXTVLCOPT:network-caching=4500 
 http://balkanstream.com/stream/PlusHD/mip001/25hsK6Sa9l
 
-#EXTINF:-1,[COLOR yellow][B][UPPERCASE]..:: PER FEMIJE ::.. [/UPPERCASE][/B][/COLOR]
-
+#EXTINF:-1,[COLOR brown][B][UPPERCASE]..:: PER FEMIJE ::.. [/UPPERCASE][/B][/COLOR]
+http://www.google.com/
 
 #EXTINF:-1,Tring Tring
 rtmp://arlind.ontv.al:1935/live/tringtring
@@ -155,26 +155,23 @@ rtmp://arlind.ontv.al:1935/live/bangbang
 http://94.100.31.242:8183/hls/xz3123/index.m3u8
 
 
-#EXTINF:-1,[COLOR yellow][B][UPPERCASE]..:: MUZIKE ::..  [/UPPERCASE][/B][/COLOR]
-
-
-#EXTINF:-1,3+HD MUSIC
-http://3plus.shqiptv.org:1935/8008/8008/playlist.m3u8
-
-#EXTINF:-1,3+HD MUSIC
-http://live.tv3plushd.com:1935/8008/8008/playlist.m3u8
-
-#EXTINF:-1,Super Sonic Tv
-rtmp://str103.setplex.net/228/stv_online
+#EXTINF:-1,[COLOR silver][B][UPPERCASE]..:: MUZIKE ::..  [/UPPERCASE][/B][/COLOR]
+http://www.google.com/
 
 #EXTINF:-1, RTV Sharri HD
 http://tvopoja.shqiptv.org:1935/8006/8006/playlist.m3u8
 
-#EXTINF:-1,BlueSky TV Muzik
-http://str105mb.setplex.net:1935/str2iosmd5/blueskytv_265265_266548/playlist.m3u8
-
 #EXTINF:-1, TIRANA TV HD
 http://tring-amd-live.tring.tv/out/u/90_77.m3u8
+
+#EXTINF:-1,3+HD MUSIC
+http://3plus.shqiptv.org:1935/8008/8008/playlist.m3u8
+
+#EXTINF:-1,Super Sonic Tv
+rtmp://str103.setplex.net/228/stv_online
+
+#EXTINF:-1,BlueSky TV Muzik
+http://str105mb.setplex.net:1935/str2iosmd5/blueskytv_265265_266548/playlist.m3u8
 
 #EXTINF:-1,Alsat M 2
  http://tring-amd-live.tring.tv/out/u/61_33.m3u8
@@ -220,7 +217,7 @@ http://37.26.81.188:1935/live/livestream/playlist.m3u8
 http://iphone-streaming.ustream.tv/uhls/16296244/streams/live/iphone/playlist.m3u8
 
 
-#EXTINF:-1,[COLOR red][B][UPPERCASE]..:: SPORT HD ::.. [/UPPERCASE][/B][/COLOR]
+#EXTINF:-1,[COLOR blue][B][UPPERCASE]..:: SPORT HD ::.. [/UPPERCASE][/B][/COLOR]
 http://www.google.com/
 
 #EXTINF:-1,SS 1 HD
@@ -244,7 +241,7 @@ http://tring-amd-live.tring.tv/out/u/86_101.m3u8
 #EXTINF:-1,RTSH Sport
 http://tring-amd-live.tring.tv/out/u/89_87.m3u8
 
-#EXTINF:-1,[COLOR yellow][B][UPPERCASE]..:: TE HUAJA ::.. [/UPPERCASE][/B][/COLOR]
+#EXTINF:-1,[COLOR green][B][UPPERCASE]..:: TE HUAJA ::.. [/UPPERCASE][/B][/COLOR]
 http://www.google.com/
 
 
@@ -316,7 +313,7 @@ rtsp://195.252.113.40/rts
 #EXTINF:-1,RTRS SRB
 http://edge1.volim.tv/live/rtrs.stream/HasBahCa.m3u8?hash=206dc563f74bad817eb851dced9cd089b71b7a3f
 
-#EXTINF:-1,[COLOR pink][B][UPPERCASE]..:: PINK CHANNELS ::.. [/UPPERCASE][/B][/COLOR]
+#EXTINF:-1,[COLOR pink][B][UPPERCASE]..:: PINK TV 9/20/15 ::.. [/UPPERCASE][/B][/COLOR]
 http://www.google.com/
 
 #EXTINF:0,Pink Horror
