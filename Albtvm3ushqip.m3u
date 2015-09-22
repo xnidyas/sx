@@ -172,7 +172,10 @@ rtmp://str103.setplex.net/228/stv_online
 http://str105mb.setplex.net:1935/str2iosmd5/blueskytv_265265_266548/playlist.m3u8
 
 #EXTINF:-1,Alsat M 2
- http://tring-amd-live.tring.tv/out/u/61_33.m3u8
+http://tring-amd-live.tring.tv/out/u/61_33.m3u8
+
+#EXTINF:-1, RTV ISLAM
+http://77.242.21.140:8090/live.flv
 
 #EXTINF:-1,ALB Music HD
 http://188.138.17.8:1935/albuk/albmus.stream/index.m3u8
