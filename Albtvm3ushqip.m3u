@@ -3,7 +3,7 @@
 HDTV
 
 
-#EXTINF:-1,[COLOR red][B][UPPERCASE] BESTVHD [/UPPERCASE][/B][/COLOR][COLOR white][B][UPPERCASE]&[/UPPERCASE][/B][/COLOR][COLOR blue][B][UPPERCASE] SHQIP [/UPPERCASE][/B][/COLOR]
+#EXTINF:-1,[COLOR red][B][UPPERCASE] * [/UPPERCASE][/B][/COLOR][COLOR white][B][UPPERCASE]&[/UPPERCASE][/B][/COLOR][COLOR blue][B][UPPERCASE] SHQIP [/UPPERCASE][/B][/COLOR]
  TV HDTV
 
 #EXTINF:-1,[COLOR yellow][B][UPPERCASE]..:: KRYESORE ::.. [/UPPERCASE][/B][/COLOR]
@@ -26,6 +26,12 @@ http://tring-amd-live.tring.tv/out/u/57_20.m3u8
 
 #EXTINF:-1,TVSH HD
 http://str105mb.setplex.net:1935/str2iosmd5/tvsh_62554_5hfaa/playlist.m3u8
+
+#EXTINF:-1,TVSH HD
+http://tring-amd-live.tring.tv/out/u/56_17.m3u8
+
+#EXTINF:-1,RTVSH HD
+http://tring-amd-live.tring.tv/out/u/108_17.m3u8
 
 #EXTINF:-1,Vision +
 rtmp://live.vizionplus.tv/live//livestream2
@@ -62,6 +68,9 @@ http://tvopoja.shqiptv.org:1935/8016/8016/playlist.m3u8
 
 #EXTINF:-1,ELBASANI TV
 http://xredinezirix.api.channel.livestream.com/3.0/playlist.m3u8
+
+#EXTINF:-1, NEWS 24
+ http://tring-amd-live.tring.tv/out/u/97_62.m3u8
 
 #EXTINF:-1,ORA NEWS
 http://81.7.13.162/hls/oranews/index.m3u8
@@ -110,9 +119,6 @@ http://str105mb.setplex.net:1935/str2iosmd5/20ios_tvdukagjini_2233555/HasBahCa.m
 
 #EXTINF:-1,TV Iliret
 http://str105mb.setplex.net:1935/str2iosmd5/16ios_tviliret_26658914/playlist.m3u8
-
-#EXTINF:-1,TV Iliret
-http://str105mb.setplex.net:1935/str2iosmd5/16ios_tviliret_26658914/HasBahCa.m3u8
 
 #EXTINF:-1,TV Kopliku
 http://str105mb.setplex.net:1935/str2iosmd5/tvkop3542121/playlist.m3u8
@@ -167,8 +173,11 @@ http://tvopoja.shqiptv.org:1935/8006/8006/playlist.m3u8
 #EXTINF:-1,BlueSky TV Muzik
 http://str105mb.setplex.net:1935/str2iosmd5/blueskytv_265265_266548/playlist.m3u8
 
+#EXTINF:-1, TIRANA TV HD
+http://tring-amd-live.tring.tv/out/u/90_77.m3u8
+
 #EXTINF:-1,Alsat M 2
-rtsp://fms.zulu.mk/zulu/alsat_1
+ http://tring-amd-live.tring.tv/out/u/61_33.m3u8
 
 #EXTINF:-1,ALB Music HD
 http://188.138.17.8:1935/albuk/albmus.stream/index.m3u8
@@ -211,8 +220,8 @@ http://37.26.81.188:1935/live/livestream/playlist.m3u8
 http://iphone-streaming.ustream.tv/uhls/16296244/streams/live/iphone/playlist.m3u8
 
 
-#EXTINF:-1,[COLOR yellow][B][UPPERCASE]..:: SPORT HD ::.. [/UPPERCASE][/B][/COLOR]
-
+#EXTINF:-1,[COLOR red][B][UPPERCASE]..:: SPORT HD ::.. [/UPPERCASE][/B][/COLOR]
+http://www.google.com/
 
 #EXTINF:-1,SS 1 HD
 http://80.80.160.201/http_livestr.m3u8?id=ssnews
@@ -232,9 +241,11 @@ http://tring-amd-live.tring.tv/out/u/87_95.m3u8
 #EXTINF:-1, SPORT 3 HD
 http://tring-amd-live.tring.tv/out/u/86_101.m3u8
 
+#EXTINF:-1,RTSH Sport
+http://tring-amd-live.tring.tv/out/u/89_87.m3u8
 
 #EXTINF:-1,[COLOR yellow][B][UPPERCASE]..:: TE HUAJA ::.. [/UPPERCASE][/B][/COLOR]
-http://itshqip.com/
+http://www.google.com/
 
 
 #EXTINF:0,Balkan RTV
@@ -242,12 +253,6 @@ rtmp://yayin.tvdunyasi.tv/live/balkanrtv
 
 #EXTINF:0,NFL NETWORK
 http://nflsvgatlgame3-i.akamaihd.net/hls/live/223175/NFL_Mobile/2015Mobile_NFLN_200k.m3u8
-
-#EXTINF:-1,PINK
-http://www.nasatv.eu:80/live?channelId=22&uid=7&deviceUser=dm800&devicePass=dm800
-
-#EXTINF:-1,PINK 2 
-http://www.nasatv.eu:80/live?channelId=23&uid=7&deviceUser=dm800&devicePass=dm800
 
 #EXTINF:-1,PINK CLASSIC
 http://178.253.194.68:1935/liveloworigin/pinkclassic.stream/playlist.m3u8
@@ -305,19 +310,14 @@ http://str105mb.setplex.net:1935/st3fstv/4ios_Federalna_974816/playlist.m3u8
 #EXTINF:-1,Atlas TV SRB 
 rtmp://92.60.234.98:1935/live/myStream
 
-#EXTM3U
-#EXTVLCOPT:network-caching=4500
-#EXTINF:-1,Music Serbshit
-rtmp://46.249.95.140:80/live/livestream
-
 #EXTINF:-1,RTS SATELIT SRB
 rtsp://195.252.113.40/rts
 
 #EXTINF:-1,RTRS SRB
 http://edge1.volim.tv/live/rtrs.stream/HasBahCa.m3u8?hash=206dc563f74bad817eb851dced9cd089b71b7a3f
 
-#EXTINF:-1,[COLOR yellow][B][UPPERCASE]..:: PINK CHANNELS ::.. [/UPPERCASE][/B][/COLOR]
-
+#EXTINF:-1,[COLOR pink][B][UPPERCASE]..:: PINK CHANNELS ::.. [/UPPERCASE][/B][/COLOR]
+http://www.google.com/
 
 #EXTINF:0,Pink Horror
 http://178.253.194.68:1935/liveloworigin/pinkhorror.stream/playlist.m3u8
