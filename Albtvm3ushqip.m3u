@@ -1,10 +1,8 @@
 #EXTM3U
 #EXTINF:-1,[COLOR blue][B][UPPERCASE]..:: ALBTV - BES ::.. [/UPPERCASE][/B][/COLOR][COLOR red][B][UPPERCASE]Programe shqip nga platformat Tring&Digitalb[/UPPERCASE][/B][/COLOR]
-HDTV
+HDTV. Report broken Links!
 
 
-#EXTINF:-1,[COLOR red][B][UPPERCASE] * [/UPPERCASE][/B][/COLOR][COLOR white][B][UPPERCASE][/UPPERCASE][/B][/COLOR][COLOR blue][B][UPPERCASE] SHQIP [/UPPERCASE][/B][/COLOR]
- TV HDTV *
 
 #EXTINF:-1,[COLOR yellow][B][UPPERCASE]..:: KRYESORE ::.. [/UPPERCASE][/B][/COLOR]
 http://www.google.com/
@@ -155,7 +153,7 @@ rtmp://arlind.ontv.al:1935/live/bangbang
 http://94.100.31.242:8183/hls/xz3123/index.m3u8
 
 
-#EXTINF:-1,[COLOR silver][B][UPPERCASE]..:: MUZIKE ::..  [/UPPERCASE][/B][/COLOR]
+#EXTINF:-1,[COLOR neon][B][UPPERCASE]..:: MUZIKE ::..  [/UPPERCASE][/B][/COLOR]
 http://www.google.com/
 
 #EXTINF:-1, RTV Sharri HD
