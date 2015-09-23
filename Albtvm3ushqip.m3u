@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,[COLOR blue][B][UPPERCASE]..:: ALBTV By BES ::.. [/UPPERCASE][/B][/COLOR][COLOR red][B][UPPERCASE]Programe shqip nga platformat Tring&Digitalb Report broken links![/UPPERCASE][/B][/COLOR]
+#EXTINF:-1,[COLOR blue][B][UPPERCASE]..:: ALBTV by BES! ::.. [/UPPERCASE][/B][/COLOR][COLOR red][B][UPPERCASE]Programe shqip nga platformat Tring&Digitalb Report broken links![/UPPERCASE][/B][/COLOR]
 HDTV.
 
 
@@ -13,7 +13,7 @@ http://tring-amd-live.tring.tv/out/u/57_20.m3u8
 #EXTINF:-1,RTV 21
 http://tring-amd-live.tring.tv/out/u/98_42.m3u8
 
-#EXTINF:-1,Top Channel 
+#EXTINF:-1,TOP CHANNEL
 http://tring-amd-live.tring.tv/out/u/55_12.m3u8
 
 #EXTINF:-1,TVSH HD
