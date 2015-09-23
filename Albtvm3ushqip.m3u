@@ -7,17 +7,11 @@ HDTV. Report broken Links!
 #EXTINF:-1,[COLOR yellow][B][UPPERCASE]..:: KRYESORE ::.. [/UPPERCASE][/B][/COLOR]
 http://www.google.com/
 
-#EXTINF:-1,KLAN KOSOVA
-http://84.22.48.253:8080/klanks/test.m3u8
-
 #EXTINF:-1,RTV 21
 http://tring-amd-live.tring.tv/out/u/98_42.m3u8
 
-#EXTINF:-1,TopChannel 
+#EXTINF:-1,Top Channel 
 http://tring-amd-live.tring.tv/out/u/55_12.m3u8
-
-#EXTINF:-1,Film Nje HD
-http://94.100.31.242:8183/hls/film3/index.m3u8
 
 #EXTINF:-1,TV KLAN
 http://tring-amd-live.tring.tv/out/u/57_20.m3u8
@@ -31,6 +25,12 @@ http://tring-amd-live.tring.tv/out/u/56_17.m3u8
 #EXTINF:-1,RTVSH HD
 http://tring-amd-live.tring.tv/out/u/108_17.m3u8
 
+#EXTINF:-1,KLAN KOSOVA
+http://84.22.48.253:8080/klanks/test.m3u8
+
+#EXTINF:-1,KTV KOHAVISION
+http://tring-amd-live.tring.tv/out/u/96_46.m3u8
+
 #EXTINF:-1,Vision +
 rtmp://live.vizionplus.tv/live//livestream2
 
@@ -43,8 +43,17 @@ http://81.7.13.162/hls/channelone/index.m3u8
 #EXTINF:-1,RTV CH 7
 http://iphone-streaming.ustream.tv/uhls/13432602/streams/live/iphone/playlist.m3u8
 
+#EXTINF:-1, TRING COMEDY
+http://tring-amd-live.tring.tv/out/u/78_139.m3u8
+
+#EXTINF:-1, TRING HISTORY
+http://tring-amd-live.tring.tv/out/u/76_150.m3u8
+
 #EXTINF:-1,K KOSOVA
 http://84.22.48.253:8080/klanks/test.m3u8
+
+#EXTINF:-1, TRING SUPER
+http://tring-amd-live.tring.tv/out/u/79_127.m3u8
 
 #EXTINF:-1,TRIBUNA
 http://84.22.48.253:8080/tribuna/test.m3u8
@@ -57,9 +66,6 @@ http://95.107.200.140:554/live/rtmp.stream/playlist.m3u8
 
 #EXTINF:-1,A1 REPORT HD
 http://66.55.93.204/hls-live/livepkgr/_definst_/a1report/a1stream.m3u8
-
-#EXTINF:-1,TV OPOJA
-http://tvopoja.shqiptv.org:1935/8016/8016/playlist.m3u8
 
 #EXTINF:-1,[COLOR orange][B][UPPERCASE]..:: LOKALE ::.. [/UPPERCASE][/B][/COLOR]
 http://www.google.com/
@@ -94,17 +100,8 @@ http://fms.zulu.mk:554/zulu/era_2/playlist.m3u8
 #EXTINF:-1,RROKUM TV
 http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8
 
-#EXTINF:-1,Rrokum Tv
-rtmp://82.114.65.202/live/rrokumtv
-
-#EXTINF:-1,Mktv 2 (Mrt2)
-http://stream.mrt-edge.spectar.tv:1935/mrt-liveedge/_definst_/amlst:dm/hls/video_id/3548/token/bd0b11a4f8d05cc0bffe589f55909615/chunklist_w787058205_b1196000.m3u8
-
 #EXTINF:-1,TIP TV
 http://94.100.31.242:8183/hls/tiptv/index.m3u8
-
-#EXTINF:-1,Tip Tv
-rtmp://arlind.ontv.al:1935/live/tiptv
 
 #EXTINF:-1,Agon Channel
 http://str105mb.setplex.net:1935/str2iosmd5/7ios_agontv_34536544/HasBahCa.m3u8
@@ -113,7 +110,7 @@ http://str105mb.setplex.net:1935/str2iosmd5/7ios_agontv_34536544/HasBahCa.m3u8
 http://str105mb.setplex.net:1935/str2iosmd5/stralbinfo_2654_dfs/HasBahCa.m3u8
 
 #EXTINF:-1,TV Dukagjini
-http://str105mb.setplex.net:1935/str2iosmd5/20ios_tvdukagjini_2233555/HasBahCa.m3u8
+http://str105mb.setplex.net:1935/str2iosmd5/20ios_tvdukagjini_2233555/playlist.m3u8
 
 #EXTINF:-1,TV Iliret
 http://str105mb.setplex.net:1935/str2iosmd5/16ios_tviliret_26658914/playlist.m3u8
@@ -127,31 +124,11 @@ http://str105mb.setplex.net:1935/str2iosmd5/7ios_rozafa_65226289/HasBahCa.m3u8
 #EXTINF:-1,TV Teuta
 http://str105mb.setplex.net:1935/str2iosmd5/7ios_tvteuta_34654675644/HasBahCa.m3u8
 
-#EXTINF:-1,ADRIA RTV
-http://iphone-streaming.ustream.tv/uhls/19749870/streams/live/iphone/playlist.m3u8
-
 #EXTINF:0, Alb Uk HD
 rtmp://188.138.17.8:1935/albuk/albuk.stream
 
 #EXTINF:0, Alb Uk Plus
 rtmp://188.138.17.8:1935/albuk/albuk+.stream
-
-#EXTINF:-1, PlusHD 
-#EXTVLCOPT:network-caching=4500 
-http://balkanstream.com/stream/PlusHD/mip001/25hsK6Sa9l
-
-#EXTINF:-1,[COLOR brown][B][UPPERCASE]..:: PER FEMIJE ::.. [/UPPERCASE][/B][/COLOR]
-http://www.google.com/
-
-#EXTINF:-1,Tring Tring
-rtmp://arlind.ontv.al:1935/live/tringtring
-
-#EXTINF:-1,Bang Bang 
-rtmp://arlind.ontv.al:1935/live/bangbang
-
-#EXTINF:-1,CUFO TV KIDS
-http://94.100.31.242:8183/hls/xz3123/index.m3u8
-
 
 #EXTINF:-1,[COLOR blue][B][UPPERCASE]..:: MUZIKE ::..  [/UPPERCASE][/B][/COLOR]
 http://www.google.com/
@@ -186,6 +163,9 @@ http://str105mb.setplex.net:1935/str2iosmd5/alb_music/playlist.m3u8
 #EXTINF:-1,STV HD Music
 http://str103.setplex.net:1935/228/stv_online/playlist.m3u8
 
+#EXTINF:-1,TV OPOJA
+http://tvopoja.shqiptv.org:1935/8016/8016/playlist.m3u8
+
 #EXTINF:-1,ZICO TV
 http://str105mb.setplex.net:1935/str2iosmd5/zicoTV_652_4dfaa/playlist.m3u8
 
@@ -195,20 +175,13 @@ http://iphone-streaming.ustream.tv/uhls/18868686/streams/live/iphone/playlist.m3
 #EXTINF:-1,CHANNEL 1 MUSIC
 http://xtv1channelshkoderx.api.channel.livestream.com/3.0/playlist.m3u8
 
-#EXTINF:-1,Folk Plus
-http://str105mb.setplex.net:1935/str2iosmd5/7ios_folkplus_34564765/playlist.m3u8
+#EXTINF:-1,FOLK
+http://4.31.30.135:1935/str2iosmd5/7ios_folkplus_34564765/chunklist_w682165334.m3u8
 
-#EXTINF:-1, Folk + 
-#EXTVLCOPT:network-caching=4500 
-http://balkanstream.com/stream/folkplus/mip001/25hsK6Sa9l 
-
-#EXTINF:-1, Super Folk
-http://str105mb.setplex.net:1935/str2iosmd5/11ios_stvfolk_32236215/playlist.m3u8
-
-#EXTINF:-1,STV folk
+#EXTINF:-1,STV FOLK
 rtmp://str103.setplex.net:1935/228/stv_folk
 
-#EXTINF:-1,ALB uk music
+#EXTINF:-1,ALB UK Music
 rtmp://188.138.17.8:1935/albuk/albmus.stream
 
 #EXTINF:-1,MAD TV Muzik
@@ -225,22 +198,19 @@ http://www.google.com/
 http://80.80.160.201/http_livestr.m3u8?id=ssnews
 
 #EXTINF:-1,SS 2 HD
-http://81.7.13.162/hls/ss2/index.m3u8
+http://tring-amd-live.tring.tv/out/u/86_101.m3u8
 
 #EXTINF:-1,SS 3 HD
-http://81.7.13.162/hls/ss3/index.m3u8
-
-#EXTINF:-1, SPORT NEWS HD
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
-
-#EXTINF:-1, SPORT 2 HD
 http://tring-amd-live.tring.tv/out/u/87_95.m3u8
 
-#EXTINF:-1, SPORT 3 HD
-http://tring-amd-live.tring.tv/out/u/86_101.m3u8
+#EXTINF:-1, SPORT NEWS HD IT
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
 
 #EXTINF:-1,RTSH Sport
 http://tring-amd-live.tring.tv/out/u/89_87.m3u8
+
+#EXTINF:0,NFL NETWORK
+http://nflsvgatlgame3-i.akamaihd.net/hls/live/223175/NFL_Mobile/2015Mobile_NFLN_200k.m3u8
 
 #EXTINF:-1,[COLOR green][B][UPPERCASE]..:: TE HUAJA ::.. [/UPPERCASE][/B][/COLOR]
 http://www.google.com/
@@ -248,9 +218,6 @@ http://www.google.com/
 
 #EXTINF:0,Balkan RTV
 rtmp://yayin.tvdunyasi.tv/live/balkanrtv
-
-#EXTINF:0,NFL NETWORK
-http://nflsvgatlgame3-i.akamaihd.net/hls/live/223175/NFL_Mobile/2015Mobile_NFLN_200k.m3u8
 
 #EXTINF:-1,PINK CLASSIC
 http://178.253.194.68:1935/liveloworigin/pinkclassic.stream/playlist.m3u8
@@ -275,9 +242,6 @@ http://edge1.volim.tv/live/happy.stream/playlist.m3u8?hash=41f1c9080b62848336609
 
 #EXTINF:-1,TV PRVA
 http://edge1.volim.tv/live/prva.stream/playlist.m3u8?hash=90df8700863cdf89ca0d31e74377ea58f060e02e
-
-#EXTINF:-1,BB1 HD
-http://94.100.31.242:8183/hls/xz3128/index.m3u8H
 
 #EXTINF:-1,RTCG mms
 mms://195.252.114.172/tvcg
