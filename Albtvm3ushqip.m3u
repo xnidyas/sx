@@ -1,11 +1,14 @@
 #EXTM3U
-#EXTINF:-1,[COLOR blue][B][UPPERCASE]..:: ALBTV - BES ::.. [/UPPERCASE][/B][/COLOR][COLOR red][B][UPPERCASE]Programe shqip nga platformat Tring&Digitalb[/UPPERCASE][/B][/COLOR]
-HDTV. Report broken Links!
+#EXTINF:-1,[COLOR blue][B][UPPERCASE]..:: ALBTV By BES ::.. [/UPPERCASE][/B][/COLOR][COLOR red][B][UPPERCASE]Programe shqip nga platformat Tring&Digitalb Report broken links![/UPPERCASE][/B][/COLOR]
+HDTV.
 
 
 
 #EXTINF:-1,[COLOR yellow][B][UPPERCASE]..:: KRYESORE ::.. [/UPPERCASE][/B][/COLOR]
 http://www.google.com/
+
+#EXTINF:-1,TV KLAN
+http://tring-amd-live.tring.tv/out/u/57_20.m3u8
 
 #EXTINF:-1,RTV 21
 http://tring-amd-live.tring.tv/out/u/98_42.m3u8
@@ -13,17 +16,14 @@ http://tring-amd-live.tring.tv/out/u/98_42.m3u8
 #EXTINF:-1,Top Channel 
 http://tring-amd-live.tring.tv/out/u/55_12.m3u8
 
-#EXTINF:-1,TV KLAN
-http://tring-amd-live.tring.tv/out/u/57_20.m3u8
-
-#EXTINF:-1,TVSH HD
-http://str105mb.setplex.net:1935/str2iosmd5/tvsh_62554_5hfaa/playlist.m3u8
-
 #EXTINF:-1,TVSH HD
 http://tring-amd-live.tring.tv/out/u/56_17.m3u8
 
 #EXTINF:-1,RTVSH HD
 http://tring-amd-live.tring.tv/out/u/108_17.m3u8
+
+#EXTINF:-1,TVSH HD
+http://str105mb.setplex.net:1935/str2iosmd5/tvsh_62554_5hfaa/playlist.m3u8
 
 #EXTINF:-1,KLAN KOSOVA
 http://84.22.48.253:8080/klanks/test.m3u8
@@ -82,9 +82,6 @@ http://81.7.13.162/hls/oranews/index.m3u8
 #EXTINF:-1,ABC NEWS
 http://xabcalbaniax.api.channel.livestream.com/3.0/playlist.m3u8
 
-#EXTINF:-1,MPT TV
-http://stream.mrt-edge.spectar.tv:1935/mrt-liveedge/_definst_/amlst:dm/hls/video_id/3548/
-
 #EXTINF:-1,ARTA TV
 http://84.22.48.253:8080/artanews/test.m3u8
 
@@ -106,7 +103,7 @@ http://94.100.31.242:8183/hls/tiptv/index.m3u8
 #EXTINF:-1,Agon Channel
 http://str105mb.setplex.net:1935/str2iosmd5/7ios_agontv_34536544/HasBahCa.m3u8
 
-#EXTINF:-1,Alb Info
+#EXTINF:-1,ALB Info
 http://str105mb.setplex.net:1935/str2iosmd5/stralbinfo_2654_dfs/HasBahCa.m3u8
 
 #EXTINF:-1,TV Dukagjini
@@ -115,7 +112,7 @@ http://str105mb.setplex.net:1935/str2iosmd5/20ios_tvdukagjini_2233555/playlist.m
 #EXTINF:-1,TV Iliret
 http://str105mb.setplex.net:1935/str2iosmd5/16ios_tviliret_26658914/playlist.m3u8
 
-#EXTINF:-1,TV Kopliku
+#EXTINF:-1,TV Kopliku N/A
 http://str105mb.setplex.net:1935/str2iosmd5/tvkop3542121/playlist.m3u8
 
 #EXTINF:-1,TV Rozafa
@@ -124,11 +121,14 @@ http://str105mb.setplex.net:1935/str2iosmd5/7ios_rozafa_65226289/HasBahCa.m3u8
 #EXTINF:-1,TV Teuta
 http://str105mb.setplex.net:1935/str2iosmd5/7ios_tvteuta_34654675644/HasBahCa.m3u8
 
-#EXTINF:0, Alb Uk HD
+#EXTINF:0, Alb UK HD
 rtmp://188.138.17.8:1935/albuk/albuk.stream
 
-#EXTINF:0, Alb Uk Plus
+#EXTINF:0, Alb UK Plus
 rtmp://188.138.17.8:1935/albuk/albuk+.stream
+
+#EXTINF:-1, RTV ISLAM
+http://77.242.21.140:8090/live.flv
 
 #EXTINF:-1,[COLOR blue][B][UPPERCASE]..:: MUZIKE ::..  [/UPPERCASE][/B][/COLOR]
 http://www.google.com/
@@ -150,9 +150,6 @@ http://str105mb.setplex.net:1935/str2iosmd5/blueskytv_265265_266548/playlist.m3u
 
 #EXTINF:-1,Alsat M 2
 http://tring-amd-live.tring.tv/out/u/61_33.m3u8
-
-#EXTINF:-1, RTV ISLAM
-http://77.242.21.140:8090/live.flv
 
 #EXTINF:-1,ALB Music HD
 http://188.138.17.8:1935/albuk/albmus.stream/index.m3u8
@@ -252,23 +249,6 @@ rtsp://beotelmedia.beotel.net/tvcg
 #EXTINF:0, AL Jazeera Balkan
 rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live?videoId=1258549906001&pubId=/aljazeera_balkans_high
 
-#EXTM3U
-#EXTVLCOPT:network-caching=4500
-#EXTINF:-1, Europa + Live
-http://europaplus.cdnvideo.ru:1935/europaplus-live/eptv_main.sdp/playlist.m3u8
-
-#EXTINF:-1,NOVA SPORT
-http://lag1.tv-mobile.org/prgp.m3u8
-
-#EXTINF:-1,B92 SRB
-http://stream.b92.net:7999/tv-b92.ogg
-
-#EXTINF:-1,CRO H1
-rtmp://hugo-iptv.zapto.org/live/h1
-
-#EXTINF:-1,Federalna HR
-http://str105mb.setplex.net:1935/st3fstv/4ios_Federalna_974816/playlist.m3u8
-
 #EXTINF:-1,Atlas TV SRB 
 rtmp://92.60.234.98:1935/live/myStream
 
@@ -278,7 +258,7 @@ rtsp://195.252.113.40/rts
 #EXTINF:-1,RTRS SRB
 http://edge1.volim.tv/live/rtrs.stream/HasBahCa.m3u8?hash=206dc563f74bad817eb851dced9cd089b71b7a3f
 
-#EXTINF:-1,[COLOR pink][B][UPPERCASE]..:: PINK TV 9/20/15 ::.. [/UPPERCASE][/B][/COLOR]
+#EXTINF:-1,[COLOR pink][B][UPPERCASE]..:: PINK TV 9/24/15 ::.. [/UPPERCASE][/B][/COLOR]
 http://www.google.com/
 
 #EXTINF:0,Pink Horror
