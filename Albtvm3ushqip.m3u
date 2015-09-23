@@ -203,8 +203,11 @@ http://tring-amd-live.tring.tv/out/u/87_95.m3u8
 #EXTINF:-1, SPORT NEWS HD IT
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
 
-#EXTINF:-1,RTSH Sport
+#EXTINF:-1,RTSH Sport HD
 http://tring-amd-live.tring.tv/out/u/89_87.m3u8
+
+#EXTINF:-1,Sport Klub 1 HD srb
+http://77.76.140.251/prgr.m3u8
 
 #EXTINF:0,NFL NETWORK
 http://nflsvgatlgame3-i.akamaihd.net/hls/live/223175/NFL_Mobile/2015Mobile_NFLN_200k.m3u8
