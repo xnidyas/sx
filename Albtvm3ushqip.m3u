@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,[COLOR blue][B][UPPERCASE]..::ALBTV by BES!::.. [/UPPERCASE][/B][/COLOR][COLOR red][B][UPPERCASE]Programe shqip nga platformat Tring&Digitalb -Report broken links![/UPPERCASE][/B][/COLOR]
+#EXTINF:-1,[COLOR blue][B][UPPERCASE]..:: ALBTV by BES! ::.. [/UPPERCASE][/B][/COLOR][COLOR red][B][UPPERCASE]Programe shqip nga platformat Tring&Digitalb -Report broken links![/UPPERCASE][/B][/COLOR]
 HDTV.
 
 #EXTINF:-1,[COLOR yellow][B][UPPERCASE]..:: KRYESORE ::.. [/UPPERCASE][/B][/COLOR]
@@ -63,7 +63,7 @@ http://84.20.77.50:554/live/rtmp.stream/playlist.m3u8
 http://95.107.200.140:554/live/rtmp.stream/playlist.m3u8
 
 #EXTINF:-1,A1 REPORT HD
-http://66.55.93.204/hls-live/livepkgr/_definst_/a1report/a1stream.m3u8
+http://tring-amd-live.tring.tv/out/u/65_53.m3u8
 
 #EXTINF:-1,[COLOR blue][B][UPPERCASE]..:: MUZIKE ::..  [/UPPERCASE][/B][/COLOR]
 http://www.google.com/
@@ -121,6 +121,9 @@ http://37.26.81.188:1935/live/livestream/playlist.m3u8
 
 #EXTINF:-1,ALPO TV Muzik
 http://iphone-streaming.ustream.tv/uhls/16296244/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1,RTK 1
+http://tring-amd-live.tring.tv/out/u/63_39.m3u8
 
 
 #EXTINF:-1,[COLOR orange][B][UPPERCASE]..:: LOKALE ::.. [/UPPERCASE][/B][/COLOR]
