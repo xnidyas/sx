@@ -212,7 +212,10 @@ http://tring-amd-live.tring.tv/out/u/89_87.m3u8
 http://77.76.140.251/prgr.m3u8
 
 #EXTINF:0,NFL NETWORK
-http://nflsvgatlgame3-i.akamaihd.net/hls/live/223175/NFL_Mobile/2015Mobile_NFLN_200k.m3u8
+http://nflsvgatlgame3-i.akamaihd.net/hls/live/223175/NFL_Mobile/2015Mobile_NFLN_1000k.m3u8
+
+#EXTINF:0,NFL NETWORK HD
+http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_2000k.m3u8
 
 #EXTINF:-1,[COLOR green][B][UPPERCASE]..:: TE HUAJA ::.. [/UPPERCASE][/B][/COLOR]
 http://www.google.com/
