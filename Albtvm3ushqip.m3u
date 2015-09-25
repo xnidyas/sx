@@ -81,7 +81,7 @@ rtsp://live.tv3plushd.com:1935/8008/8008
 rtmp://str103.setplex.net/228/stv_online
 
 #EXTINF:-1,BlueSky TV Muzik
-http://str105mb.setplex.net:1935/str2iosmd5/blueskytv_265265_266548/playlist.m3u8
+http://str105mb.setplex.net:1935/str2iosmd5/blueskytv_265265_266548/playlist_1000k.m3u8
 
 #EXTINF:-1,Alsat M 2
 http://tring-amd-live.tring.tv/out/u/61_33.m3u8
