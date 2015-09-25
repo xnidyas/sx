@@ -1,8 +1,15 @@
-You can swap out the 2000k in the URL with 64k, 200k, 464k, 664k, 1000k, 1500k, 2000k, or 5000k 
-depending on your bandwidth.
+#EXTM3U
+#EXTINF:-1,[COLOR blue][B][UPPERCASE]..:: NFLTV by BES! ::.. [/UPPERCASE][/B][/COLOR][COLOR red][B][UPPERCASE]Programe shqip nga platformat Tring&Digitalb -Report broken links![/UPPERCASE][/B][/COLOR]
+HDTV.
 
-http://nflsvgatlgame3-i.akamaihd.net/hls/live/223175/NFL_Mobile/2015Mobile_NFLN.m3u8 NFLNETWORK
-http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/RdZnConDev_2000k.m3u8 REDZONE
+#EXTINF:-1,[COLOR yellow][B][UPPERCASE]..:: KRYESORE ::.. [/UPPERCASE][/B][/COLOR]
+http://www.google.com/
+
+#EXTINF:-1, NFL NETWORK HD
+http://nflsvgatlgame3-i.akamaihd.net/hls/live/223175/NFL_Mobile/2015Mobile_NFLN.m3u8
+
+#EXTINF:-1, NFL REDZONE
+http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/RdZnConDev_2000k.m3u8
 
 Preseason Week 1
 http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015081351_2000k.m3u8 NO@BAL  
