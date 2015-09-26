@@ -11,6 +11,8 @@ http://nflsvgatlgame3-i.akamaihd.net/hls/live/223175/NFL_Mobile/2015Mobile_NFLN_
 #EXTINF:-1, NFL REDZONE
 http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/RdZnConDev_2000k.m3u8
 
+#EXTINF:-1,[COLOR orange][B][UPPERCASE]..:: NFL WEEK 3 ::.. [/UPPERCASE][/B][/COLOR]
+
 Preseason Week 1
 http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015081351_2000k.m3u8 NO@BAL  
 http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015081352_2000k.m3u8 NYJ@DET  
@@ -123,24 +125,38 @@ Week 3
 #EXTM3U
 #EXTINF:-1,WAS@NYG
 http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015092400_2000k.m3u8
-
 #EXTINF:-1,ATL@DAL
 http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015092700_2000k.m3u8
-  
-http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015092701_2000k.m3u8 NO@CAR  
-http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015092702_2000k.m3u8 PHI@NYJ  
-http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015092703_2000k.m3u8 TB@HOU  
-http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015092704_2000k.m3u8 SD@MIN  
-http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015092705_2000k.m3u8 PIT@STL  
-http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015092706_2000k.m3u8 JAC@NE  
-http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015092707_2000k.m3u8 CIN@BAL  
-http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015092708_2000k.m3u8 OAK@CLE  
-http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015092709_2000k.m3u8 IND@TEN  
-http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015092710_2000k.m3u8 SF@ARI  
-http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015092711_2000k.m3u8 CHI@SEA  
-http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015092712_2000k.m3u8 BUF@MIA  
-http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015092713_2000k.m3u8 DEN@DET  
+#EXTINF:-1,NO@CAR
+http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015092701_2000k.m3u8
+#EXTINF:-1,PHI@NYJ  
+http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015092702_2000k.m3u8 
+#EXTINF:-1,TB@HOU 
+http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015092703_2000k.m3u8 
+#EXTINF:-1,SD@MIN 
+http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015092704_2000k.m3u8 
+#EXTINF:-1,PIT@STL  
+http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015092705_2000k.m3u8 
+#EXTINF:-1,JAC@NE 
+http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015092706_2000k.m3u8 
+#EXTINF:-1,CIN@BAL 
+http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015092707_2000k.m3u8  
+#EXTINF:-1,OAK@CLE  
+http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015092708_2000k.m3u8
+#EXTINF:-1,IND@TEN 
+http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015092709_2000k.m3u8
+#EXTINF:-1,SF@ARI
+http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015092710_2000k.m3u8 
+#EXTINF:-1,CHI@SEA 
+http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015092711_2000k.m3u8 
+#EXTINF:-1,BUF@MIA
+http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015092712_2000k.m3u8 
+#EXTINF:-1,DEN@DET
+http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015092713_2000k.m3u8 
+#EXTINF:-1,KC@GB
 http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015092800_2000k.m3u8 KC@GB
+
+#EXTINF:-1,[COLOR orange][B][UPPERCASE]..:: LINKGS LIVE 10M BEFORE ::.. [/UPPERCASE][/B][/COLOR]
 
 Week 4
 http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015100100_2000k.m3u8 BAL@PIT  
