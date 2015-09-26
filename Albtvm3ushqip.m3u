@@ -9,7 +9,7 @@ http://www.google.com/
 http://tring-amd-live.tring.tv/out/u/57_20.m3u8
 
 #EXTINF:-1,RTV 21
-http://tring-amd-live.tring.tv/out/u/98_42.m3u8
+http://edge.ultracast.me:1935/live/kanalvjedhurngalbparajsaXRftj/playlist.m3u8?Token&wowzasessionid=168666716
 
 #EXTINF:-1,TOP CHANNEL
 http://tring-amd-live.tring.tv/out/u/55_12.m3u8
@@ -122,6 +122,9 @@ http://37.26.81.188:1935/live/livestream/playlist.m3u8
 #EXTINF:-1,ALPO TV Muzik
 http://iphone-streaming.ustream.tv/uhls/16296244/streams/live/iphone/playlist.m3u8
 
+#EXTINF: Alb Humor
+http://str105mb.setplex.net:1935/str2iosmd5/alb_humor/playlist.m3u8
+
 #EXTINF:-1,RTK 1
 http://tring-amd-live.tring.tv/out/u/63_39.m3u8
 
@@ -171,7 +174,7 @@ http://str105mb.setplex.net:1935/str2iosmd5/20ios_tvdukagjini_2233555/playlist.m
 #EXTINF:-1,TV Iliret
 http://str105mb.setplex.net:1935/str2iosmd5/16ios_tviliret_26658914/playlist.m3u8
 
-#EXTINF:-1,TV Kopliku N/A
+#EXTINF:-1,TV Kopliku 
 http://str105mb.setplex.net:1935/str2iosmd5/tvkop3542121/playlist.m3u8
 
 #EXTINF:-1,TV Rozafa
@@ -238,6 +241,8 @@ http://178.253.194.68:1935/liveloworigin/pinkmusic.stream/playlist.m3u8
 #EXTINF:0,Pink Music 2
 http://178.253.194.68:1935/liveloworigin/pinkmusic2.stream/playlist.m3u8
 
+#EXTINF:0,PINK TVHD
+http://edge1.volim.tv/live/pink.stream/playlist.m3u8?hash=41f1c9080b62848336609fcc1aab1f744723af0e
 #EXTINF:0,PINK TVHD
 http://178.253.194.68:1935/liveloworigin/_definst_/pink.stream/chunklist_w97102467.m3u8
 
