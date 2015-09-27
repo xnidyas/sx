@@ -229,9 +229,11 @@ http://www.google.com/
 
 #EXTINF:0,DM SAT MUSIC 
 http://4.31.30.135:1935/st3fstv/17ios_DMSAT_4453811/chunklist_w338997748_1000k.m3u8
+#EXTINF:0,DM SAT MUSIC HD
+rtsp://212.200.113.136:1935/iptv/iptv40022.stream
 
-#EXTINF:0,DUGA TV
-http://w10.streamgb.com:1935/dugaplus/dugaplus/chunklist_w806350965.m3u8
+#EXTINF:0,DUGA+ TV HD
+http://w10.streamgb.com:1935/dugaplus/dugaplus/chunklist_w1672567553.m3u8
 
 #EXTINF:0,Balkan RTV
 rtmp://yayin.tvdunyasi.tv/live/balkanrtv
@@ -247,16 +249,19 @@ http://178.253.194.68:1935/liveloworigin/pinkmusic2.stream/playlist.m3u8
 
 #EXTINF:0,PINK TVHD
 http://edge1.volim.tv/live/pink.stream/playlist.m3u8?hash=41f1c9080b62848336609fcc1aab1f744723af0e
-#EXTINF:0,PINK TVHD
+#EXTINF:0,PINK TV
 http://178.253.194.68:1935/liveloworigin/_definst_/pink.stream/chunklist_w97102467.m3u8
 
 #EXTINF:-1,PINK LIVE 
 http://www.nasatv.eu:80/live?channelId=36&uid=7&deviceUser=dm800&devicePass=dm800
 
+#EXTINF:-1,PINK WORLD
+rtsp://212.200.113.136:1935/iptv/iptv40031.stream
+
 #EXTINF:-1,PINK ZABAVA
 http://www.nasatv.eu:80/live?channelId=62&uid=7&deviceUser=dm800&devicePass=dm800
 
-#EXTINF:-1,HAPPY 
+#EXTINF:-1,HAPPY HD
 http://edge1.volim.tv/live/happy.stream/playlist.m3u8?hash=2baa99ec4c5c5141cd8d78ca3dfbbb6ece7745dc
 
 #EXTINF:-1,HAPPY
@@ -282,6 +287,9 @@ rtsp://195.252.113.40/rts
 
 #EXTINF:-1,RTRS SRB
 http://edge1.volim.tv/live/rtrs.stream/HasBahCa.m3u8?hash=206dc563f74bad817eb851dced9cd089b71b7a3f
+
+EXTINF‬:0,OTV VALENTINO
+rtsp://212.200.113.136:1935/iptv/iptv40013.stream
 
 #EXTINF:-1,[COLOR pink][B][UPPERCASE]..:: PINK TV 9/24/15 ::.. [/UPPERCASE][/B][/COLOR]
 http://www.google.com/
@@ -316,11 +324,10 @@ http://178.253.194.68:1935/liveloworigin/pinkfashion.stream/playlist.m3u8
 http://178.253.194.68:1935/liveloworigin/pinkmusic.stream/playlist.m3u8
 #EXTINF:0,Pink Music 2
 http://178.253.194.68:1935/liveloworigin/pinkmusic2.stream/playlist.m3u8
-#EXTINF:0,Pink BH
-http://178.253.194.68:1935/liveloworigin/pinkbih.stream/playlist.m3u8
-#EXTINF:0,Pink Kids
-http://178.253.194.68:1935/liveloworigin/pinkkids.stream/playlist.m3u8
-
+#EXTINF:0,PINK FOLK 2
+rtsp://212.200.113.136:1935/iptv/iptv40026.stream
+#EXTINF:0,DUGA+ HD?
+rtsp://212.200.113.136:1935/iptv/iptv40015.stream
 
 
 
