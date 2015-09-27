@@ -74,9 +74,6 @@ http://tvopoja.shqiptv.org:1935/8006/8006/playlist.m3u8
 #EXTINF:-1,TV OPOJA
 http://tvopoja.shqiptv.org:1935/8016/8016/playlist.m3u8
 
-//#EXTINF:-1, TIRANA TV HD
-//http://tring-amd-live.tring.tv/out/u/90_77.m3u8
-
 #EXTINF:-1,3+HD MUSIC
 rtsp://live.tv3plushd.com:1935/8008/8008
 
@@ -131,6 +128,8 @@ http://str105mb.setplex.net:1935/str2iosmd5/alb_humor/playlist.m3u8
 #EXTINF:-1,RTK 1
 http://tring-amd-live.tring.tv/out/u/63_39.m3u8
 
+#EXTINF:-1, TIRANA TV HD  *not working
+http://tring-amd-live.tring.tv/out/u/90_77.m3u8
 
 #EXTINF:-1,[COLOR orange][B][UPPERCASE]..:: LOKALE ::.. [/UPPERCASE][/B][/COLOR]
 http://www.google.com/
