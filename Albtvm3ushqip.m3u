@@ -12,7 +12,7 @@ http://edge.ultracast.me:1935/live/klan1-albparajsaEtRDP/playlist.m3u8?Token&wow
 http://edge.ultracast.me:1935/live/kanalvjedhurngalbparajsaXRftj/playlist.m3u8?Token&wowzasessionid=168666716
 
 #EXTINF:-1,TOP CHANNEL
-http://tring-amd-live.tring.tv/out/u/55_12.m3u8
+http://edge.ultracast.me:1935/live/top-ch-albparajsalnVS8/playlist.m3u8?Token&wowzasessionid=801559567_1000k
 
 #EXTINF:-1,TVSH HD
 http://tring-amd-live.tring.tv/out/u/56_17.m3u8
@@ -94,9 +94,6 @@ http://str105mb.setplex.net:1935/str2iosmd5/alb_music/playlist_1000k.m3u8
 
 #EXTINF:-1,STV HD Music
 http://str103.setplex.net:1935/228/stv_online/playlist.m3u8
-
-//#EXTINF:-1,TV OPOJA
-http://tvopoja.shqiptv.org:1935/8016/8016/playlist.m3u8
 
 #EXTINF:-1,ZICO TV
 http://str105mb.setplex.net:1935/str2iosmd5/zicoTV_652_4dfaa/playlist.m3u8
