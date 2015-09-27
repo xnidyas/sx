@@ -14,10 +14,10 @@ http://edge.ultracast.me:1935/live/kanalvjedhurngalbparajsaXRftj/playlist.m3u8?T
 #EXTINF:-1,TOP CHANNEL
 http://edge.ultracast.me:1935/live/top-ch-albparajsalnVS8/playlist.m3u8?Token&wowzasessionid=801559567_1000k
 
-#EXTINF:-1,TVSH HD
+#EXTINF:-1,TVSH HD N/A
 http://tring-amd-live.tring.tv/out/u/56_17.m3u8
 
-#EXTINF:-1,RTVSH HD
+#EXTINF:-1,RTVSH HD N/A
 http://tring-amd-live.tring.tv/out/u/108_17.m3u8
 
 #EXTINF:-1,TVSH HD
@@ -26,7 +26,7 @@ http://str105mb.setplex.net:1935/str2iosmd5/tvsh_62554_5hfaa/playlist.m3u8
 #EXTINF:-1,KLAN KOSOVA
 http://84.22.48.253:8080/klanks/test.m3u8
 
-#EXTINF:-1,KTV KOHAVISION
+#EXTINF:-1,KTV KOHAVISION n/a
 http://tring-amd-live.tring.tv/out/u/96_46.m3u8
 
 #EXTINF:-1,Vision +
@@ -41,17 +41,8 @@ http://81.7.13.162/hls/channelone/index.m3u8
 #EXTINF:-1,RTV CH 7
 http://iphone-streaming.ustream.tv/uhls/13432602/streams/live/iphone/playlist.m3u8
 
-#EXTINF:-1, TRING COMEDY
-http://tring-amd-live.tring.tv/out/u/78_139.m3u8
-
-#EXTINF:-1, TRING HISTORY
-http://tring-amd-live.tring.tv/out/u/76_150.m3u8
-
 #EXTINF:-1,K KOSOVA
 http://84.22.48.253:8080/klanks/test.m3u8
-
-#EXTINF:-1, TRING SUPER
-http://tring-amd-live.tring.tv/out/u/79_127.m3u8
 
 #EXTINF:-1,TRIBUNA
 http://84.22.48.253:8080/tribuna/test.m3u8
@@ -62,7 +53,7 @@ http://84.20.77.50:554/live/rtmp.stream/playlist.m3u8
 #EXTINF:-1,APOLLON TV
 http://95.107.200.140:554/live/rtmp.stream/playlist.m3u8
 
-#EXTINF:-1,A1 REPORT HD
+#EXTINF:-1,A1 REPORT HD n/a
 http://tring-amd-live.tring.tv/out/u/65_53.m3u8
 
 #EXTINF:-1,[COLOR blue][B][UPPERCASE]..:: MUZIKE ::..  [/UPPERCASE][/B][/COLOR]
