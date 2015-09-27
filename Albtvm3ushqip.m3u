@@ -138,7 +138,7 @@ http://www.google.com/
 http://xredinezirix.api.channel.livestream.com/3.0/playlist.m3u8
 
 #EXTINF:-1, NEWS 24
- http://tring-amd-live.tring.tv/out/u/97_62.m3u8
+http://stream1.dev.al/hls-live/livepkgr/_definst_/news24/n24stream.m3u8
 
 #EXTINF:-1,ORA NEWS
 http://81.7.13.162/hls/oranews/index.m3u8
