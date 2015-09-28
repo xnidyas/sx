@@ -110,7 +110,7 @@ http://37.26.81.188:1935/live/livestream/playlist.m3u8
 #EXTINF:-1,ALPO TV Muzik
 http://iphone-streaming.ustream.tv/uhls/16296244/streams/live/iphone/playlist.m3u8
 
-#EXTINF: Alb Humor
+#EXTINF:-1,Alb Humor
 http://str105mb.setplex.net:1935/str2iosmd5/alb_humor/playlist.m3u8
 
 #EXTINF:-1,RTK 1
