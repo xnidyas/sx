@@ -129,7 +129,7 @@ http://www.google.com/
 http://xredinezirix.api.channel.livestream.com/3.0/playlist.m3u8
 
 #EXTINF:-1,NEWS 24
-rtmp://66.55.93.203/livepkgr/n24stream?adbe-live-event=news24
+rtmp://66.55.93.203/livepkgr/n24stream
 
 #EXTINF:-1,ORA NEWS
 http://81.7.13.162/hls/oranews/index.m3u8
@@ -237,6 +237,9 @@ mms://195.252.114.172/tvcg
 
 #EXTINF:0,PINKTV HD *FARMA*
 http://edge1.volim.tv/live/pink.stream/playlist.m3u8?hash=41f1c9080b62848336609fcc1aab1f744723af0e
+
+#EXTINF:0,Pink Reality *24H FARMA*
+http://178.253.194.68:1935/liveloworigin/pinkreality.stream/playlist.m3u8
 
 #EXTINF:-1,HAPPYTV HD *PAROVI*
 http://edge1.volim.tv/live/happy.stream/playlist.m3u8?hash=2baa99ec4c5c5141cd8d78ca3dfbbb6ece7745dc
