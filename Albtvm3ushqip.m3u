@@ -8,16 +8,16 @@ http://www.google.com/
 #EXTINF:-1,TV KLAN
 http://edge.ultracast.me:1935/live/klan1-albparajsaEtRDP/playlist.m3u8?Token&wowzasessionid=1761758004
 
-#EXTINF:-1,RTV 21
+#EXTINF:-1,RTV 21 n/a?
 http://edge.ultracast.me:1935/live/kanalvjedhurngalbparajsaXRftj/playlist.m3u8?Token&wowzasessionid=168666716
 
 #EXTINF:-1,TOP CHANNEL
 http://edge.ultracast.me:1935/live/top-ch-albparajsalnVS8/playlist.m3u8?Token&wowzasessionid=801559567_1000k
 
-#EXTINF:-1,TVSH HD N/A
+#EXTINF:-1,TVSH HD n/a
 http://tring-amd-live.tring.tv/out/u/56_17.m3u8
 
-#EXTINF:-1,RTVSH HD N/A
+#EXTINF:-1,RTVSH HD n/a
 http://tring-amd-live.tring.tv/out/u/108_17.m3u8
 
 #EXTINF:-1,TVSH HD
@@ -71,11 +71,14 @@ rtsp://live.tv3plushd.com:1935/8008/8008
 #EXTINF:-1,Super Sonic Tv
 rtmp://str103.setplex.net/228/stv_online
 
+#EXTINF:-1,STV FOLK
+rtmp://str103.setplex.net:1935/228/stv_folk
+
 #EXTINF:-1,BlueSky TV Muzik
 http://str105mb.setplex.net:1935/str2iosmd5/blueskytv_265265_266548/playlist_664k.m3u8
 
 #EXTINF:-1,Alsat M 2
-http://tring-amd-live.tring.tv/out/u/61_33.m3u8
+http://str105mb.setplex.net:1935/str2iosmd5/7ios_alsatm_430958392/playlist.m3u8
 
 #EXTINF:-1,ALB Music HD
 http://188.138.17.8:1935/albuk/albmus.stream/index.m3u8
@@ -98,9 +101,6 @@ http://xtv1channelshkoderx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1,FOLK
 http://4.31.30.135:1935/str2iosmd5/7ios_folkplus_34564765/chunklist_w682165334_1000k.m3u8
 
-#EXTINF:-1,STV FOLK
-rtmp://str103.setplex.net:1935/228/stv_folk
-
 #EXTINF:-1,ALB UK Music
 rtmp://188.138.17.8:1935/albuk/albmus.stream
 
@@ -113,8 +113,11 @@ http://iphone-streaming.ustream.tv/uhls/16296244/streams/live/iphone/playlist.m3
 #EXTINF:-1,Alb Humor
 http://str105mb.setplex.net:1935/str2iosmd5/alb_humor/playlist.m3u8
 
-#EXTINF:-1,RTK 1
-http://tring-amd-live.tring.tv/out/u/63_39.m3u8
+#EXTINF:-1,NEWS TV MUZIK
+http://str105mb.setplex.net:1935/str2iosmd5/33ios_newstv_23652182/playlist_664k.m3u8
+
+#EXTINF:-1,MPT MK
+http://str105mb.setplex.net:1935/str2iosmd5/7ios_MKTV2_32289956/playlist_1000k.m3u8
 
 #EXTINF:-1, TIRANA TV HD  *not working
 http://tring-amd-live.tring.tv/out/u/90_77.m3u8
@@ -125,8 +128,8 @@ http://www.google.com/
 #EXTINF:-1,ELBASANI TV
 http://xredinezirix.api.channel.livestream.com/3.0/playlist.m3u8
 
-#EXTINF:-1, NEWS 24
-http://stream1.dev.al/hls-live/livepkgr/_definst_/news24/n24stream.m3u8
+#EXTINF:-1,NEWS 24
+rtmp://66.55.93.203/livepkgr/n24stream?adbe-live-event=news24
 
 #EXTINF:-1,ORA NEWS
 http://81.7.13.162/hls/oranews/index.m3u8
@@ -282,6 +285,9 @@ rtsp://195.252.113.40/rts
 
 #EXTINF:-1,RTRS SRB
 http://edge1.volim.tv/live/rtrs.stream/HasBahCa.m3u8?hash=206dc563f74bad817eb851dced9cd089b71b7a3f
+
+#EXTINF:-1,BALKAN RTV
+rtmp://yayin.tvdunyasi.tv/live/balkanrtv
 
 #EXTINF:-1,[COLOR pink][B][UPPERCASE]..:: PINK TV 9/24/15 ::.. [/UPPERCASE][/B][/COLOR]
 http://www.google.com/
