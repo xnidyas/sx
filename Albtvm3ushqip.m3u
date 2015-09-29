@@ -276,9 +276,6 @@ http://edge1.volim.tv/live/happy.stream/playlist.m3u8?hash=41f1c9080b62848336609
 #EXTINF:-1,TV PRVA
 http://edge1.volim.tv/live/prva.stream/playlist.m3u8?hash=90df8700863cdf89ca0d31e74377ea58f060e02e
 
-#EXTINF:-1,RTCG mms
-mms://195.252.114.172/tvcg
-
 #EXTINF:-1,SAT TVCG
 rtsp://beotelmedia.beotel.net/tvcg
 
