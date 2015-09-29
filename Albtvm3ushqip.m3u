@@ -59,20 +59,20 @@ http://tring-amd-live.tring.tv/out/u/65_53.m3u8
 #EXTINF:-1,[COLOR blue][B][UPPERCASE]..:: MUZIKE ::..  [/UPPERCASE][/B][/COLOR]
 http://www.google.com/
 
-#EXTINF:-1, RTV Sharri HD
-http://tvopoja.shqiptv.org:1935/8006/8006/playlist.m3u8
-
 #EXTINF:-1,TV OPOJA
 http://tvopoja.shqiptv.org:1935/8016/8016/playlist.m3u8
 
-#EXTINF:-1,3+HD MUSIC
+#EXTINF:-1,3+HDTV MUSIC
 rtsp://live.tv3plushd.com:1935/8008/8008
 
-#EXTINF:-1,Super Sonic Tv
+#EXTINF:-1,Super Sonic TV
 rtmp://str103.setplex.net/228/stv_online
 
-#EXTINF:-1,STV FOLK
+#EXTINF:-1,STV FOLK TV
 rtmp://str103.setplex.net:1935/228/stv_folk
+
+#EXTINF:-1, RTV Sharri HD
+http://tvopoja.shqiptv.org:1935/8006/8006/playlist.m3u8
 
 #EXTINF:-1,BlueSky TV Muzik
 http://str105mb.setplex.net:1935/str2iosmd5/blueskytv_265265_266548/playlist_664k.m3u8
