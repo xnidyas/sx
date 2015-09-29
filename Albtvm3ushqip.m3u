@@ -192,11 +192,11 @@ http://www.google.com/
 #EXTINF:-1,SS 1 HD
 http://80.80.160.201/http_livestr.m3u8?id=ssnews
 
-#EXTINF:-1,SS 2 HD n/a
-http://tring-amd-live.tring.tv/out/u/86_101.m3u8
+#EXTINF:-1,ARENA SPORT 1 SRB
+http://5.196.14.179:2509/www.sipragezabava.com/123
 
-#EXTINF:-1,SS 3 HD n/a
-http://tring-amd-live.tring.tv/out/u/87_95.m3u8
+#EXTINF:-1,ARENA SPORT 2 SRB
+http://5.196.14.179:2513/www.sipragezabava.com/123
 
 #EXTINF:-1,SPORT NEWS HD IT
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
@@ -245,6 +245,9 @@ http://178.253.194.68:1935/liveloworigin/pinkreality.stream/playlist.m3u8
 
 #EXTINF:-1,HAPPYTV HD *PAROVI*
 http://edge1.volim.tv/live/happy.stream/playlist.m3u8?hash=2baa99ec4c5c5141cd8d78ca3dfbbb6ece7745dc
+
+#EXTINF:0,BN MUSIC
+http://lag2.tv-mobile.org:22637/udp/231.2.3.6:1234
 
 #EXTINF:-1,PINK WORLD
 rtsp://212.200.113.136:1935/iptv/iptv40031.stream
