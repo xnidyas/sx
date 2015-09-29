@@ -8,7 +8,7 @@ http://www.google.com/
 #EXTINF:-1,TV KLAN
 http://edge.ultracast.me:1935/live/klan1-albparajsaEtRDP/playlist.m3u8?Token&wowzasessionid=1761758004
 
-#EXTINF:-1,RTV 21 n/a?
+#EXTINF:-1,RTV 21 n/a
 http://edge.ultracast.me:1935/live/kanalvjedhurngalbparajsaXRftj/playlist.m3u8?Token&wowzasessionid=168666716
 
 #EXTINF:-1,TOP CHANNEL
@@ -223,10 +223,10 @@ http://www.google.com/
 
 #EXTINF:0,DM SAT MUSIC TV
 http://4.31.30.135:1935/st3fstv/17ios_DMSAT_4453811/chunklist_w338997748_1000k.m3u8
-#EXTINF:0,DM SAT MUSIC TVHD
+#EXTINF:0,DM SAT MUSIC TVHD n/a
 rtsp://212.200.113.136:1935/iptv/iptv40022.stream
 
-#EXTINF:0,DUGA+ TVHD
+#EXTINF:0,DUGA+ TVHD n/a
 rtsp://212.200.113.136:1935/iptv/iptv40015.stream
 
 #EXTINF:0,DUGA+ TV 
