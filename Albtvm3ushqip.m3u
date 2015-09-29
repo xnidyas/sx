@@ -192,17 +192,21 @@ http://www.google.com/
 #EXTINF:-1,SS 1 HD
 http://80.80.160.201/http_livestr.m3u8?id=ssnews
 
-#EXTINF:-1,SS 2 HD
+#EXTINF:-1,SS 2 HD n/a
 http://tring-amd-live.tring.tv/out/u/86_101.m3u8
 
-#EXTINF:-1,SS 3 HD
+#EXTINF:-1,SS 3 HD n/a
 http://tring-amd-live.tring.tv/out/u/87_95.m3u8
 
 #EXTINF:-1,SPORT NEWS HD IT
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
 
-#EXTINF:-1,RTSH Sport HD
-http://tring-amd-live.tring.tv/out/u/89_87.m3u8
+#EXTINF:-1,Sky Sports 1
+http://edge.ultracast.me:1935/live/Sky1ukvW1jF/playlist.m3u8?Token
+#EXTINF:-1,Sky Sports 3
+http://edge.ultracast.me:1935/live/sky38GYsO/playlist.m3u8?Token
+#EXTINF:-1, Sky Sports 5
+http://edge.ultracast.me:1935/live/sky5sdUntfG/playlist.m3u8?Token
 
 #EXTINF:-1,Sport Klub 1 HD srb
 http://77.76.140.251/prgr.m3u8
@@ -223,17 +227,12 @@ http://www.google.com/
 
 #EXTINF:0,DM SAT MUSIC TV
 http://4.31.30.135:1935/st3fstv/17ios_DMSAT_4453811/chunklist_w338997748_1000k.m3u8
-#EXTINF:0,DM SAT MUSIC TVHD n/a
-rtsp://212.200.113.136:1935/iptv/iptv40022.stream
-
-#EXTINF:0,DUGA+ TVHD n/a
-rtsp://212.200.113.136:1935/iptv/iptv40015.stream
 
 #EXTINF:0,DUGA+ TV 
 http://w10.streamgb.com:1935/dugaplus/dugaplus/chunklist_w1672567553.m3u8
 
-#EXTINF:-1,OTV VALENTINO BH
-rtsp://212.200.113.136:1935/iptv/iptv40013.stream
+#EXTINF:0,OTV VALENTINO BH
+http://4.31.30.135:1935/st3fstv/20ios_VALENTINO_4584512/chunklist_w2100288736.m3u8
 
 #EXTINF:-1,RTCG mms
 mms://195.252.114.172/tvcg
