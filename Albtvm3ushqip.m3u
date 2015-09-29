@@ -221,13 +221,16 @@ http://nflsvgatlgame3-i.akamaihd.net/hls/live/223175/NFL_Mobile/2015Mobile_NFLN_
 #EXTINF:-1,[COLOR green][B][UPPERCASE]..:: TE HUAJA ::.. [/UPPERCASE][/B][/COLOR]
 http://www.google.com/
 
-#EXTINF:0,DM SAT MUSIC 
+#EXTINF:0,DM SAT MUSIC TV
 http://4.31.30.135:1935/st3fstv/17ios_DMSAT_4453811/chunklist_w338997748_1000k.m3u8
-#EXTINF:0,DM SAT MUSIC HD
+#EXTINF:0,DM SAT MUSIC TVHD
 rtsp://212.200.113.136:1935/iptv/iptv40022.stream
 
-#EXTINF:0,DUGA+ HD?
+#EXTINF:0,DUGA+ TVHD
 rtsp://212.200.113.136:1935/iptv/iptv40015.stream
+
+#EXTINF:0,DUGA+ TV 
+http://w10.streamgb.com:1935/dugaplus/dugaplus/chunklist_w1672567553.m3u8
 
 #EXTINF:-1,OTV VALENTINO BH
 rtsp://212.200.113.136:1935/iptv/iptv40013.stream
@@ -328,8 +331,6 @@ http://178.253.194.68:1935/liveloworigin/pinkmusic2.stream/playlist.m3u8
 #EXTINF:0,PINK FOLK 2
 rtsp://212.200.113.136:1935/iptv/iptv40026.stream
 
-#EXTINF:0,DUGA+ TV 
-http://w10.streamgb.com:1935/dugaplus/dugaplus/chunklist_w1672567553.m3u8
 
 
 
