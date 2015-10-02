@@ -73,7 +73,7 @@ rtmp://str103.setplex.net/228/stv_online
 rtmp://str103.setplex.net:1935/228/stv_folk
 
 #EXTINF:-1, RTV Sharri HD
-http://tvopoja.shqiptv.org:1935/8006/8006/playlist.m3u8
+rtmp://live.opoja.tv:1935/8006/8006
 
 #EXTINF:-1,BlueSky TV Muzik
 http://str105mb.setplex.net:1935/str2iosmd5/blueskytv_265265_266548/playlist_664k.m3u8
