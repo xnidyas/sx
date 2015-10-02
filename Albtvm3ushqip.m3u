@@ -60,7 +60,7 @@ http://tring-amd-live.tring.tv/out/u/65_53.m3u8
 http://www.google.com/
 
 #EXTINF:-1,TV OPOJA Link 1
-http://tvopoja.shqiptv.org:1935/8016/8016/playlist.m3u8
+rtmp://live.opoja.tv:1935/8016/8016
 #EXTINF:-1,TV OPOJA Link 2
 rtmp://live.opoja.tv:1935/8016/8016
 #EXTINF:-1,3+HDTV MUSIC
