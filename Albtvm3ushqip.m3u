@@ -5,32 +5,26 @@ http://bit.ly/1NUayLG
 #EXTINF:-1,[COLOR yellow][B][UPPERCASE]..:: KRYESORE ::.. [/UPPERCASE][/B][/COLOR]
 http://www.google.com/
 
-#EXTINF:-1,TV KLAN
+#EXTINF:-1,TOP CHANNEL Live
+http://185.63.252.131:1935/liveedge/albparajsatv243_vmwllvj6/chunklist_w1245693865.m3u8
+
+#EXTINF:-1,KLAN KOSOVA Live
+http://84.22.48.253:8080/klanks/test.m3u8
+
+#EXTINF:-1,TV KLAN n/a
 http://edge.ultracast.me:1935/live/klan1-albparajsaEtRDP/playlist.m3u8?Token&wowzasessionid=1761758004
 
 #EXTINF:-1,RTV 21 n/a
 http://edge.ultracast.me:1935/live/kanalvjedhurngalbparajsaXRftj/playlist.m3u8?Token&wowzasessionid=168666716
 
-#EXTINF:-1,TOP CHANNEL
-http://edge.ultracast.me:1935/live/top-ch-albparajsalnVS8/playlist.m3u8?Token&wowzasessionid=801559567_1000k
-
-#EXTINF:-1,TVSH HD n/a
-http://tring-amd-live.tring.tv/out/u/56_17.m3u8
-
-#EXTINF:-1,RTVSH HD n/a
-http://tring-amd-live.tring.tv/out/u/108_17.m3u8
-
 #EXTINF:-1,TVSH HD
 http://str105mb.setplex.net:1935/str2iosmd5/tvsh_62554_5hfaa/playlist.m3u8
 
-#EXTINF:-1,KLAN KOSOVA
+#EXTINF:-1,K KOSOVA
 http://84.22.48.253:8080/klanks/test.m3u8
 
-#EXTINF:-1,KTV KOHAVISION n/a
-http://tring-amd-live.tring.tv/out/u/96_46.m3u8
-
 #EXTINF:-1,Vision +
-rtmp://live.vizionplus.tv/live//livestream2
+rtmp://live.vizionplus.tv/live/livestream2
 
 #EXTINF:-1,AKSION Film 
 http://94.100.31.242:8183/hls/xz3126/index.m3u8
@@ -41,9 +35,6 @@ http://81.7.13.162/hls/channelone/index.m3u8
 #EXTINF:-1,RTV CH 7
 http://iphone-streaming.ustream.tv/uhls/13432602/streams/live/iphone/playlist.m3u8
 
-#EXTINF:-1,K KOSOVA
-http://84.22.48.253:8080/klanks/test.m3u8
-
 #EXTINF:-1,TRIBUNA
 http://84.22.48.253:8080/tribuna/test.m3u8
 
@@ -52,7 +43,8 @@ http://84.20.77.50:554/live/rtmp.stream/playlist.m3u8
 
 #EXTINF:-1,APOLLON TV
 http://95.107.200.140:554/live/rtmp.stream/playlist.m3u8
-
+#EXTINF:-1,KTV KOHAVISION n/a
+http://tring-amd-live.tring.tv/out/u/96_46.m3u8
 #EXTINF:-1,A1 REPORT HD n/a
 http://tring-amd-live.tring.tv/out/u/65_53.m3u8
 
@@ -72,7 +64,7 @@ rtmp://str103.setplex.net/228/stv_online
 #EXTINF:-1,STV FOLK TV
 rtmp://str103.setplex.net:1935/228/stv_folk
 
-#EXTINF:-1, RTV Sharri HD
+#EXTINF:-1,RTV Sharri HD
 rtmp://live.opoja.tv:1935/8006/8006
 
 #EXTINF:-1,BlueSky TV Muzik
@@ -139,8 +131,7 @@ http://81.7.13.162/hls/oranews/index.m3u8
 http://xabcalbaniax.api.channel.livestream.com/3.0/playlist.m3u8
 
 #EXTINF:-1,ARTA TV
-http://84.22.48.253:8080/artanews/test.m3u8
-
+http://livestream.artmotion.al:8080/artanews/
 #EXTINF:-1,BESA TV
 http://rtvbesa.shqiptv.org/8024/8024/index.m3u8
 
@@ -192,14 +183,11 @@ http://www.google.com/
 
 #EXTINF:-1,SS 1 HD
 http://80.80.160.201/http_livestr.m3u8?id=ssnews
-#EXTINF:-1,SS 2 HD
+#EXTINF:-1,SS 2 HD n/a
 http://cdn.sportlive.ws/hls/dkZVw--rLqKSStmMZ_xGZQ/1443717156/supersport2.m3u8
 
-#EXTINF:-1,ARENA SPORT 1 SRB
+#EXTINF:-1,ARENA SPORT 1 SRB n/a
 http://5.196.14.179:2509/www.sipragezabava.com/123
-
-#EXTINF:-1,ARENA SPORT 2 SRB
-http://5.196.14.179:2513/www.sipragezabava.com/123
 
 #EXTINF:-1,SPORT NEWS HD IT
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
@@ -208,22 +196,20 @@ http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
 http://edge.ultracast.me:1935/live/Sky1ukvW1jF/playlist.m3u8?Token
 #EXTINF:-1,Sky Sports 3
 http://edge.ultracast.me:1935/live/sky38GYsO/playlist.m3u8?Token
-#EXTINF:-1, Sky Sports 5
+#EXTINF:-1,Sky Sports 5
 http://edge.ultracast.me:1935/live/sky5sdUntfG/playlist.m3u8?Token
 
 #EXTINF:-1,Sport Klub 1 HD srb
 http://77.76.140.251/prgr.m3u8
 
-#EXTINF:0,NFL NETWORK
+#EXTINF:0,NFL NETWORK HD Link 1
 http://nflsvgatlgame3-i.akamaihd.net/hls/live/223175/NFL_Mobile/2015Mobile_NFLN_1500k.m3u8
 
-#EXTINF:0,NFL NETWORK HD
+#EXTINF:0,NFL NETWORK HD Link 2
 http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_2000k.m3u8
 
-#EXTINF:0,NFL NETWORK
-http://nflsvgatlgame3-i.akamaihd.net/hls/live/223175/NFL_Mobile/2015Mobile_NFLN_664k.m3u8
-
-
+#EXTINF:0,NFL NETWORK HD GATE LIVE
+http://nflsvgatlgame3-i.akamaihd.net/hls/live/223175/NFL_Mobile/2015Mobile_NFLN_1000k.m3u8
 
 #EXTINF:-1,[COLOR green][B][UPPERCASE]..:: TE HUAJA ::.. [/UPPERCASE][/B][/COLOR]
 http://www.google.com/
