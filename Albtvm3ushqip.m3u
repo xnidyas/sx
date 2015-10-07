@@ -19,8 +19,11 @@ http://edge.ultracast.me:1935/live/klan1-albparajsaEtRDP/playlist.m3u8?Token&wow
 #EXTINF:-1,RTV 21 n/a
 http://edge.ultracast.me:1935/live/kanalvjedhurngalbparajsaXRftj/playlist.m3u8?Token&wowzasessionid=168666716
 
-#EXTINF:-1,TVSH HD n/a
-http://str105mb.setplex.net:1935/str2iosmd5/tvsh_62554_5hfaa/playlist.m3u8
+#EXTINF:-1,TVSH HD Link 1
+http://iphone-streaming.ustream.tv/uhls/18947414/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,TVSH HD Link 2
+http://str105mb.setplex.net:1935/str2iosmd5/tvsh_62554_5hfaa/playlist_1000k.m3u8
+
 
 #EXTINF:-1,Vision +
 rtmp://live.vizionplus.tv/live/livestream2
