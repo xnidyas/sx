@@ -188,6 +188,9 @@ http://80.80.160.201/http_livestr.m3u8?id=ssnews
 #EXTINF:-1,SS 2 HD n/a
 http://cdn.sportlive.ws/hls/dkZVw--rLqKSStmMZ_xGZQ/1443717156/supersport2.m3u8
 
+#EXTINF:-1,TVSH SPORT
+http://akamai127.tibo.tv/tvsh/index.m3u8
+
 #EXTINF:-1,ARENA SPORT 1 SRB n/a
 http://5.196.14.179:2509/www.sipragezabava.com/123
 
