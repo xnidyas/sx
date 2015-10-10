@@ -1,15 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1,### ALBANIAN CHANNELS ###
-#EXTINF:-1,TV OPOJA Link 1
-rtmp://live.opoja.tv:1935/8016/8016
-#EXTINF:-1,TV OPOJA Link 2
+#EXTINF:-1,TV OPOJA MUSIC HD
 rtmp://live.opoja.tv:1935/8016/8016
 #EXTINF:-1,3+HDTV MUSIC
 rtsp://live.tv3plushd.com:1935/8008/8008
-#EXTINF:-1,Super Sonic TV
+#EXTINF:-1,Super Sonic TVhd
 rtmp://str103.setplex.net/228/stv_online
-#EXTINF:-1,STV FOLK TV
+#EXTINF:-1,STV FOLK TVHD
 rtmp://str103.setplex.net:1935/228/stv_folk
 #EXTINF:-1,RTV Sharri HD
 rtmp://live.opoja.tv:1935/8006/8006
@@ -186,6 +184,7 @@ http://str105mb.setplex.net:1935/str2iosmd5/7ios_rozafa_65226289/HasBahCa.m3u8
 http://str105mb.setplex.net:1935/str2iosmd5/7ios_tvteuta_34654675644/HasBahCa.m3u8
 
 #EXTINF:-1,### EX YUGOSLAVIAN CHANNELS ###
+
 #EXTINF:-1,RTCG mms
 mms://195.252.114.172/tvcg
 #EXTINF:-1,SAT TVCG
@@ -435,6 +434,49 @@ http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/1165.ts
 http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/1476.ts
 #EXTINF:-1,SPORTS Hunting & Fishing (Chasse & Pesce)
 http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/1531.ts
+
+#EXTINF:-1,### USA CHANNELS ###
+http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/2110.ts
+#EXTINF:-1,USA ABC News
+http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/1007.ts
+#EXTINF:-1,USA AMC
+http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/3552.ts
+#EXTINF:-1,USA Animal Planet
+http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/3570.ts
+#EXTINF:-1,USA Bein USA
+http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/3575.ts
+#EXTINF:-1,USA Big Ten
+http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/3096.ts
+#EXTINF:-1,USA Bloomberg
+http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/3576.ts
+#EXTINF:-1,USA CNBC
+http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/3112.ts
+#EXTINF:-1,USA CNN
+http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/3139.ts
+#EXTINF:-1,USA ESPN USA
+http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/1360.ts
+#EXTINF:-1,USA Fox Sports 1
+http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/740.ts
+#EXTINF:-1,USA FOX Sports 2
+http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/3111.ts
+#EXTINF:-1,USA NBA TV
+http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/3153.ts
+#EXTINF:-1,USA NBC SN
+http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/843.ts
+#EXTINF:-1,USA Spike
+http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/3094.ts
+#EXTINF:-1,USA TSN 1
+http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/717.ts
+#EXTINF:-1,USA TSN 2
+http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/718.ts
+#EXTINF:-1,USA  TSN 3
+http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/3097.ts
+#EXTINF:-1,USA TSN 4
+http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/720.ts
+#EXTINF:-1,USA TSN 5
+http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/844.ts
+#EXTINF:-1,USA TNT
+http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/3553.ts
 
 #EXTINF:-1,### GREEK CHANNELS ###
 http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/615.ts
@@ -1735,48 +1777,7 @@ http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/2266.ts
 http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/2411.ts
 #EXTINF:-1,ES TVN Chile
 http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/3329.ts
-#EXTINF:-1,### USA CHANNELS ###
-http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/2110.ts
-#EXTINF:-1,USA ABC News
-http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/1007.ts
-#EXTINF:-1,USA AMC
-http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/3552.ts
-#EXTINF:-1,USA Animal Planet
-http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/3570.ts
-#EXTINF:-1,USA Bein USA
-http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/3575.ts
-#EXTINF:-1,USA Big Ten
-http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/3096.ts
-#EXTINF:-1,USA Bloomberg
-http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/3576.ts
-#EXTINF:-1,USA CNBC
-http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/3112.ts
-#EXTINF:-1,USA CNN
-http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/3139.ts
-#EXTINF:-1,USA ESPN USA
-http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/1360.ts
-#EXTINF:-1,USA Fox Sports 1
-http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/740.ts
-#EXTINF:-1,USA FOX Sports 2
-http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/3111.ts
-#EXTINF:-1,USA NBA TV
-http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/3153.ts
-#EXTINF:-1,USA NBC SN
-http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/843.ts
-#EXTINF:-1,USA Spike
-http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/3094.ts
-#EXTINF:-1,USA TSN 1
-http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/717.ts
-#EXTINF:-1,USA TSN 2
-http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/718.ts
-#EXTINF:-1,USA  TSN 3
-http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/3097.ts
-#EXTINF:-1,USA TSN 4
-http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/720.ts
-#EXTINF:-1,USA TSN 5
-http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/844.ts
-#EXTINF:-1,USA TNT
-http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/3553.ts
+
 #EXTINF:-1,### TURKISH CHANNELS ###
 http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/2322.ts
 #EXTINF:-1,TR A Spor
