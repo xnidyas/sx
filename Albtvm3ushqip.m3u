@@ -114,7 +114,7 @@ http://str105mb.setplex.net:1935/str2iosmd5/33ios_newstv_23652182/playlist_664k.
 #EXTINF:-1,MPT MK
 http://str105mb.setplex.net:1935/str2iosmd5/7ios_MKTV2_32289956/playlist_1000k.m3u8
 
-#EXTINF:-1, TIRANA TV HD  *not working
+#EXTINF:-1,TIRANA TV HD  *not working
 http://tring-amd-live.tring.tv/out/u/90_77.m3u8
 
 #EXTINF:-1,[COLOR orange][B][UPPERCASE]..:: LOKALE ::.. [/UPPERCASE][/B][/COLOR]
@@ -123,7 +123,7 @@ http://www.google.com/
 #EXTINF:-1,ELBASANI TV
 http://xredinezirix.api.channel.livestream.com/3.0/playlist.m3u8
 
-#EXTINF:-1,NEWS 24
+#EXTINF:-0,NEWS 24 n/a
 rtmp://66.55.93.203/livepkgr/n24stream
 
 #EXTINF:-1,ORA NEWS
@@ -191,9 +191,6 @@ http://cdn.sportlive.ws/hls/dkZVw--rLqKSStmMZ_xGZQ/1443717156/supersport2.m3u8
 #EXTINF:-1,TVSH SPORT
 http://akamai127.tibo.tv/tvsh/index.m3u8
 
-#EXTINF:-1,ARENA SPORT 1 SRB n/a
-http://5.196.14.179:2509/www.sipragezabava.com/123
-
 #EXTINF:-1,SPORT NEWS HD IT
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
 
@@ -219,154 +216,39 @@ http://nflsvgatlgame3-i.akamaihd.net/hls/live/223175/NFL_Mobile/2015Mobile_NFLN_
 #EXTINF:-1,[COLOR green][B][UPPERCASE]..:: TE HUAJA ::.. [/UPPERCASE][/B][/COLOR]
 http://www.google.com/
 
-#EXTINF:0,DM SAT MUSIC TV
+#EXTINF:0,DM SAT MUSIC TV 
 http://4.31.30.135:1935/st3fstv/17ios_DMSAT_4453811/chunklist_w1342700796_1000k.m3u8
 #EXTINF:0,DUGA+ TV 
 http://w10.streamgb.com:1935/dugaplus/dugaplus/chunklist_w1672567553.m3u8
+#EXTINF:0,DS TVHD
+rtmp://46.249.95.140:80/live/livestream
 
-#EXTINF:0,OTV VALENTINO BH
+#EXTINF:0,OTV VALENTINO BH 
 http://4.31.30.135:1935/st3fstv/20ios_VALENTINO_4584512/chunklist_w2100288736.m3u8
 
 #EXTINF:-1,RTCG mms
 mms://195.252.114.172/tvcg
 
-#EXTINF:0,PINKTV HD *FARMA*
-http://edge1.volim.tv/live/pink.stream/playlist.m3u8?hash=41f1c9080b62848336609fcc1aab1f744723af0e
-
-#EXTINF:0,Pink Reality *24H FARMA*
-http://178.253.194.68:1935/liveloworigin/pinkreality.stream/playlist.m3u8
-
-#EXTINF:-1,HAPPYTV HD *PAROVI*
-http://edge1.volim.tv/live/happy.stream/playlist.m3u8?hash=2baa99ec4c5c5141cd8d78ca3dfbbb6ece7745dc
-
 #EXTINF:0,BN MUSIC
 http://lag2.tv-mobile.org:22637/udp/231.2.3.6:1234
-
-#EXTINF:-1,PINK WORLD
-rtsp://212.200.113.136:1935/iptv/iptv40031.stream
-
-#EXTINF:0,PINK TV
-http://178.253.194.68:1935/liveloworigin/_definst_/pink.stream/chunklist_w97102467.m3u8
 
 #EXTINF:0,Balkan RTV
 rtmp://yayin.tvdunyasi.tv/live/balkanrtv
 
-#EXTINF:-1,PINK CLASSIC
-http://178.253.194.68:1935/liveloworigin/pinkclassic.stream/playlist.m3u8
-
-#EXTINF:-1,PINK MUSIC 
-http://178.253.194.68:1935/liveloworigin/pinkmusic.stream/playlist.m3u8
-
-#EXTINF:0,Pink Music 2
-http://178.253.194.68:1935/liveloworigin/pinkmusic2.stream/playlist.m3u8
-
-#EXTINF:-1,PINK ZABAVA
-http://www.nasatv.eu:80/live?channelId=62&uid=7&deviceUser=dm800&devicePass=dm800
-
-#EXTINF:-1,HAPPY
-http://edge1.volim.tv/live/happy.stream/playlist.m3u8?hash=41f1c9080b62848336609fcc1aab1f744723af0e
-
-#EXTINF:-1,TV PRVA
-http://edge1.volim.tv/live/prva.stream/playlist.m3u8?hash=90df8700863cdf89ca0d31e74377ea58f060e02e
-
 #EXTINF:-1,SAT TVCG
 rtsp://beotelmedia.beotel.net/tvcg
 
-#EXTINF:0, AL Jazeera Balkan 
+#EXTINF:0,AL Jazeera Balkan 
 rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live?videoId=1258549906001&pubId=/aljazeera_balkans_high
 
-#EXTINF:-1,Atlas TV SRB 
+#EXTINF:-1,Atlas TV SRB/Belle Amie
 rtmp://92.60.234.98:1935/live/myStream
 
 #EXTINF:-1,RTS SATELIT SRB
 rtsp://195.252.113.40/rts
 
-#EXTINF:-1,RTRS SRB
-http://edge1.volim.tv/live/rtrs.stream/HasBahCa.m3u8?hash=206dc563f74bad817eb851dced9cd089b71b7a3f
-
 #EXTINF:-1,BALKAN RTV
 rtmp://yayin.tvdunyasi.tv/live/balkanrtv
 
-#EXTINF:-1,[COLOR pink][B][UPPERCASE]..:: PINK TV 9/24/15 ::.. [/UPPERCASE][/B][/COLOR]
+#EXTINF:-1,[COLOR pink][B][UPPERCASE]..:: PINK TV DOWN N/A ::.. [/UPPERCASE][/B][/COLOR]
 http://www.google.com/
-
-#EXTINF:0,Pink Horror
-http://178.253.194.68:1935/liveloworigin/pinkhorror.stream/playlist.m3u8
-#EXTINF:0,Pink Pedia
-http://178.253.194.68:1935/liveloworigin/pinkpedia.stream/playlist.m3u8
-#EXTINF:0,Pink Comedy
-http://178.253.194.68:1935/liveloworigin/pinkcomedy.stream/playlist.m3u8
-#EXTINF:0,Pink Premium
-http://178.253.194.68:1935/liveloworigin/pinkpremium.stream/playlist.m3u8
-#EXTINF:0,Pink Reality
-http://178.253.194.68:1935/liveloworigin/pinkreality.stream/playlist.m3u8
-#EXTINF:0,Pink Film
-http://178.253.194.68:1935/liveloworigin/pinkfilm.stream/playlist.m3u8
-#EXTINF:0,Pink Classic
-http://178.253.194.68:1935/liveloworigin/pinkclassic.stream/playlist.m3u8
-#EXTINF:0,Pink Kids
-http://178.253.194.68:1935/liveloworigin/pinkkids.stream/playlist.m3u8
-#EXTINF:0,Pink Movies
-http://109.206.96.129:1935/live/pinkmovies.stream/playlist.m3u8
-#EXTINF:0,Pink Action
-http://178.253.194.68:1935/liveloworigin/pinkaction.stream/playlist.m3u8
-#EXTINF:0,Pink 2
-http://178.253.194.68:1935/liveloworigin/pink2.stream/playlist.m3u8
-#EXTINF:0,Pink Family
-http://178.253.194.68:1935/liveloworigin/pinkfamily.stream/playlist.m3u8
-#EXTINF:0,Pink Fashion
-http://178.253.194.68:1935/liveloworigin/pinkfashion.stream/playlist.m3u8
-#EXTINF:0,Pink Music
-http://178.253.194.68:1935/liveloworigin/pinkmusic.stream/playlist.m3u8
-#EXTINF:0,Pink Music 2
-http://178.253.194.68:1935/liveloworigin/pinkmusic2.stream/playlist.m3u8
-#EXTINF:0,PINK FOLK 2
-rtsp://212.200.113.136:1935/iptv/iptv40026.stream
-#EXTINF:0,DSTV MUSIC
-rtmp://46.249.95.140:80/live/livestream
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
