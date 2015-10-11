@@ -1,14 +1,15 @@
 #EXTM3U
 
 #EXTINF:-1,### ALBANIAN CHANNELS ###
-#EXTINF:-1,TV OPOJA MUSIC HD
-rtmp://live.opoja.tv:1935/8016/8016
+
 #EXTINF:-1,3+HDTV MUSIC
 rtsp://live.tv3plushd.com:1935/8008/8008
-#EXTINF:-1,Super Sonic TVhd
+#EXTINF:-1,Super Sonic TVHD
 rtmp://str103.setplex.net/228/stv_online
 #EXTINF:-1,STV FOLK TVHD
 rtmp://str103.setplex.net:1935/228/stv_folk
+#EXTINF:-1,TV OPOJA HD
+rtmp://live.opoja.tv:1935/8016/8016
 #EXTINF:-1,RTV Sharri HD
 rtmp://live.opoja.tv:1935/8006/8006
 
