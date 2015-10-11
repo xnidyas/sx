@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1,[COLOR blue][B][UPPERCASE]..:: ALBTV by BES! ::.. [/UPPERCASE][/B][/COLOR][COLOR red][B][UPPERCASE]-Report broken links![/UPPERCASE][/B][/COLOR]
+http://bit.ly/1NUayLG
 #EXTINF:-1,### ALBANIAN CHANNELS ###
 
 #EXTINF:-1,3+HDTV MUSIC
@@ -12,6 +13,8 @@ rtmp://str103.setplex.net:1935/228/stv_folk
 rtmp://live.opoja.tv:1935/8016/8016
 #EXTINF:-1,RTV Sharri HD
 rtmp://live.opoja.tv:1935/8006/8006
+#EXTINF:-1,ALB Music HD
+http://188.138.17.8:1935/albuk/albmus.stream/index.m3u8
 
 http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/821.ts
 #EXTINF:-1,AL RTV 21
@@ -76,6 +79,10 @@ http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/2298.ts
 http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/2166.ts
 #EXTINF:-1,AL Klan Kosova
 http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/1262.ts
+
+#EXTINF:-1,KLAN KOSOVA Live
+http://84.22.48.253:8080/klanks/test.m3u8
+
 #EXTINF:-1,AL KTV
 http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/1261.ts
 #EXTINF:-1,AL My Music
@@ -177,12 +184,22 @@ http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/3563.ts
 #EXTINF:-1,NL TLC
 http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/3192.ts
 
+#EXTINF:-1,ELBASANI TV
+http://xredinezirix.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1,TV Kopliku 
 http://str105mb.setplex.net:1935/str2iosmd5/tvkop3542121/playlist.m3u8
 #EXTINF:-1,TV Rozafa
 http://str105mb.setplex.net:1935/str2iosmd5/7ios_rozafa_65226289/HasBahCa.m3u8
 #EXTINF:-1,TV Teuta
 http://str105mb.setplex.net:1935/str2iosmd5/7ios_tvteuta_34654675644/HasBahCa.m3u8
+#EXTINF:-1,CHANNEL 1.
+http://81.7.13.162/hls/channelone/index.m3u8
+#EXTINF:-1,TRIBUNA
+http://84.22.48.253:8080/tribuna/test.m3u8
+#EXTINF:-1,BlueSky TV Muzik
+http://str105mb.setplex.net:1935/str2iosmd5/blueskytv_265265_266548/playlist_664k.m3u8
+#EXTINF:-1,Gurra TV Muzik
+http://iphone-streaming.ustream.tv/uhls/18868686/streams/live/iphone/playlist.m3u8
 
 #EXTINF:-1,### EX YUGOSLAVIAN CHANNELS ###
 
