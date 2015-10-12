@@ -2,7 +2,6 @@
 #EXTINF:-1,[COLOR blue][B][UPPERCASE]..:: ALBTV by BES! ::.. [/UPPERCASE][/B][/COLOR][COLOR red][B][UPPERCASE]-Report broken links![/UPPERCASE][/B][/COLOR]
 http://bit.ly/1NUayLG
 #EXTINF:-1,### ALBANIAN CHANNELS ###
-
 #EXTINF:-1,3+HDTV MUSIC
 rtsp://live.tv3plushd.com:1935/8008/8008
 #EXTINF:-1,Super Sonic TVHD
@@ -16,7 +15,6 @@ rtmp://live.opoja.tv:1935/8006/8006
 #EXTINF:-1,ALB Music HD
 http://188.138.17.8:1935/albuk/albmus.stream/index.m3u8
 
-http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/821.ts
 #EXTINF:-1,AL RTV 21
 http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/2172.ts
 #EXTINF:-1,AL 21 Popullore
@@ -201,8 +199,9 @@ http://str105mb.setplex.net:1935/str2iosmd5/blueskytv_265265_266548/playlist_664
 #EXTINF:-1,Gurra TV Muzik
 http://iphone-streaming.ustream.tv/uhls/18868686/streams/live/iphone/playlist.m3u8
 
-#EXTINF:-1,### EX YUGOSLAVIAN CHANNELS ###
-
+#EXTINF:-1,[COLOR green][B][UPPERCASE].:: EX-YU HDTV + PINK! ::.[/UPPERCASE][/B][/COLOR]
+http://www.google.com/
+#EXTINF:-0,### EX YUGOSLAVIAN CHANNELS ###
 #EXTINF:-1,RTCG mms
 mms://195.252.114.172/tvcg
 #EXTINF:-1,SAT TVCG
@@ -212,7 +211,6 @@ rtsp://195.252.113.40/rts
 #EXTINF:-1,RTRS SRB
 http://edge1.volim.tv/live/rtrs.stream/HasBahCa.m3u8?hash=206dc563f74bad817eb851dced9cd089b71b7a3f
 
-http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/676.ts
 #EXTINF:-1,RS  PINK FILM
 http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/304.ts
 #EXTINF:-1,RS Animal Planet
@@ -348,7 +346,9 @@ http://w10.streamgb.com:1935/dugaplus/dugaplus/chunklist_w1672567553.m3u8
 #EXTINF:0,OTV VALENTINO BH
 http://4.31.30.135:1935/st3fstv/20ios_VALENTINO_4584512/chunklist_w2100288736.m3u8
 
-#EXTINF:-1,### SPORTS CHANNELS ###
+#EXTINF:-1,[COLOR neon][B][UPPERCASE].:: SPORTS ::.[/UPPERCASE][/B][/COLOR]
+http://www.google.com/
+#EXTINF:-1,### SPORTS CHANNELS IPTV ###
 http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/677.ts
 #EXTINF:-1,SPORTS Arena sport 1
 http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/364.ts
@@ -453,6 +453,9 @@ http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/1476.ts
 #EXTINF:-1,SPORTS Hunting & Fishing (Chasse & Pesce)
 http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/1531.ts
 
+
+#EXTINF:-1,[COLOR yellow][B][UPPERCASE].:: USA CHANNELS IPTV! ::.[/UPPERCASE][/B][/COLOR]
+http://www.google.com/
 #EXTINF:-1,### USA CHANNELS ###
 http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/2110.ts
 #EXTINF:-1,USA ABC News
@@ -496,7 +499,7 @@ http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/844.ts
 #EXTINF:-1,USA TNT
 http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/3553.ts
 
-#EXTINF:-1,### ITALIAN CHANNELS ###
+#EXTINF:-0,### ITALIAN CHANNELS ###
 #EXTINF:-1,IT Premium Calcio
 http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/127.ts
 #EXTINF:-1,IT Premium Calcio 1
@@ -535,7 +538,7 @@ http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/3676.ts
 http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/180.ts
 #EXTINF:-1,IT Sky Supercalcio
 http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/3214.ts
-#EXTINF:-1,### BEIN SPORT CHANNELS ###
+#EXTINF:-0,### BEIN SPORT CHANNELS ###
 http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/819.ts
 #EXTINF:-1,BEIN SPORTS 1
 http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/1622.ts
@@ -923,101 +926,3 @@ http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/2295.ts
 http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/2619.ts
 #EXTINF:-1,-------- XXX VIDEO ON DEMAND XXX ----------
 http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/2629.ts
-#EXTINF:-1,##########  VOD MOVIES   ##########
-http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/2786.ts
-#EXTINF:-1,JURASSIC WORLD (GR)
-http://iptvchoice.zapto.org:8000/movie/Saydinx@gmail.com/UOY3cutq3S/3564.mp4
-#EXTINF:-1,Home (GR)
-http://iptvchoice.zapto.org:8000/movie/Saydinx@gmail.com/UOY3cutq3S/3500.mkv
-#EXTINF:-1,Grand Budabest hotel
-http://iptvchoice.zapto.org:8000/movie/Saydinx@gmail.com/UOY3cutq3S/3353.mp4
-#EXTINF:-1,Fast and furious 7
-http://iptvchoice.zapto.org:8000/movie/Saydinx@gmail.com/UOY3cutq3S/3311.mp4
-#EXTINF:-1,Frozen (GR)
-http://iptvchoice.zapto.org:8000/movie/Saydinx@gmail.com/UOY3cutq3S/3310.mp4
-#EXTINF:-1,Focus (GR)
-http://iptvchoice.zapto.org:8000/movie/Saydinx@gmail.com/UOY3cutq3S/3309.mp4
-#EXTINF:-1,Fifty shades of grey (GR)
-http://iptvchoice.zapto.org:8000/movie/Saydinx@gmail.com/UOY3cutq3S/3308.mp4
-#EXTINF:-1,Fear clinic (GR)
-http://iptvchoice.zapto.org:8000/movie/Saydinx@gmail.com/UOY3cutq3S/3307.mp4
-#EXTINF:-1,Exodus gods and kings (GR)
-http://iptvchoice.zapto.org:8000/movie/Saydinx@gmail.com/UOY3cutq3S/3305.mp4
-#EXTINF:-1,Ex Machina (GR)
-http://iptvchoice.zapto.org:8000/movie/Saydinx@gmail.com/UOY3cutq3S/3304.mkv
-#EXTINF:-1,Escobar paradise lost (GR)
-http://iptvchoice.zapto.org:8000/movie/Saydinx@gmail.com/UOY3cutq3S/3303.mp4
-#EXTINF:-1,Ela na gimnothoume darling (GREEK)
-http://iptvchoice.zapto.org:8000/movie/Saydinx@gmail.com/UOY3cutq3S/3302.mp4
-#EXTINF:-1,Dying of the light (GR)
-http://iptvchoice.zapto.org:8000/movie/Saydinx@gmail.com/UOY3cutq3S/3301.mp4
-#EXTINF:-1,Dragonheart 3 (GR)
-http://iptvchoice.zapto.org:8000/movie/Saydinx@gmail.com/UOY3cutq3S/3300.mp4
-#EXTINF:-1,Divergent (GR)
-http://iptvchoice.zapto.org:8000/movie/Saydinx@gmail.com/UOY3cutq3S/3299.mp4
-#EXTINF:-1,Desecrated (GR)
-http://iptvchoice.zapto.org:8000/movie/Saydinx@gmail.com/UOY3cutq3S/3298.mp4
-#EXTINF:-1,Cyberbully (GR)
-http://iptvchoice.zapto.org:8000/movie/Saydinx@gmail.com/UOY3cutq3S/3297.mp4
-#EXTINF:-1,City 44 (GR)
-http://iptvchoice.zapto.org:8000/movie/Saydinx@gmail.com/UOY3cutq3S/3296.mp4
-#EXTINF:-1,Cinderella (GR)
-http://iptvchoice.zapto.org:8000/movie/Saydinx@gmail.com/UOY3cutq3S/3295.mp4
-#EXTINF:-1,Chappie (GR)
-http://iptvchoice.zapto.org:8000/movie/Saydinx@gmail.com/UOY3cutq3S/3294.mp4
-#EXTINF:-1,Catch hell (GR)
-http://iptvchoice.zapto.org:8000/movie/Saydinx@gmail.com/UOY3cutq3S/3293.mp4
-#EXTINF:-1,Captain Phillips (GR)
-http://iptvchoice.zapto.org:8000/movie/Saydinx@gmail.com/UOY3cutq3S/3292.mp4
-#EXTINF:-1,BY THE GUN (GR)
-http://iptvchoice.zapto.org:8000/movie/Saydinx@gmail.com/UOY3cutq3S/3291.mp4
-#EXTINF:-1,Breath (GR)
-http://iptvchoice.zapto.org:8000/movie/Saydinx@gmail.com/UOY3cutq3S/3290.mp4
-#EXTINF:-1,Boyhood (GR)
-http://iptvchoice.zapto.org:8000/movie/Saydinx@gmail.com/UOY3cutq3S/3289.mp4
-#EXTINF:-1,Blended (GR)
-http://iptvchoice.zapto.org:8000/movie/Saydinx@gmail.com/UOY3cutq3S/3288.mp4
-#EXTINF:-1,Birdman (GR)
-http://iptvchoice.zapto.org:8000/movie/Saydinx@gmail.com/UOY3cutq3S/3287.mp4
-#EXTINF:-1,Big eyes (GR)
-http://iptvchoice.zapto.org:8000/movie/Saydinx@gmail.com/UOY3cutq3S/3286.mp4
-#EXTINF:-1,Big driver (GR)
-http://iptvchoice.zapto.org:8000/movie/Saydinx@gmail.com/UOY3cutq3S/3285.mp4
-#EXTINF:-1,Before I go to sleep (GR)
-http://iptvchoice.zapto.org:8000/movie/Saydinx@gmail.com/UOY3cutq3S/3284.mp4
-#EXTINF:-1,Beethoven treasure tail (GR)
-http://iptvchoice.zapto.org:8000/movie/Saydinx@gmail.com/UOY3cutq3S/3283.mp4
-#EXTINF:-1,Badge Of Honour (GR)
-http://iptvchoice.zapto.org:8000/movie/Saydinx@gmail.com/UOY3cutq3S/3281.mp4
-#EXTINF:-1,Ask me anything (GR)
-http://iptvchoice.zapto.org:8000/movie/Saydinx@gmail.com/UOY3cutq3S/3280.mp4
-#EXTINF:-1,As above so below (GR)
-http://iptvchoice.zapto.org:8000/movie/Saydinx@gmail.com/UOY3cutq3S/3278.mp4
-#EXTINF:-1,Animal (GR)
-http://iptvchoice.zapto.org:8000/movie/Saydinx@gmail.com/UOY3cutq3S/3276.mp4
-#EXTINF:-1,American heist (GR)
-http://iptvchoice.zapto.org:8000/movie/Saydinx@gmail.com/UOY3cutq3S/3274.mp4
-#EXTINF:-1,Alexander and the terrible horrible no good day (GR)
-http://iptvchoice.zapto.org:8000/movie/Saydinx@gmail.com/UOY3cutq3S/3272.mp4
-#EXTINF:-1,Age Of Ice (GR)
-http://iptvchoice.zapto.org:8000/movie/Saydinx@gmail.com/UOY3cutq3S/3270.mp4
-#EXTINF:-1,Against Sun  (GR)
-http://iptvchoice.zapto.org:8000/movie/Saydinx@gmail.com/UOY3cutq3S/3269.mp4
-#EXTINF:-1,About time (GR)
-http://iptvchoice.zapto.org:8000/movie/Saydinx@gmail.com/UOY3cutq3S/3267.mp4
-#EXTINF:-1,A most violent year (GR)
-http://iptvchoice.zapto.org:8000/movie/Saydinx@gmail.com/UOY3cutq3S/3275.mp4
-#EXTINF:-1,A master builder (GR)
-http://iptvchoice.zapto.org:8000/movie/Saydinx@gmail.com/UOY3cutq3S/3273.mp4
-#EXTINF:-1,A good way to die hard (GR)
-http://iptvchoice.zapto.org:8000/movie/Saydinx@gmail.com/UOY3cutq3S/3271.mp4
-#EXTINF:-1,A daughters Niightmare (GR)
-http://iptvchoice.zapto.org:8000/movie/Saydinx@gmail.com/UOY3cutq3S/3268.mkv
-#EXTINF:-1,71 (GR)
-http://iptvchoice.zapto.org:8000/movie/Saydinx@gmail.com/UOY3cutq3S/3247.mp4
-#EXTINF:-1,300 Rise of Empire (GR)
-http://iptvchoice.zapto.org:8000/movie/Saydinx@gmail.com/UOY3cutq3S/3264.mp4
-#EXTINF:-1,2047 Sights of Death (GR)
-http://iptvchoice.zapto.org:8000/movie/Saydinx@gmail.com/UOY3cutq3S/3265.mp4
-#EXTINF:-1,12 Years a Slave (GR)
-http://iptvchoice.zapto.org:8000/movie/Saydinx@gmail.com/UOY3cutq3S/3245.mp4
