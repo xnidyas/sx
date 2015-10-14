@@ -90,6 +90,10 @@ http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/1289.ts
 #EXTINF:-1,AL News 24
 http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/2176.ts
 
+#EXTINF:-1,NEWS 24
+rtmp://81.7.13.162/news24/news24?e=1444260896&st=sQ4nPGn446h5Ao-4wtddxA
+#EXTINF:-1,A1 REPORT News
+rtmp://66.55.93.204/livepkgr/stream?adbe-live-event=report&amp;width=100%
 #EXTINF:-1,ORA NEWS
 http://81.7.13.162/hls/oranews/index.m3u8
 #EXTINF:-1,RROKUM TV
@@ -109,7 +113,7 @@ http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/1295.ts
 http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/2175.ts
 
 #EXTINF:-1,Super Sport News HD
-http://80.80.160.201/http_livestr.m3u8?id=ssnews
+http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/1203.ts
 
 #EXTINF:-1,AL Super Sport 1
 http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/1315.ts
