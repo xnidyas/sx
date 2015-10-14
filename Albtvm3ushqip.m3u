@@ -4,6 +4,10 @@ http://bit.ly/1NUayLG
 
 #EXTINF:-1,[COLOR yellow][B][UPPERCASE]..:: KRYESORE ::.. [/UPPERCASE][/B][/COLOR]
 http://www.google.com/
+#EXTINF:-1,A1 REPORT News
+rtmp://66.55.93.204/livepkgr/stream?adbe-live-event=report&amp;width=100%
+#EXTINF:-1,NEWS 24
+rtmp://81.7.13.162/news24/news24?e=1444260896&st=sQ4nPGn446h5Ao-4wtddxA
 
 #EXTINF:-1,TOP CHANNEL Live
 http://edge.ultracast.me:1935/live/top-ch-albparajsa26A5Gt/playlist.m3u8?Token
