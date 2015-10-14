@@ -93,7 +93,7 @@ http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/2176.ts
 #EXTINF:-1,NEWS 24
 rtmp://81.7.13.162/news24/news24?e=1444260896&st=sQ4nPGn446h5Ao-4wtddxA
 #EXTINF:-1,A1 REPORT News
-rtmp://66.55.93.204/livepkgr/stream?adbe-live-event=report&amp;width=100%
+rtmp://66.55.93.204/livepkgr/stream?adbe-live-event
 #EXTINF:-1,ORA NEWS
 http://81.7.13.162/hls/oranews/index.m3u8
 #EXTINF:-1,RROKUM TV
@@ -181,10 +181,6 @@ http://str105mb.setplex.net:1935/str2iosmd5/tvsh_62554_5hfaa/playlist_1000k.m3u8
 
 #EXTINF:-1,AL Vizion Plus
 http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/1322.ts
-#EXTINF:-1,NL Syfy
-http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/3563.ts
-#EXTINF:-1,NL TLC
-http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/3192.ts
 
 #EXTINF:-1,ELBASANI TV
 http://xredinezirix.api.channel.livestream.com/3.0/playlist.m3u8
