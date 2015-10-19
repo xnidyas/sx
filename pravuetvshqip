@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1,[COLOR blue][B][UPPERCASE]..:: ALBTV by BES! ::.. [/UPPERCASE][/B][/COLOR][COLOR red][B][UPPERCASE]-Report broken links![/UPPERCASE][/B][/COLOR]
+http://bit.ly/1NUayLG
+#EXTINF:-1,[COLOR red][B][UPPERCASE]..:: PRAVUE CAFE! ::.. [/UPPERCASE][/B][/COLOR]
+http://www.google.com/
+
+#EXTINF:-1,TV OPOJA Link 1
+rtmp://live.opoja.tv:1935/8016/8016
+
+#EXTINF:-1,3+HDTV MUSIC
+rtsp://live.tv3plushd.com:1935/8008/8008
+
+#EXTINF:-1,Super Sonic TVHD link 1
+rtmp://str103.setplex.net/228/stv_online
+
+#EXTINF:-1,Super Sonic TVHD link 2
+http://str103.setplex.net:1935/228/stv_online/playlist.m3u8
+
+#EXTINF:-1,STV FOLK TV
+rtmp://str103.setplex.net:1935/228/stv_folk
+
+#EXTINF:-1,RTV Sharri HD
+rtmp://live.opoja.tv:1935/8006/8006
+
+#EXTINF:-1,Gurra TV Muzik
+http://iphone-streaming.ustream.tv/uhls/18868686/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1,ALB Music UK HD
+http://188.138.17.8:1935/albuk/albmus.stream/index.m3u8
+
+#EXTINF:-1,STV HD Music
+http://str103.setplex.net:1935/228/stv_online/playlist.m3u8
+
+#EXTINF:-1,ZICO TV
+http://str105mb.setplex.net:1935/str2iosmd5/zicoTV_652_4dfaa/playlist.m3u8
+
+#EXTINF:-1,CHANNEL 1 SHKODRA
+http://xtv1channelshkoderx.api.channel.livestream.com/3.0/playlist.m3u8
+
+#EXTINF:-1,FOLK
+http://4.31.30.135:1935/str2iosmd5/7ios_folkplus_34564765/chunklist_w682165334_1000k.m3u8
+
+#EXTINF:-1,ELBASANI TV
+http://xredinezirix.api.channel.livestream.com/3.0/playlist.m3u8
+
+#EXTINF:-0,TRIBUNA NEWS
+http://84.22.48.253:8080/tribuna/test.m3u8
+
+#EXTINF:-1,ORA NEWS
+http://81.7.13.162/hls/oranews/index.m3u8
+
+#EXTINF:0,NFL NETWORK HD Link 1
+http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_2000k.m3u8
