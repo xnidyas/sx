@@ -223,7 +223,8 @@ http://nflsvgatlgame3-i.akamaihd.net/hls/live/223175/NFL_Mobile/2015Mobile_NFLN_
 
 #EXTINF:-1,[COLOR green][B][UPPERCASE]..:: TE HUAJA ::.. [/UPPERCASE][/B][/COLOR]
 http://www.google.com/
-
+#EXTINF:0,TOP MUSIC Srpski
+http://5.35.240.130:30005
 #EXTINF:0,DM SAT MUSIC TV 
 http://4.31.30.135:1935/st3fstv/17ios_DMSAT_4453811/chunklist_w1342700796_1000k.m3u8
 #EXTINF:0,DUGA+ TV 
