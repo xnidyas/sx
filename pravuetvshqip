@@ -4,6 +4,9 @@ http://bit.ly/1NUayLG
 #EXTINF:-1,[COLOR red][B][UPPERCASE]..:: PRAVUE CAFE! ::.. [/UPPERCASE][/B][/COLOR]
 http://www.google.com/
 
+#EXTINF:-1,RTV Sharri Music HD
+rtmp://live.opoja.tv:1935/8006/8006
+
 #EXTINF:-1,TV OPOJA Link 1
 rtmp://live.opoja.tv:1935/8016/8016
 
@@ -18,9 +21,6 @@ http://str103.setplex.net:1935/228/stv_online/playlist.m3u8
 
 #EXTINF:-1,STV FOLK TV
 rtmp://str103.setplex.net:1935/228/stv_folk
-
-#EXTINF:-1,RTV Sharri HD
-rtmp://live.opoja.tv:1935/8006/8006
 
 #EXTINF:-1,Gurra TV Muzik
 http://iphone-streaming.ustream.tv/uhls/18868686/streams/live/iphone/playlist.m3u8
