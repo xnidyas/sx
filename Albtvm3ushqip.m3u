@@ -1,33 +1,42 @@
 #EXTM3U
 #EXTINF:-1,[COLOR blue][B][UPPERCASE]..:: ALBTV by BES! ::.. [/UPPERCASE][/B][/COLOR][COLOR red][B][UPPERCASE]-Report broken links![/UPPERCASE][/B][/COLOR]
 http://bit.ly/1NUayLG
+#EXTINF:-1,[COLOR pink][B][UPPERCASE]..:: Temporary Channels 11/05/15 ::.. [/UPPERCASE][/B][/COLOR]
+http://www.google.com/
+#EXTINF:-1,AL Klan TVHD
+http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/2166.ts
+#EXTINF:-1,AL Top Channel
+http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/1263.ts
+#EXTINF:-1,AL Top News
+http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/2550.ts
+#EXTINF:-1,AL RTV 21
+http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/2172.ts
+#EXTINF:-1,AL News 24
+http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/2176.ts
+#EXTINF:-1,AL ABC News
+http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/2169.ts
+#EXTINF:-1,AL BBF
+http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/1269.ts
+#EXTINF:-1,AL Big Brother 2
+http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/1981.ts
+#EXTINF:-1,AL Super Sport News HD
+http://iptvchoice.zapto.org:8000/live/Saydinx@gmail.com/UOY3cutq3S/1203.ts
 
 #EXTINF:-1,[COLOR yellow][B][UPPERCASE]..:: KRYESORE ::.. [/UPPERCASE][/B][/COLOR]
 http://www.google.com/
 #EXTINF:-1,NEWS 24
 rtmp://81.7.13.162/news24/news24?e=1444260896&st=sQ4nPGn446h5Ao-4wtddxA
-#EXTINF:-1,A1 REPORT News?
-rtmp://66.55.93.204/livepkgr/stream?adbe-live-event
 
 #EXTINF:-1,TOP CHANNEL Live
 http://edge.ultracast.me:1935/live/top-ch-albparajsa26A5Gt/playlist.m3u8?Token
 
-http://185.63.252.131:1935/liveedge/albparajsatv243_vmwllvj6/chunklist_w1245693865.m3u8
-
 #EXTINF:-1,KLAN KOSOVA Live
 http://84.22.48.253:8080/klanks/test.m3u8
-
-#EXTINF:-1,TV KLAN n/a
-http://edge.ultracast.me:1935/live/klan1-albparajsaEtRDP/playlist.m3u8?Token&wowzasessionid=1761758004
-
-#EXTINF:-1,RTV 21 n/a
-http://edge.ultracast.me:1935/live/kanalvjedhurngalbparajsaXRftj/playlist.m3u8?Token&wowzasessionid=168666716
 
 #EXTINF:-1,TVSH HD Link 1
 http://iphone-streaming.ustream.tv/uhls/18947414/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,TVSH HD Link 2
 http://str105mb.setplex.net:1935/str2iosmd5/tvsh_62554_5hfaa/playlist_1000k.m3u8
-
 
 #EXTINF:-1,Vision +
 rtmp://live.vizionplus.tv/live/livestream2
@@ -41,26 +50,18 @@ http://81.7.13.162/hls/channelone/index.m3u8
 #EXTINF:-1,RTV CH 7
 http://iphone-streaming.ustream.tv/uhls/13432602/streams/live/iphone/playlist.m3u8
 
-#EXTINF:-1,TRIBUNA
+#EXTINF:-1,TRIBUNA NEWS
 http://84.22.48.253:8080/tribuna/test.m3u8
 
 #EXTINF:-1,TV JUG.
 http://84.20.77.50:554/live/rtmp.stream/playlist.m3u8
-
-#EXTINF:-1,APOLLON TV
-http://95.107.200.140:554/live/rtmp.stream/playlist.m3u8
-#EXTINF:-1,KTV KOHAVISION n/a
-http://tring-amd-live.tring.tv/out/u/96_46.m3u8
-#EXTINF:-1,A1 REPORT HD n/a
-http://tring-amd-live.tring.tv/out/u/65_53.m3u8
 
 #EXTINF:-1,[COLOR blue][B][UPPERCASE]..:: MUZIKE ::..  [/UPPERCASE][/B][/COLOR]
 http://www.google.com/
 
 #EXTINF:-1,TV OPOJA Link 1
 rtmp://live.opoja.tv:1935/8016/8016
-#EXTINF:-1,TV OPOJA Link 2
-rtmp://live.opoja.tv:1935/8016/8016
+
 #EXTINF:-1,3+HDTV MUSIC
 rtsp://live.tv3plushd.com:1935/8008/8008
 
@@ -72,6 +73,9 @@ rtmp://str103.setplex.net:1935/228/stv_folk
 
 #EXTINF:-1,RTV Sharri HD
 rtmp://live.opoja.tv:1935/8006/8006
+
+#EXTINF:-1,Gurra TV Muzik
+http://iphone-streaming.ustream.tv/uhls/18868686/streams/live/iphone/playlist.m3u8
 
 #EXTINF:-1,BlueSky TV Muzik
 http://str105mb.setplex.net:1935/str2iosmd5/blueskytv_265265_266548/playlist_664k.m3u8
@@ -126,9 +130,6 @@ http://www.google.com/
 
 #EXTINF:-1,ELBASANI TV
 http://xredinezirix.api.channel.livestream.com/3.0/playlist.m3u8
-
-#EXTINF:-0,NEWS 24 n/a
-rtmp://66.55.93.203/livepkgr/n24stream
 
 #EXTINF:-0,TRIBUNA NEWS
 http://84.22.48.253:8080/tribuna/test.m3u8
@@ -257,7 +258,7 @@ rtsp://195.252.113.40/rts
 #EXTINF:-1,BALKAN RTV
 rtmp://yayin.tvdunyasi.tv/live/balkanrtv
 
-#EXTINF:-1,[COLOR pink][B][UPPERCASE]..:: Temporary Channels ::.. [/UPPERCASE][/B][/COLOR]
+#EXTINF:-1,[COLOR WHITE][B][UPPERCASE]..:: Temporary Channels ::.. [/UPPERCASE][/B][/COLOR]
 http://www.google.com/
 
 
