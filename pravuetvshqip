@@ -10,9 +10,6 @@ rtmp://live.opoja.tv:1935/8006/8006
 #EXTINF:-1,TV OPOJA Link 1
 rtmp://live.opoja.tv:1935/8016/8016
 
-#EXTINF:-1,3+HDTV MUSIC
-rtsp://live.tv3plushd.com:1935/8008/8008
-
 #EXTINF:-1,Super Sonic TVHD link 1
 rtmp://str103.setplex.net/228/stv_online
 
@@ -21,6 +18,9 @@ http://str103.setplex.net:1935/228/stv_online/playlist.m3u8
 
 #EXTINF:-1,STV FOLK TV
 rtmp://str103.setplex.net:1935/228/stv_folk
+
+#EXTINF:-1,3+HDTV MUSIC (ch. down)
+rtsp://live.tv3plushd.com:1935/8008/8008
 
 #EXTINF:-1,Gurra TV Muzik
 http://iphone-streaming.ustream.tv/uhls/18868686/streams/live/iphone/playlist.m3u8
