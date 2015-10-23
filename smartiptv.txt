@@ -366,5 +366,5 @@ ext,VIP: AL Super Sport 4 HD,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eC
 ext,VIP: AL Super Sport 3 HD,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7225.ts
 ext,VIP: AL Super Sport 2 HD,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7227.ts
 ext,VIP: AL Super Sport 1/NEWS HD,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7229.ts
-
-
+ext,VIP: AL Super Sport 1/NEWS HD,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7229.ts
+ext,VIP: AL Super Sport 1/NEWS HD,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7229.ts
