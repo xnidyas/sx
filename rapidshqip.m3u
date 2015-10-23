@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1,[COLOR blue][B][UPPERCASE]..:: ALBTV by BES! ::.. [/UPPERCASE][/B][/COLOR][COLOR red][B][UPPERCASE]-Report broken links![/UPPERCASE][/B][/COLOR]
-http://bit.ly/1NUayLG
-#EXTINF:-1,### ALBANIAN CHANNELS ###
 #EXTINF:-1,3+HDTV MUSIC
 rtsp://live.tv3plushd.com:1935/8008/8008
 #EXTINF:-1,Super Sonic TVHD
