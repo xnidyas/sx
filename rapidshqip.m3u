@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTINF:0 group-title="Test",PIK TV HD
 #EXTINF:-1,3+HDTV MUSIC
 rtsp://live.tv3plushd.com:1935/8008/8008
 #EXTINF:-1,Super Sonic TVHD
