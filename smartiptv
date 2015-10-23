@@ -1,0 +1,370 @@
+ext,3+HDTV MUSIC,rtsp://live.tv3plushd.com:1935/8008/8008
+ext,Super Sonic TVHD,rtmp://str103.setplex.net:1935/228/stv_online
+ext,STV FOLK TVHD,rtmp://str103.setplex.net:1935/228/stv_folk
+ext,TV OPOJA HD,rtmp://live.opoja.tv:1935/8016/8016
+ext,RTV Sharri HD,rtmp://live.opoja.tv:1935/8006/8006
+ext,ALB Music HD,http://188.138.17.8:1935/albuk/albmus.stream/index.m3u8
+KlanTVHD.al,AL: Klan HD,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/3800.ts
+RTV21HD.al,AL: 21 HD,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/3832.ts
+TopChannel.al,AL: Top Channel HD,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/4178.ts
+ext,AL: TVSH,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6090.ts
+ext,AL: Tring Tirana TV,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/4216.ts
+ext,AL: BBF Music,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/3795.ts
+SuperSonicTV.al,AL: SuperSonic TV,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/3810.ts
+ext,AL: Dasma TV,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7076.ts
+ext,AL: Tring Fox,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7061.ts
+etv.gr,AL: E!,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7072.ts
+ext,AL: Tip TV,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7063.ts
+ext,AL: T HD,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7055.ts
+ext,AL: Sharri TV,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7052.ts
+ext,AL: RTV Islam,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7056.ts
+ext,AL: Posasivna TV,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7064.ts
+ext,AL: 3+ Music,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7068.ts
+m1.hu,AL: M1 Film,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7075.ts
+OraNews.al,AL: Ora News,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7066.ts
+ext,AL: Music AL,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7070.ts
+ext,AL: Mad Albania,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7062.ts
+ext,AL: Living HD,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7071.ts
+ext,AL: KTV Kohavision,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7065.ts
+ext,AL: Islam Channel ENG,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7074.ts
+ext,AL: Film Hits Plus 1,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7069.ts
+ext,AL: Elrodi,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7073.ts
+ext,AL: ALB UK,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7060.ts
+ext,AL: A1 Report,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7067.ts
+ext,AL: 3 Plus HD Music,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7051.ts
+ext,AL: Tring Smile,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6258.ts
+ext,AL: RTV 21 Popullore,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6257.ts
+ext,AL: Stv Folk,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6260.ts
+ext,AL: BBF,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6261.ts
+AlsatM.al,AL: Alsat M,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6259.ts
+ABCNews.al,AL: ABC News,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6263.ts
+ext,AL: Rtv Besa,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7005.ts
+ext,AL: RRokum,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7006.ts
+ext,AL: Opoja Tv,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7004.ts
+ext,AL: Tribuna Channel,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7036.ts
+ext,AL: Kutia,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7037.ts
+ext,AL: TV Dukagjini,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7035.ts
+TringPlanet.al,AL: Tring Planet,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6088.ts
+ext,AL: Tring World,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/4213.ts
+ext,AL: Tring Vizion Plus,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/4214.ts
+TringTring.al,AL: Tring Tring,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/4215.ts
+TringSuper.al,AL: Tring Super,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/4218.ts
+TringShqip.al,AL: Tring Shqip,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/4219.ts
+ext,AL: Tring RTV 21 Plus,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/4221.ts
+TringMax.al,AL: Tring Max,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/4223.ts
+ext,AL: Tring Life,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/4224.ts
+ext,AL: Tring KTV,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/4225.ts
+ext,AL: Tring Junior TV,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/4226.ts
+ext,AL: Tring Jolly HD,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/4227.ts
+ext,AL: Tring History,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/4228.ts
+ext,AL: Tring Folk Plus,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/4229.ts
+ext,AL: Tring Fantasy,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/4230.ts
+ext,AL: Tring Era TV,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/4231.ts
+ext,AL: Tring Bang Bang,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/4235.ts
+ext,AL: Tring Agon Channel,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/4236.ts
+ext,AL: Tring 3 Plus,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/4237.ts
+TopNews.al,AL: Top News,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/4209.ts
+ext,AL: T Stinet,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/4197.ts
+ext,AL: SuperSport Kosova 2,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/3823.ts
+ext,AL: SuperSport Kosova 1,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/3822.ts
+ext,AL: T Channel HD,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/4196.ts
+ext,AL: SuperSport 4 HD,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/4201.ts
+ext,AL: SuperSport 3 HD,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/4200.ts
+ext,AL: SuperSport 2 HD,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/4199.ts
+ext,AL: SuperSport 1 HD,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/4198.ts
+ext,AL: RTV 21 Sat,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/4190.ts
+24Kitchen.si,AL: 24Kitchen,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/4191.ts
+news24,AL: News 24,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/4211.ts
+KlanKosova.al,AL: Klan Kosova,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/4189.ts
+ext,AL: FolkLorit,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/4205.ts
+FilmThriller.al,AL: Film Thriller,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/4193.ts
+FilmDrame.al,AL: Film Drame,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/4194.ts
+ext,AL: Explorer Shkencë,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/4203.ts
+EXPNatyra.al,AL: Explorer Natyra,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/4202.ts
+ext,AL: Explorer History,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/4204.ts
+ext,AL: Cufo,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/4208.ts
+KlanTVHD.al,AL: Klan HD,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/3800.ts
+fox-crime,AL: Fox Crime,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/3814.ts
+ext,AL: First TV,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/3802.ts
+FilmNjeHD.al,AL: Film Nje HD,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/3815.ts
+FilmKomedi.al,AL: Film Komedi,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/3821.ts
+FilmHits+1.al,AL: Film Hits,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/3818.ts
+FilmDyHD.al,AL: Film Dy HD,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/3816.ts
+ext,AL: Film Autor,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/3803.ts
+FilmAksion.al,AL: Film Aksion,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/3820.ts
+ext,AL: Digi Gold PPV,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/3793.ts
+TringComedy.al,AL: Tring Comedy,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/2054.ts
+RTK.al,AL: RTK,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/2053.ts
+esp2,AL: Eurosport 2,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/2052.ts
+esp,AL: Eurosport 1,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6092.ts
+ext,[UPPERCASE].:: EX-YU HDTV + PINK! ::.[/UPPERCASE],http://www.google.com/
+ext,RTCG mms,mms://195.252.114.172/tvcg
+ext,SAT TVCG,rtsp://beotelmedia.beotel.net/tvcg
+ext,RTS SATELIT SRB,rtsp://195.252.113.40/rts
+ext,RTRS SRB,http://edge1.volim.tv/live/rtrs.stream/HasBahCa.m3u8?hash=206dc563f74bad817eb851dced9cd089b71b7a3f
+ext,ex-Yu: Nickelodeon,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6083.ts
+ext,ex-Yu: Hayatovci,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6084.ts
+ext,ex-Yu: Federalna,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6087.ts
+ext,ex-Yu: Entertainment Plus,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6082.ts
+ext,ex-Yu: Baby TV,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6085.ts
+ext,ex-Yu: Al Jazeera Balkans,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6086.ts
+ext,ex-Yu: TV 1,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/3168.ts
+ext,ex-Yu: TK Tuzla,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/3164.ts
+ext,ex-Yu: SOS,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/3191.ts
+ext,ex-Yu: RTL Kockica,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/3167.ts
+ext,ex-Yu: RTL 2,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/3166.ts
+ext,ex-Yu: Pink Sci-Fi & Fantasy,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/3201.ts
+ext,ex-Yu: Pink Romance,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/3200.ts
+ext,ex-Yu: Pink Plus,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/3198.ts
+ext,ex-Yu: Pink Film,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/3199.ts
+ext,ex-Yu: OTV Test,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/3172.ts
+ext,ex-Yu: N1 Bosna,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/3197.ts
+ext,ex-Yu: MTV Igman,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/3195.ts
+ext,ex-Yu: MTV,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/3170.ts
+ext,ex-Yu: Lov I Ribolov,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/3196.ts
+ext,ex-Yu: Klasik TV,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/3194.ts
+ext,ex-Yu: Kids Mix 3,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/3176.ts
+ext,ex-Yu: Hayat Folk,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/3163.ts
+ext,ex-Yu: Hayat,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/3162.ts
+ext,ex-Yu: Happy TV,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/3192.ts
+ext,ex-Yu: FTV,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/3161.ts
+ext,ex-Yu: Fight Channel,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/3187.ts
+ext,ex-Yu: Face TV,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/3165.ts
+ext,ex-Yu: Duga TV,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/3193.ts
+ext,ex-Yu: DM Sat,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/3173.ts
+ext,ex-Yu: CMC Music,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/3171.ts
+ext,ex-Yu: CineStar TV,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/3180.ts
+ext,ex-Yu: BN Sat,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/3175.ts
+ext,ex-Yu: BN Music,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/3174.ts
+ext,ex-Yu: ATV,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/3188.ts
+ext,ex-Yu: ArenaSport 5 SRB,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/3186.ts
+ext,ex-Yu: ArenaSport 4 SRB,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/3185.ts
+ext,ex-Yu: ArenaSport 3 SRB,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/3184.ts
+ext,ex-Yu: ArenaSport 2 SRB,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/3183.ts
+ext,ex-Yu: ArenaSport 1 SRB,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/3182.ts
+ext,ex-Yu: Animal Planet,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/3178.ts
+ext,ex-Yu: AL Jazeera,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/3189.ts
+ext,ex-Yu: SportKlub 3,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/1442.ts
+ext,ex-Yu: SportKlub 2,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/1441.ts
+ext,ex-Yu: SportKlub 1,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/1440.ts
+ext,ex-Yu: RTS 2,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/1464.ts
+ext,ex-Yu: RTS 1,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/1463.ts
+ext,ex-Yu: RTL,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/1461.ts
+ext,ex-Yu: Prva TV,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/1460.ts
+ext,ex-Yu: Prva Srbska,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/2026.ts
+ext,ex-Yu: Prva Plus,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/1459.ts
+ext,ex-Yu: Pink Zabava,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/2028.ts
+ext,ex-Yu: Pink Western,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/2050.ts
+ext,ex-Yu: Pink Thriller,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/2040.ts
+ext,ex-Yu: Pink Soap,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/2049.ts
+ext,ex-Yu: Pink Sci-fi & Fantasy 3,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/2031.ts
+ext,ex-Yu: Pink Romance 2,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/2032.ts
+ext,ex-Yu: Pink Reality,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/2048.ts
+ext,ex-Yu: Pink Premium,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/2029.ts
+ext,ex-Yu: Pink M,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/2033.ts
+ext,ex-Yu: Pink Kids,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/2047.ts
+ext,ex-Yu: Pink Horror,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/2035.ts
+ext,ex-Yu: Pink Hits 2,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/2030.ts
+ext,ex-Yu: Pink Folk 2,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/2037.ts
+ext,ex-Yu: Pink Extra,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/2046.ts
+ext,ex-Yu: Pink Crime & Mystery,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/2039.ts
+ext,ex-Yu: Pink Comedy,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/2045.ts
+ext,ex-Yu: Pink BIH,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/1474.ts
+ext,ex-Yu: Pink Action,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/2041.ts
+ext,ex-Yu: Pink 3,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/2044.ts
+ext,ex-Yu: Pink 2,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/2043.ts
+ext,ex-Yu: Pink 1,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/2042.ts
+ext,ex-Yu: OndaTV,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/2024.ts
+ext,ex-Yu: OBN,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/1458.ts
+ext,ex-Yu: Nova TV,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/1457.ts
+ext,ex-Yu: Nat Geo Channel,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/1472.ts
+ext,ex-Yu: Kanal D Turk,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/1473.ts
+ext,ex-Yu: HRT 3,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/2027.ts
+ext,ex-Yu: HRT 2,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/1456.ts
+ext,ex-Yu: HRT 1,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/1455.ts
+ext,ex-Yu: History Channel,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/1454.ts
+ext,ex-Yu: HBO Comedy,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/1453.ts
+ext,ex-Yu: HBO Adria,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/1452.ts
+ext,ex-Yu: Hayat Plus,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/1471.ts
+ext,ex-Yu: Hayat Folk SR,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/2021.ts
+ext,ex-Yu: Hayat BIH,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/1470.ts
+ext,ex-Yu: Grand TV,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/1475.ts
+ext,ex-Yu: Fox TV,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/1448.ts
+ext,ex-Yu: Fox Movies,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/1451.ts
+ext,ex-Yu: Fox Life,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/1450.ts
+ext,ex-Yu: Fox Crime,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/1449.ts
+ext,ex-Yu: EuroSport 2,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/1444.ts
+ext,ex-Yu: EuroSport 1,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/1443.ts
+ext,ex-Yu: E,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/1467.ts
+ext,ex-Yu: Doma TV,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/1446.ts
+ext,ex-Yu: Discovery Channel,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/1445.ts
+ext,ex-Yu: CineStar Premiere 2,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/1469.ts
+ext,ex-Yu: CineStar Premiere 1,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/1468.ts
+ext,ex-Yu: CineMax 2,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/2023.ts
+ext,ex-Yu: CineMax 1,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/2022.ts
+ext,ex-Yu: BHT 1,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/1447.ts
+ext,ex-Yu: B 92,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/1465.ts
+ext,ex-Yu: ArenaSport 4,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/1439.ts
+ext,ex-Yu: ArenaSport 3,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/1438.ts
+ext,ex-Yu: ArenaSport 2,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/1437.ts
+ext,ex-Yu: ArenaSport 1,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/1436.ts
+ext,ex-Yu: 24 Kitchen,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/1476.ts
+ext,VIP: AL Super Sport 4 HD,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7223.ts
+ext,VIP: AL Super Sport 3 HD,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7225.ts
+ext,VIP: AL Super Sport 2 HD,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7227.ts
+ext,VIP: AL Super Sport 1 HD,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7229.ts
+ext,VIP: US Syfy HD EN,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7153.ts
+ext,VIP: US Starze Dge HD,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7154.ts
+ext,VIP: US Starz encore HD,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7155.ts
+ext,VIP: US Starz East HD,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7156.ts
+ext,VIP: US Starz Cinema,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7157.ts
+ext,VIP: US SPORTSNET ONTARIO,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7174.ts
+ext,VIP: US NBC EN HD,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7158.ts
+ext,VIP: US NBA US HD EN,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7159.ts
+ext,VIP: US HBO Zone,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7160.ts
+ext,VIP: US HBO Signature,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7161.ts
+ext,VIP: US HBO East,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7162.ts
+ext,VIP: US HBO Comedy,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7163.ts
+ext,VIP: US Family HD,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7164.ts
+ext,VIP: US CNN HD,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7165.ts
+ext,VIP: US CNBC,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7166.ts
+ext,VIP: US cinemaxmoremax,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7167.ts
+ext,VIP: US Cinemax East,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7168.ts
+ext,VIP: US Cinemax Action,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7169.ts
+ext,VIP: US Cinemax 5 star,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7170.ts
+ext,VIP: US CBS EN HD,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7171.ts
+ext,VIP: US BRAVO HD EN,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7172.ts
+ext,VIP: US ABC NEWS HD EN,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7173.ts
+ext,US: NBA TV,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/4339.ts
+ext,US: TSN Sports 5,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/2645.ts
+ext,US: TSN Sports 4,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/2644.ts
+ext,US: TSN Sports 3,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/2643.ts
+ext,US: TSN Sports 2,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/2642.ts
+ext,US: TSN Sports 1,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/2641.ts
+ext,US: CNBC GOLF,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/2637.ts
+ext,US: Fox Sport 2,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/2636.ts
+ext,US: Fox Sport 1,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/2635.ts
+ext,VIP: Star Sports 4,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6858.ts
+ext,VIP: Star Sports 3,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6859.ts
+ext,VIP: Star Sports 2,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6860.ts
+ext,VIP: Star Sports 1,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6861.ts
+ext,VIP: Star Plus Usa,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6862.ts
+ext,VIP: Star Plus,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6863.ts
+ext,VIP: Star Movies,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6864.ts
+ext,VIP: Sony Six,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6865.ts
+ext,VIP: Sony HD Usa,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6866.ts
+ext,VIP: Sony HD,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6867.ts
+ext,VIP: NHL Network,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6868.ts
+ext,VIP: NFL Network,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6869.ts
+ext,VIP: NDTV News,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6870.ts
+ext,VIP: NBC Sports,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6871.ts
+ext,VIP: Golf Channel,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6872.ts
+ext,VIP: Tring Sport News,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6642.ts
+ext,VIP: Tring Sport 1 HD,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6643.ts
+ext,VIP:  Tring Sport 2 HD,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6644.ts
+ext,VIP:  Tring Sport 3 HD,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6645.ts
+ext,VIP:  Tring Sport 4 HD,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6646.ts
+ext,VIP: beINSport 9 HD (UEFA CHAMPIONSHIP),http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7459.ts
+ext,VIP: beINSport 8 HD (UEFA CHAMPIONSHIP),http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7460.ts
+ext,VIP: beINSport 7 HD (UEFA CHAMPIONSHIP),http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7461.ts
+ext,VIP: beINSport 6 HD (UEFA CHAMPIONSHIP),http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7462.ts
+ext,VIP: beINSport 5 HD (UEFA CHAMPIONSHIP),http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7463.ts
+ext,VIP: beINSport 4 HD (UEFA CHAMPIONSHIP),http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7464.ts
+ext,VIP: beINSport 3 HD (UEFA CHAMPIONSHIP),http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7465.ts
+ext,VIP: beINSport 2 HD (UEFA CHAMPIONSHIP),http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7466.ts
+ext,VIP: beINSport 16 HD (UEFA CHAMPIONSHIP),http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7452.ts
+ext,VIP: beINSport 15 HD (UEFA CHAMPIONSHIP),http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7453.ts
+ext,VIP: beINSport 14 HD (UEFA CHAMPIONSHIP),http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7454.ts
+ext,VIP: beINSport 13 HD (UEFA CHAMPIONSHIP),http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7455.ts
+ext,VIP: beINSport 12 HD (UEFA CHAMPIONSHIP),http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7456.ts
+ext,VIP: beINSport 11 HD (UEFA CHAMPIONSHIP),http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7457.ts
+ext,VIP: beINSport 10 HD (UEFA CHAMPIONSHIP),http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7458.ts
+ext,VIP: beINSport 1 HD (UEFA CHAMPIONSHIP),http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7467.ts
+ext,Test,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7451.ts
+ext,VIP: Sport 1 US HD,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7325.ts
+ext,VIP: Sport 1 HD,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7324.ts
+ext,VIP: BEINSPORT13,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6640.ts
+ext,VIP: BEINSPORT12,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6641.ts
+ext,VIP: BEINSPORT11,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6639.ts
+ext,VIP: BeinSport10,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6634.ts
+ext,VIP: BeinSport9,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6633.ts
+ext,VIP: BeinSport8,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6632.ts
+ext,VIP: BeinSport7,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6631.ts
+ext,VIP: BeinSport6,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6630.ts
+ext,VIP: BeinSport5,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6629.ts
+ext,VIP: BeinSport4,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6628.ts
+ext,VIP: BeinSport3,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6627.ts
+ext,VIP: BeinSport2,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6626.ts
+ext,VIP: BeinSport1,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6625.ts
+ext,VIP: TRT SPOR HD TR,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6422.ts
+ext,VIP: TiViBU SPOR HD & NBA TV DONUSUMLU TR,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6418.ts
+ext,VIP: SPORTS TV TR,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6431.ts
+ext,VIP: SMARTSPOR 2 HD TR,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6420.ts
+ext,VIP: SMARTSPOR 1 HD TR,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6419.ts
+ext,VIP: NTV SPOR TR,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6421.ts
+ext,VIP: LIGTV 3 YEDEK TR,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6416.ts
+ext,VIP: LIGTV 2 YEDEK TR,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6417.ts
+ext,VIP: LIGTV 1 YEDEK TR,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6415.ts
+ext,VIP: LIG TV HD 3 TR,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6414.ts
+ext,VIP: LIG TV HD 2 TR,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6413.ts
+ext,VIP: LIG TV HD 1 TR,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6412.ts
+ext,VIP: IDMAN TV TR,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6426.ts
+ext,VIP: GS TV TR,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6429.ts
+ext,VIP: FENERBAHCE TV TR,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6428.ts
+ext,VIP: FANATiK TV TR,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6430.ts
+ext,VIP: EUROSPORT 2 TR,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6424.ts
+ext,VIP: EUROSPORT 1 TR,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6425.ts
+ext,VIP: BURSASPOR TV TR,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6427.ts
+ext,VIP: A SPOR TR,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6423.ts
+ext,VIP: Astro Supersport 4 HD GB,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6324.ts
+ext,VIP: Astro Supersport 3 HD GB,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6323.ts
+ext,VIP: Astro Supersport 2 HD GB,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6322.ts
+ext,VIP: Astro Supersport 1 HD GB,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6321.ts
+ext,VIP: CTH Stadium 5 HD,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6052.ts
+ext,VIP: CTH Stadium 4 HD,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6053.ts
+ext,VIP: CTH Stadium 3 HD,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6054.ts
+ext,VIP: CTH Stadium 2 HD,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6055.ts
+ext,VIP: CTH Stadium 1 HD,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6056.ts
+ext,PER: IRIB1,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6699.ts
+ext,PER: IRIB2,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6700.ts
+ext,PER: IRIB3,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6701.ts
+ext,PER: IRIB4,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6702.ts
+ext,PER: IRIB5,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6703.ts
+ext,**----ADULTS----**,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/5978.ts
+ext,+18: ROCCO (1),http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7233.ts
+ext,+18: Moms Teach Sex,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7077.ts
+ext,+18: Moms Teach Sex 2,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7231.ts
+ext,+18: Moms Teach Sex 3,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7232.ts
+ext,18 :HOT CLUB 9 HD,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/5848.ts
+ext,18 :HOT CLUB 8 HD,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/5849.ts
+ext,18 :HOT CLUB 7 HD,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/5850.ts
+ext,18 :HOT CLUB 6 HD,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/5851.ts
+ext,18 :HOT CLUB 5 HD,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/5852.ts
+ext,18 :HOT CLUB 4 HD,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/5853.ts
+ext,18 :HOT CLUB 3 HD,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/5854.ts
+ext,18 :HOT CLUB 2 HD,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/5855.ts
+ext,18 :HOT CLUB 10 HD,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/5856.ts
+ext,18 :HOT CLUB 1 HD,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/5857.ts
+ext,DE: Blue Movie HD,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6001.ts
+ext,PT: PlayBoy,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/5557.ts
+ext,ES: Taquilla XX HD,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/6014.ts
+ext,PT: Venus,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/3261.ts
+ext,PT: Hot,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/3260.ts
+ext,IT: XXX China,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/4289.ts
+ext,GB: PlayBoy,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/2684.ts
+xxl,FR: XXL,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/2262.ts
+HustlerHD.ero,FR: Hustler HD,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/2263.ts
+Dorcel.ero,FR: Dorcel HD,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/4490.ts
+ext,ex-Yu: Pink Erotik 4,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/2051.ts
+ext,eX-Yu: Pink Erotik 3,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/5606.ts
+ext,eX-Yu: Pink Erotik 2,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/5605.ts
+ext,eX-Yu: Pink Erotik 1,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/5604.ts
+ext,eX-Yu: Hustler HD,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/5607.ts
+ext,eX-Yu: XXX 2,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/5603.ts
+ext,eX-Yu: XXX 1,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/5602.ts
+ext,VIP: AL Super Sport 4 HD,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7223.ts
+ext,VIP: AL Super Sport 3 HD,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7225.ts
+ext,VIP: AL Super Sport 2 HD,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7227.ts
+ext,VIP: AL Super Sport 1/NEWS HD,http://portal.rapidiptv.com:8080/live/dEKiJqEDId/eCi2E2RAv1/7229.ts
+
+
