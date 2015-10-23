@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTINF:0 group-title="Test",PIK TV HD
+http://phone.pik-tv.com/live/mp4:piktv3pik3tv/playlist.m3u8 
+#EXTINF:0,Brodilo TV
+http://brodilo.tv/channel.php
+#EXTINF:0,Russia Today
+http://rt-lh.akamaihd.net/i/ch_01@325605/index_720p_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0,Russia Today Doc
+http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
+#EXTINF:0,Russia Today Док
+http://rtmp.api.rt.com/hls/rtdru.m3u8
+#EXTINF:0,Russia Today (Arabic)
+http://rt-lh.akamaihd.net/i/ch_03@325607/index_320p_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0,Russia Today (Espanol)
+http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-SD/chunklist.m3u8?wowzasessionid=1670421395
+#EXTINF:0,MTV.am
+http://94.125.187.18/hlsam/lhigh/playlist.m3u8
+#EXTINF:0,TVM Channel
+http://bal.bonus-tv.ru/tvm/tvm/type/none/eol/20200101T000000/hash/214a46754a45e00f79969653f22e16e80aa1c8e0/playlist.m3u8
+#EXTINF:0,Arirang 1
+http://worldlive-ios.arirang.co.kr/arirang/arirangtvworldios.mp4.m3u8
+#EXTINF:0,Arirang 2
+http://worldlive-ios.arirang.co.kr/cdnlive-hls/arirangwlive/_definst_/liveevent/tvworld4.m3u8
+#EXTINF:0,RBK
+http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
+#EXTINF:0,1HD.ru
+http://hls.peers.tv/streaming/firstmuz/16/hd/playlist.m3u8
+#EXTINF:0,Life News
+http://tv.life.ru/lifetv/720p/index.m3u8
+#EXTINF:0,Europa+ TV
+http://europaplus.cdnvideo.ru:1935/europaplus-live/eptv_main.sdp/playlist.m3u8
+#EXTINF:0,Eska TV
+http://stream.smcloud.net/live/eskatv/playlist.m3u8
+#EXTINF:0,Риа Новости
+http://rian.cdnvideo.ru:1935/rr/stream20/index.m3u8
+
+#EXTINF:0 group-title="Video",Youtube
+https://www.youtube.com/watch?v=iNJdPyoqt8U
+#EXTINF:0,Vkontakte
+http://vk.com/video-53648169_168390899
+#EXTINF:0,Bunny
+http://www.quirksmode.org/html5/videos/big_buck_bunny.mp4
+#EXTINF:0,Music
+http://vodcasts.eu/media/malandra.mp3
+
+#EXTINF:0 group-title="Youtube Live",Sky News
+https://www.youtube.com/watch?v=y60wDzZt8yg
+#EXTINF:0,Еспресо TV
+https://www.youtube.com/watch?v=Siy69o-rKU4,720
+#EXTINF:0,Еспресо TV
+https://www.youtube.com/watch?v=Siy69o-rKU4,auto
