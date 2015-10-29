@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1,[COLOR blue][B][UPPERCASE]..:: ALBTV by BES! ::.. [/UPPERCASE][/B][/COLOR][COLOR red][B][UPPERCASE]-Report broken links![/UPPERCASE][/B][/COLOR]
 http://bit.ly/1NUayLG
-#EXTINF:-1,[COLOR pink][B][UPPERCASE]..:: Temporary Channels - OVER! ::.. [/UPPERCASE][/B][/COLOR]
+#EXTINF:-1,[COLOR pink][B][UPPERCASE]..:: Temp. Channels - OVER! :( ::.. [/UPPERCASE][/B][/COLOR]
 http://www.google.com/
 
 #EXTINF:-1,[COLOR yellow][B][UPPERCASE]..:: KRYESORE ::.. [/UPPERCASE][/B][/COLOR]
@@ -83,15 +83,13 @@ http://77.242.21.140:8090/live.flv
 #EXTINF:-1,--- EXYUGO/OTHER Channels ---
 http://www.google.com/
 #EXTINF:0 group-title="ExYugo Channels",TVCG Montenegro
-mms://195.252.114.172/tvcg
+rtsp://195.252.114.172/tvcg
 #EXTINF:-1,TVCG SAT Montenegro
 rtsp://beotelmedia.beotel.net/tvcg
 #EXTINF:-1,RTSerebia SAT
 rtsp://195.252.113.40/rts
 #EXTINF:0,AL Jazeera Balkan (Smart TV only)
 rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live?videoId=1258549906001&pubId=/aljazeera_balkans_high
-#EXTINF:0,Pink TV Stream (UP)
-http://46.234.123.89:1935/livelowino/pink.stream/playlist.m3u8?v=1&k=0&token=632345b39fd78543919a517581ca6e561b5e3d0593eaa39d5779bb6168bdf225&ak=77134&time=1445090861538
 #EXTINF:0,TOP MUSIC Serbisht
 http://5.35.240.130:30005
 #EXTINF:0,DUGA+ TV 
@@ -105,7 +103,12 @@ http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_2
 #EXTINF:0,BeiN Sports HD
 http://yiptv4-live.hls.adaptive.level3.net/yiptv4/beinengov/04.m3u8
 #EXTINF:-1,Sky News UK HD
-http://manifest.googlevideo.com/api/manifest/hls_playlist/id/y60wDzZt8yg.1/itag/92/source/yt_live_broadcast/ratebypass/yes/live/1/cmbypass/yes/gir/yes/dg_shard/eTYwd0R6WnQ4eWcuMQ.92/hls_chunk_host/r3---sn-8xgp1vo-xfgs.googlevideo.com/pmbypass/yes/playlist_type/DVR/gcr/us/mm/32/mn/sn-8xgp1vo-xfgs/ms/lv/mv/u/pcm2cms/yes/pl/24/dover/3/sver/3/upn/p7GoN4gzW18/fexp/9406009,9407015,9407707,9408710,9414764,9415871,9416126,9417707,9418702,9421252,9421340,9421410,9421606,9421712,9422361,9422491,9422567,9422990/keepalive/yes/mt/1445901016/ip/100.12.190.83/ipbits/0/expire/1445923180/sparams/ip,ipbits,expire,id,itag,source,ratebypass,live,cmbypass,gir,dg_shard,hls_chunk_host,pmbypass,playlist_type,gcr,mm,mn,ms,mv,pcm2cms,pl/signature/605E94130BC015323A702E82D4EDF150EAD66589.638CF7FED70EA5E2F4C53CBAD371A0B9653CEF20/key/dg_yt0/playlist/index.m3u8
+#EXTINF:0,Sky News UK (Temporary/Testing)
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/skynews/ls_satlink/b_828.m3u8
+#EXTINF:-1,AL Jazeera English USA (Temporary/Testing)
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_en/ls_satlink/b_528.m3u8
+#EXTINF:0 group-title="XXXErotik", X1 Erotik (18+)
+http://cdn5.iviplanet.com:1935/TVMIA-ARG-VODLive1/smil:tvmia-arg-vodlive1.smil/playlist.m3u8
 
 
 
