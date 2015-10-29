@@ -102,7 +102,6 @@ rtmp://92.60.234.98:1935/live/myStream
 http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_2000k.m3u8
 #EXTINF:0,BeiN Sports HD
 http://yiptv4-live.hls.adaptive.level3.net/yiptv4/beinengov/04.m3u8
-#EXTINF:-1,Sky News UK HD
 #EXTINF:0,Sky News UK (Temporary/Testing)
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/skynews/ls_satlink/b_828.m3u8
 #EXTINF:-1,AL Jazeera English USA (Temporary/Testing)
