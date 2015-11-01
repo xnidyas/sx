@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1,[COLOR blue][B][UPPERCASE]..:: ALBTV by BES! ::.. [/UPPERCASE][/B][/COLOR][COLOR red][B][UPPERCASE]-Report broken links![/UPPERCASE][/B][/COLOR]
+#EXTINF:-1,[COLOR blue][B][UPPERCASE]..:: BesaIPTV by BES! ::.. [/UPPERCASE][/B][/COLOR][COLOR red][B][UPPERCASE]-Report broken links![/UPPERCASE][/B][/COLOR]
 http://bit.ly/1NUayLG
 #EXTINF:-1,[COLOR yellow][B][UPPERCASE]..:: KRYESORE ::.. [/UPPERCASE][/B][/COLOR]
-http://www.google.com/
+#EXTM3U
 #EXTINF:-0,Provided to you by SejDin X.
-rtmp://live.opoja.tv:1935/8006/8006
+http://www.google.com/#
 #EXTINF:0 group-title="SHQIPTV",RTV Sharri HD
 rtmp://live.opoja.tv:1935/8006/8006
-#EXTINF:-1,Super Sonic TVHD
+#EXTINF:-1,Super Sonic TVHD (Temp. Down)
 rtmp://str103.setplex.net/228/stv_online
 #EXTINF:-1,STV FOLK TVHD
 rtmp://str103.setplex.net:1935/228/stv_folk
@@ -42,8 +42,8 @@ http://xtv1channelshkoderx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1,RTV CH 7
 http://iphone-streaming.ustream.tv/uhls/13432602/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,KLAN KOSOVA 
-http://84.22.48.253:8080/klanks/test.m3u8
-#EXTINF:-1,RTK 1
+http://str105mb.setplex.net:1935/str2iosmd5/10ios_klankosova_56468946/playlist.m3u8
+#EXTINF:-1,RTK 1 (down)
 rtmp://wowza.rtkit.com/live/livestream
 #EXTINF:-1,RROKUM TV
 http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8
@@ -53,7 +53,7 @@ http://xredinezirix.api.channel.livestream.com/3.0/playlist.m3u8
 http://iphone-streaming.ustream.tv/uhls/18947414/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,RTVSH HD
 http://akamai127.tibo.tv/tvsh/index.m3u8
-#EXTINF:-1,TV JUGU
+#EXTINF:-1,TV JUGU (Down)
 http://84.20.77.50:554/live/rtmp.stream/playlist.m3u8
 #EXTINF:-1,TV Kopliku 
 http://str105mb.setplex.net:1935/str2iosmd5/tvkop3542121/playlist.m3u8
@@ -77,35 +77,67 @@ http://str105mb.setplex.net:1935/str2iosmd5/20ios_tvdukagjini_2233555/playlist.m
 http://str105mb.setplex.net:1935/str2iosmd5/16ios_tviliret_26658914/playlist.m3u8
 #EXTINF:-1,RTV ISLAM
 http://77.242.21.140:8090/live.flv
-#EXTINF:-1,--- EXYUGO/OTHER Channels ---
-http://www.google.com/
-#EXTINF:0 group-title="ExYugo Channels",TVCG Montenegro
-rtsp://195.252.114.172/tvcg
-#EXTINF:-1,TVCG SAT Montenegro
+#EXTINF:0 group-title="ExYugo Channels",TVCG SAT Montenegro
 rtsp://beotelmedia.beotel.net/tvcg
-#EXTINF:-1,RTSerebia SAT
+#EXTINF:-1,TVCG ( APP Only )
+mms://195.252.114.172/tvcg
+#EXTINF:-1,RTSerbia SAT
 rtsp://195.252.113.40/rts
-#EXTINF:0,AL Jazeera Balkan (Smart TV Only)
-rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live?videoId=1258549906001&pubId=/aljazeera_balkans_high
-#EXTINF:0,TOP MUSIC Serbisht
+#EXTINF:0,TOP MUSIC RS
 http://5.35.240.130:30005
 #EXTINF:0,DUGA+ TV 
 http://w10.streamgb.com:1935/dugaplus/dugaplus/chunklist_w1672567553.m3u8
+
+#EXTINF:-1,PINK TV (Buffering a little bit!)
+http://5.196.14.179:2507/willkommen_zu_www.sipragezabava.com
+
+#EXTINF:0,STUDIO Beograd
+rtsp://beotelmedia.beotel.net/studiob
+#EXTINF:0,STUDIO Beograd (App Only)
+mms://beotelmedia.beotel.net/studiob
+#EXTINF:-1,HRVATSKA 1 (Temporary)
+http://hrt.live.cdn.spectar.tv/OIV_HRT1_TV/01.m3u8?token=N1vv10JFKH8IiF3ZlQgaiQ&token_expiration=1445958423
+#EXTINF:0,AL Jazeera Balkan (Smart TV only)
+rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live?videoId=1258549906001&pubId=/aljazeera_balkans_high
+#EXTINF:-1,Belle Amie Srb (Smart TV only)
+rtmp://92.60.234.98:1935/live/myStream
+#EXTINF:-1,Banovina HR TV
+rtmp://video.radio-banovina.hr/live/myStream
+#EXTINF:-1,NTVO RS
+rtmp://92.60.237.21:1935/live/livestream
 #EXTINF:0,Balkan RTV
 rtmp://yayin.tvdunyasi.tv/live/balkanrtv
-#EXTINF:-1,Belle Amie Srb (Smart TV Only)
-rtmp://92.60.234.98:1935/live/myStream
+#EXTINF:-1,VESTI 24 Macedonia (Wait 1min)
+http://62.162.58.55/24vesti
 #EXTINF:0 group-title="SPORTS/OTHERS",NFL Network HD
 http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_2000k.m3u8
 #EXTINF:0,BeiN Sports HD
 http://yiptv4-live.hls.adaptive.level3.net/yiptv4/beinengov/04.m3u8
-#EXTINF:0,Sky News UK (Temp./Testing)
+#EXTINF:0,Sport 1 (Russian)
+http://testlivestream.rfn.ru/live/smil:sport1hd.smil/chunklist_b3000000.m3u8
+#EXTINF:-1,NBA TV
+http://31.220.41.102:80/LiveEdge/NBATVUS/chunklist_w1210353598_b1000000.m3u8?token=fc2e423818f0fae039681049071ca1d8
+#EXTINF:-1,Setanta Sports
+http://31.220.40.116:80/LiveEdge/setanta.stream/playlist.m3u8?token=81becda50bd16bab9d2af3311dc61575
+#EXTINF:0,Sky News UK 
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/skynews/ls_satlink/b_828.m3u8
-#EXTINF:-1,AL Jazeera English USA (Temp./Testing)
+#EXTINF:-1,AL Jazeera English USA 
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_en/ls_satlink/b_528.m3u8
-#EXTINF:0 group-title="XXXErotik", X1 Erotik *(18+)*
+#EXTINF:-1,CNN USA 
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
+#EXTINF:-1,BBC World News
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8?b?b*t$
+#EXTINF:-1,EuroNews HD (APP & FireTV/Kodi Only)
+rtsp://ewns-hls-b-stream.hexaglobe.net:554/rtpeuronewslive/en_vidan750_rtp.sdp?b?b*t$
+#EXTINF:-1,Bloomberg TV
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$
+
+#EXTINF:0 group-title="KIDS",Cartoon Network
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
+
+#EXTINF:0 group-title="XXXErotik", XXX1 Erotik *(21+)*
 http://cdn5.iviplanet.com:1935/TVMIA-ARG-VODLive1/smil:tvmia-arg-vodlive1.smil/playlist.m3u8
-
-
+#EXTINF:-1,Report broken links on Facebook!
+http://www.google.com/#
 
 
