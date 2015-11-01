@@ -115,10 +115,6 @@ http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_2
 http://yiptv4-live.hls.adaptive.level3.net/yiptv4/beinengov/04.m3u8
 #EXTINF:0,Sport 1 (Russian)
 http://testlivestream.rfn.ru/live/smil:sport1hd.smil/chunklist_b3000000.m3u8
-#EXTINF:-1,NBA TV
-http://31.220.41.102:80/LiveEdge/NBATVUS/chunklist_w1210353598_b1000000.m3u8?token=fc2e423818f0fae039681049071ca1d8
-#EXTINF:-1,Setanta Sports
-http://31.220.40.116:80/LiveEdge/setanta.stream/playlist.m3u8?token=81becda50bd16bab9d2af3311dc61575
 #EXTINF:0,Sky News UK 
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/skynews/ls_satlink/b_828.m3u8
 #EXTINF:-1,AL Jazeera English USA 
