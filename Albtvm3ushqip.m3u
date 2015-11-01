@@ -127,6 +127,12 @@ http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8?
 rtsp://ewns-hls-b-stream.hexaglobe.net:554/rtpeuronewslive/en_vidan750_rtp.sdp?b?b*t$
 #EXTINF:-1,Bloomberg TV
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$
+#EXTINF:-1,Hip Hop Music TV
+http://win.cdn.bonus-tv.ru/TVB7/a1tv/playlist.m3u8
+#EXTINF:-1,The Weather Channel USA
+http://kalsegsec-a.akamaihd.net/dc-1/m/ny-live-publish1/kLive/smil:1_oorxcge2_publish.smil/chunklist_b2096000.m3u8
+#EXTINF:-1,Times Square & 47th st Broadway Live CCTV
+http://video1.earthcam.com/fecnetwork/hdtimes10.flv/ukturk.m3u8?wowzasessionid=23914309
 
 #EXTINF:0 group-title="KIDS",Cartoon Network
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
