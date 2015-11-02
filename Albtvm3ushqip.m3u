@@ -17,7 +17,7 @@ rtmp://live.opoja.tv:1935/8016/8016
 http://live.tv3plushd.com:1935/8008/8008/playlist.m3u8
 #EXTINF:-1,TVR Muzike
 rtmp://tvr.televizionitvr.com:1935/8020/8020
-#EXTINF:-1,ZJARR HD (Down...)
+#EXTINF:-1,ZJARR HD 
 http://81.7.13.162/hls/zjarrtv/index.m3u8
 #EXTINF:-1,ALB UK Music
 http://188.138.17.8:1935/albuk/albmus.stream/index.m3u8
@@ -59,7 +59,9 @@ http://akamai127.tibo.tv/tvsh/index.m3u8
 http://84.20.77.50:554/live/rtmp.stream/playlist.m3u8
 #EXTINF:-1,TV Kopliku 
 http://str105mb.setplex.net:1935/str2iosmd5/tvkop3542121/playlist.m3u8
-#EXTINF:-1,BlueSkyTV (bad quality)
+#EXTINF:-1,BlueSkyTV SDTV
+http://ichunk.livestream.com/212.169/livestreamiphone/tvbluesky-livestream/playlist.m3u8
+#EXTINF:-1,BlueSkyTV LDTV
 http://str105mb.setplex.net:1935/str2iosmd5/blueskytv_265265_266548/playlist_664k.m3u8
 #EXTINF:-1,TV Rozafa
 http://str105mb.setplex.net:1935/str2iosmd5/7ios_rozafa_65226289/HasBahCa.m3u8
