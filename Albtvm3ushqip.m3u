@@ -17,6 +17,8 @@ rtmp://live.opoja.tv:1935/8016/8016
 http://live.tv3plushd.com:1935/8008/8008/playlist.m3u8
 #EXTINF:-1,TVR Muzike
 rtmp://tvr.televizionitvr.com:1935/8020/8020
+#EXTINF:-1,A1 Shqiptare TV
+http://176.9.45.202:22222/live/alb/playlist.m3u8
 #EXTINF:-1,ZJARR HD 
 http://81.7.13.162/hls/zjarrtv/index.m3u8
 #EXTINF:-1,ALB UK Music
@@ -45,7 +47,7 @@ http://xtv1channelshkoderx.api.channel.livestream.com/3.0/playlist.m3u8
 http://iphone-streaming.ustream.tv/uhls/13432602/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,KLAN KOSOVA 
 http://str105mb.setplex.net:1935/str2iosmd5/10ios_klankosova_56468946/playlist.m3u8
-#EXTINF:-1,RTK 1 (Testing...)
+#EXTINF:-1,RTK 1 
 http://akamai127.tibo.tv/rtk/timeshift_rel-20.m3u8
 #EXTINF:-1,RROKUM TV
 http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8
@@ -82,8 +84,6 @@ http://str105mb.setplex.net:1935/str2iosmd5/16ios_tviliret_26658914/playlist.m3u
 #EXTINF:-1,RTV ISLAM
 http://77.242.21.140:8090/live.flv
 
-#EXTINF:-1,A1 Shqiptare
-http://176.9.45.202:22222/live/alb/playlist.m3u8
 
 #EXTINF:0 group-title="ExYugo Channels",TVCG SAT Montenegro
 rtsp://beotelmedia.beotel.net/tvcg
