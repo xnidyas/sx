@@ -15,7 +15,9 @@ rtmp://str103.setplex.net:1935/228/stv_folk
 rtmp://live.opoja.tv:1935/8016/8016
 #EXTINF:-1,3+HDTV MUSIC
 http://live.tv3plushd.com:1935/8008/8008/playlist.m3u8
-#EXTINF:-1,ZJARR HD
+#EXTINF:-1,TVR Muzike
+rtmp://tvr.televizionitvr.com:1935/8020/8020
+#EXTINF:-1,ZJARR HD (Down...)
 http://81.7.13.162/hls/zjarrtv/index.m3u8
 #EXTINF:-1,ALB UK Music
 http://188.138.17.8:1935/albuk/albmus.stream/index.m3u8
@@ -68,7 +70,7 @@ http://iphone-streaming.ustream.tv/uhls/16296244/streams/live/iphone/playlist.m3
 #EXTINF:-1,MAD TV Muzik
 http://37.26.81.188:1935/live/livestream/playlist.m3u8
 #EXTINF:-1,Syri Vizion
-http://str105mb.setplex.net:1935/str2iosmd5/21ios_tvsyrivis_13226654/HasBahCa.m3u8
+http://str105mb.setplex.net:1935/str2iosmd5/21ios_tvsyrivis_13226654/playlist.m3u8
 #EXTINF:-1,ALB Info
 http://str105mb.setplex.net:1935/str2iosmd5/stralbinfo_2654_dfs/HasBahCa.m3u8
 #EXTINF:-1,TV Dukagjini
@@ -77,6 +79,10 @@ http://str105mb.setplex.net:1935/str2iosmd5/20ios_tvdukagjini_2233555/playlist.m
 http://str105mb.setplex.net:1935/str2iosmd5/16ios_tviliret_26658914/playlist.m3u8
 #EXTINF:-1,RTV ISLAM
 http://77.242.21.140:8090/live.flv
+
+#EXTINF:-1,A1 Shqiptare
+http://176.9.45.202:22222/live/alb/playlist.m3u8
+
 #EXTINF:0 group-title="ExYugo Channels",TVCG SAT Montenegro
 rtsp://beotelmedia.beotel.net/tvcg
 #EXTINF:-1,TVCG ( APP Only )
@@ -145,28 +151,6 @@ http://www.google.com/#
 #EXTINF:0 group-title="TESTING",::::TESTING::::
 rtsp://www.google.com/#
 
-#EXTINF:-1,TV KLAN
-rtmp://185.63.252.221:1935/liveedge/?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMi8yMDE1IDU6MjA6NTcgQU0maGFzaF92YWx1ZT1FTCtWVkV6M1o2RDhVZ21FK3Q2T2RnPT0mdmFsaWRtaW51dGVzPTU=/klanhd_lmk6iqts
 
-#EXTINF:-1,Syri Vision
-http://str105mb.setplex.net:1935/str2iosmd5/21ios_tvsyrivis_13226654/playlist.m3u8
-
-#EXTINF:-1,RTK1
-http://akamai127.tibo.tv/rtk/timeshift_rel-20.m3u8
-
-#EXTINF:-1,Super Sky
-rtmp://flash.supersky.ch/live/supersky/livestream
-
-#EXTINF:-1,VLORA TV
-rtmp://204.77.214.14/mogulus-stream-edge/6plus1live/rtmp://212-94.livestream.com/affiliateStream/6plus1live/6c69766572657065617465723a72746d703a2f2f3231322d39342e6c69766573747265616d2e636f6d2f6d6f67756c75732f36706c7573316c6976652f6c69766573747265616d
-
-#EXTINF:-1,TVR Muzike
-rtmp://tvr.televizionitvr.com:1935/8020/8020
-
-#EXTINF:-1,Tetova TV
-rtmp://62.141.45.234/live/shqiptv5/livestream
-
-#EXTINF:-1,A1 Shqiptare
-http://176.9.45.202:22222/live/alb/playlist.m3u8
 
 
