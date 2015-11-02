@@ -141,7 +141,8 @@ http://win.cdn.bonus-tv.ru/TVB7/a1tv/playlist.m3u8
 http://kalsegsec-a.akamaihd.net/dc-1/m/ny-live-publish1/kLive/smil:1_oorxcge2_publish.smil/chunklist_b2096000.m3u8
 #EXTINF:-1,Times Square & 47th st Broadway Live CCTV
 http://video1.earthcam.com/fecnetwork/hdtimes10.flv/ukturk.m3u8?wowzasessionid=23914309
-
+#EXTINF:-1,NASA TV
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
 #EXTINF:0 group-title="KIDS",Cartoon Network
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
 
