@@ -43,8 +43,8 @@ http://xtv1channelshkoderx.api.channel.livestream.com/3.0/playlist.m3u8
 http://iphone-streaming.ustream.tv/uhls/13432602/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,KLAN KOSOVA 
 http://str105mb.setplex.net:1935/str2iosmd5/10ios_klankosova_56468946/playlist.m3u8
-#EXTINF:-1,RTK 1 (down)
-rtmp://wowza.rtkit.com/live/livestream
+#EXTINF:-1,RTK 1 (Testing...)
+http://akamai127.tibo.tv/rtk/timeshift_rel-20.m3u8
 #EXTINF:-1,RROKUM TV
 http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8
 #EXTINF:-1,ELBASANI TV
@@ -141,5 +141,32 @@ http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/p
 http://cdn5.iviplanet.com:1935/TVMIA-ARG-VODLive1/smil:tvmia-arg-vodlive1.smil/playlist.m3u8
 #EXTINF:-1,Report broken links on Facebook!
 http://www.google.com/#
+
+#EXTINF:0 group-title="TESTING",::::TESTING::::
+rtsp://www.google.com/#
+
+#EXTINF:-1,TV KLAN
+rtmp://185.63.252.221:1935/liveedge/?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMi8yMDE1IDU6MjA6NTcgQU0maGFzaF92YWx1ZT1FTCtWVkV6M1o2RDhVZ21FK3Q2T2RnPT0mdmFsaWRtaW51dGVzPTU=/klanhd_lmk6iqts
+
+#EXTINF:-1,Syri Vision
+http://str105mb.setplex.net:1935/str2iosmd5/21ios_tvsyrivis_13226654/playlist.m3u8
+
+#EXTINF:-1,RTK1
+http://akamai127.tibo.tv/rtk/timeshift_rel-20.m3u8
+
+#EXTINF:-1,Super Sky
+rtmp://flash.supersky.ch/live/supersky/livestream
+
+#EXTINF:-1,VLORA TV
+rtmp://204.77.214.14/mogulus-stream-edge/6plus1live/rtmp://212-94.livestream.com/affiliateStream/6plus1live/6c69766572657065617465723a72746d703a2f2f3231322d39342e6c69766573747265616d2e636f6d2f6d6f67756c75732f36706c7573316c6976652f6c69766573747265616d
+
+#EXTINF:-1,TVR Muzike
+rtmp://tvr.televizionitvr.com:1935/8020/8020
+
+#EXTINF:-1,Tetova TV
+rtmp://62.141.45.234/live/shqiptv5/livestream
+
+#EXTINF:-1,A1 Shqiptare
+http://176.9.45.202:22222/live/alb/playlist.m3u8
 
 
