@@ -5,6 +5,8 @@ http://bit.ly/1NUayLG
 #EXTM3U
 #EXTINF:-0,Provided to you by SejDin X.
 http://www.google.com/#
+#EXTINF:-1 tvg-id="" tvg-logo="6555978.png",NYC Weather|Traffic 24/7
+rtmp://fs-b4e3010000000000.id.cdn.cv.net/vxedge/fs-afe3010000000000 playpath=fs-afe3010000000000 swfUrl=http://www.news12.com/player/flowplayer.commercial-3.2.7.swf app=vxedge/fs-afe3010000000000 pageUrl=http://www.news12.com/player/flowplayer/.live_player.html?region=NYTW live=true swfVfy=true timeout=10
 #EXTINF:0 group-title="SHQIPTV",RTV Sharri HD
 rtmp://live.opoja.tv:1935/8006/8006
 #EXTINF:-1,Super Sonic TVHD 
@@ -96,8 +98,8 @@ http://5.35.240.130:30005
 #EXTINF:0,DUGA+ TV 
 http://w10.streamgb.com:1935/dugaplus/dugaplus/chunklist_w1672567553.m3u8
 
-#EXTINF:-1,PINK TV (Buffering a little bit!)
-http://5.196.14.179:2507/willkommen_zu_www.sipragezabava.com
+#EXTINF:-1,PINK TV BIH
+http://5.196.14.179:2507/live_tv_www.sipragezabava.com
 
 #EXTINF:0,STUDIO Beograd
 rtsp://beotelmedia.beotel.net/studiob
@@ -123,14 +125,8 @@ http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_2
 http://yiptv4-live.hls.adaptive.level3.net/yiptv4/beinengov/04.m3u8
 #EXTINF:0,Sport 1 (Russian)
 http://testlivestream.rfn.ru/live/smil:sport1hd.smil/chunklist_b3000000.m3u8
-#EXTINF:0,Sky News UK 
-http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/skynews/ls_satlink/b_828.m3u8
-#EXTINF:-1,AL Jazeera English USA 
-http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_en/ls_satlink/b_528.m3u8
-#EXTINF:-1,CNN USA 
-http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
-#EXTINF:-1,BBC World News
-http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8?b?b*t$
+#EXTINF:0,i24 News English
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_english/398/master.m3u8
 #EXTINF:-1,EuroNews HD (APP & FireTV/Kodi Only)
 rtsp://ewns-hls-b-stream.hexaglobe.net:554/rtpeuronewslive/en_vidan750_rtp.sdp?b?b*t$
 #EXTINF:-1,Bloomberg TV
@@ -147,7 +143,7 @@ http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
 
 #EXTINF:0 group-title="XXXErotik", XXX1 Erotik *(21+)*
-http://cdn5.iviplanet.com:1935/TVMIA-ARG-VODLive1/smil:tvmia-arg-vodlive1.smil/playlist.m3u8
+rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/pld499
 #EXTINF:-1,Report broken links on Facebook!
 http://www.google.com/#
 
