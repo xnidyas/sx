@@ -18,7 +18,7 @@ rtmp://live.opoja.tv:1935/8016/8016
 #EXTINF:-1,3+HDTV MUSIC
 http://live.tv3plushd.com:1935/8008/8008/playlist.m3u8
 #EXTINF:-1,TVR Muzike
-rtmp://tvr.televizionitvr.com:1935/8020/8020
+rtmp://62.141.45.234/live/shqiptv6/livestream
 #EXTINF:-1,A1 Shqiptare TV
 http://176.9.45.202:22222/live/alb/playlist.m3u8
 #EXTINF:-1,ZJARR HD 
