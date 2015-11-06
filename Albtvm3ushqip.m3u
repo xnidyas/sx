@@ -17,8 +17,6 @@ rtmp://str103.setplex.net:1935/228/stv_folk
 rtmp://live.opoja.tv:1935/8016/8016
 #EXTINF:-1,3+HDTV MUSIC
 http://live.tv3plushd.com:1935/8008/8008/playlist.m3u8
-#EXTINF:-1,TVR Muzike
-rtmp://62.141.45.234/live/shqiptv6/livestream
 #EXTINF:-1,A1 Shqiptare TV
 http://176.9.45.202:22222/live/alb/playlist.m3u8
 #EXTINF:-1,ZJARR HD 
@@ -121,6 +119,8 @@ rtmp://yayin.tvdunyasi.tv/live/balkanrtv
 http://62.162.58.55/24vesti
 #EXTINF:0 group-title="SPORTS/OTHERS",NFL Network HD
 http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_2000k.m3u8
+#EXTINF:0,NFL Now HD
+http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
 #EXTINF:0,BeiN Sports HD
 http://yiptv4-live.hls.adaptive.level3.net/yiptv4/beinengov/04.m3u8
 #EXTINF:0,Sport 1 (Russian)
