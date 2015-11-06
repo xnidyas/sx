@@ -4,6 +4,9 @@ http://bit.ly/1NUayLG
 #EXTINF:-1,[COLOR red][B][UPPERCASE]..:: PRAVUE CAFE! ::.. [/UPPERCASE][/B][/COLOR]
 http://www.google.com/
 
+#EXTINF:-1 group-title="WEATHER|TRAFFIC" tvg-id="1" tvg-logo="http://cdn.news12.com/polopoly_fs/1.8892554.1416586960!/httpImage/image.jpeg_gen/derivatives/landscape_768/image.jpeg",NYC Weather|Traffic 24/7 (App|Kodi Only)
+rtmp://fs-b4e3010000000000.id.cdn.cv.net/vxedge/fs-afe3010000000000 playpath=fs-afe3010000000000 swfUrl=http://www.news12.com/player/flowplayer.commercial-3.2.7.swf app=vxedge/fs-afe3010000000000 pageUrl=http://www.news12.com/player/flowplayer/.live_player.html?region=NYTW live=true swfVfy=true timeout=10
+
 #EXTINF:-1,RTV Sharri Music HD
 rtmp://live.opoja.tv:1935/8006/8006
 
@@ -15,6 +18,9 @@ rtmp://str103.setplex.net/228/stv_online
 
 #EXTINF:-1,Super Sonic TVHD link 2
 http://str103.setplex.net:1935/228/stv_online/playlist.m3u8
+
+#EXTINF:-1 group-title="" tvg-logo="http://s27.postimg.org/yv8ioy9wv/A1_Shqiptare.jpg",A1 Shqiptare TV
+http://176.9.45.202:22222/live/alb/playlist.m3u8
 
 #EXTINF:-1,ZJARR HD
 http://81.7.13.162/hls/zjarrtv/index.m3u8
@@ -54,6 +60,9 @@ http://81.7.13.162/hls/oranews/index.m3u8
 
 #EXTINF:0,NFL NETWORK HD 
 http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_2000k.m3u8
+
+#EXTINF:0,NFL Now HD
+http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
 
 #EXTINF:0,BeiN Sports HD
 http://yiptv4-live.hls.adaptive.level3.net/yiptv4/beinengov/04.m3u8
