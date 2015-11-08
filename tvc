@@ -5,6 +5,8 @@ http://bit.ly/1NUayLG
 rtmp://live.opoja.tv:1935/8006/8006
 #EXTINF:-1,RTV Sharri HD
 rtmp://live.opoja.tv:1935/8006/8006
+#EXTINF:-1,BlueSky TV 
+http://xtvblueskyx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1,TVCG Montenegro 
 rtsp://195.252.114.172/tvcg
 #EXTINF:-1,RTSerbia SAT
