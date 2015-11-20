@@ -12,11 +12,6 @@ rtmp://live.opoja.tv:1935/8006/8006
 #EXTINF:-1,Super Sonic TVHD 
 rtmp://str103.setplex.net/228/stv_online
 
-#EXTINF:-1,ALB Music YT by driniB 
-plugin://plugin.video.youtube/play/?playlist_id=PLpCKAMZNnbvhZtzaGmuvNnOki0zE6AMDh&order=shuffle
-#EXTINF:-1,DM SAT Videos
-plugin://plugin.video.youtube/play/?playlist_id=PLEF005FF978018502&order=shuffle
-
 #EXTINF:-1,STV FOLK TVHD
 rtmp://str103.setplex.net:1935/228/stv_folk
 #EXTINF:-1,TV OPOJA HD
