@@ -1,7 +1,4 @@
 #EXTM3U
-
-{"url": "https://raw.githubusercontent.com/saydinx/sejdin/master/nfl2015.m3u", "name": "[COLOR white]The Robin Hood List[/COLOR]"},
-
 #EXTINF:-1,[COLOR blue][B][UPPERCASE]..:: BesaIPTV by BES! ::.. [/UPPERCASE][/B][/COLOR][COLOR red][B][UPPERCASE]-Report broken links![/UPPERCASE][/B][/COLOR]
 http://bit.ly/1NUayLG
 #EXTINF:-1,[COLOR yellow][B][UPPERCASE]..:: KRYESORE ::.. [/UPPERCASE][/B][/COLOR]
@@ -66,7 +63,7 @@ http://84.20.77.50:554/live/rtmp.stream/playlist.m3u8
 #EXTINF:-1,TV Kopliku 
 http://str105mb.setplex.net:1935/str2iosmd5/tvkop3542121/playlist.m3u8
 #EXTINF:-1,BlueSkyTV SDTV
-http://ichunk.livestream.com/212.169/livestreamiphone/tvbluesky-livestream/playlist.m3u8
+http://xtvblueskyx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1,BlueSkyTV LDTV
 http://str105mb.setplex.net:1935/str2iosmd5/blueskytv_265265_266548/playlist_664k.m3u8
 #EXTINF:-1,TV Rozafa
