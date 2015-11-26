@@ -13,7 +13,7 @@ rtmp://live.opoja.tv:1935/8006/8006
 rtmp://str103.setplex.net/228/stv_online
 
 #EXTINF:-1,AL: BBF Music [temp]
-http://portal.rapidiptv.com:8080/live/mondi/mondi/3795.m3u8#?b?b*t$
+http://95.211.172.117:2270//streaming/clients_live.php?username=mondi&password=mondi&stream=3795&extension=m3u8&hash=7375b30bd30f0f2ac578367dc72a7e86&time=0&external_device=
 #EXTINF:-1,DM SAT - For Fatmir! [temp]
 http://portal.rapidiptv.com:8080/live/mondi/mondi/3173.m3u8#?b?b*t$
 
