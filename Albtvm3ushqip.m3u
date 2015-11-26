@@ -12,9 +12,9 @@ rtmp://live.opoja.tv:1935/8006/8006
 #EXTINF:-1,Super Sonic TVHD 
 rtmp://str103.setplex.net/228/stv_online
 
-#EXTINF:-1,AL: BBF Music [temp]
+#EXTINF:-1,AL: BBF Music [temp] Try again...
 http://95.211.172.117:2270//streaming/clients_live.php?username=mondi&password=mondi&stream=3795&extension=m3u8&hash=7375b30bd30f0f2ac578367dc72a7e86&time=0&external_device=
-#EXTINF:-1,DM SAT - For Fatmir! [temp]
+#EXTINF:-1,DM SAT - For Fatmir! [temp] Tray x2
 http://85.17.14.15:2270//streaming/clients_live.php?username=mondi&password=mondi&stream=3173&extension=m3u8&hash=d0bebcfaac041786daf0ae5a65fa7228&time=0&external_device=
 
 #EXTINF:-1,STV FOLK TVHD
