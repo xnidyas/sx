@@ -122,8 +122,8 @@ http://62.162.58.55/24vesti
 http://31.220.41.102:80/LiveEdge/NFLNetworkUS/chunklist_w313081930_b1000000.m3u8?token=ebddcc580c9a39bb0bfd042c12d3d32a
 #EXTINF:0,NFL Now HD
 http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
-#EXTINF:0,BeiN Sports HD
-http://yiptv4-live.hls.adaptive.level3.net/yiptv4/beinengov/04.m3u8
+#EXTINF:0,NFL Network
+http://channelpear.com/watch/stream/?id=1222
 #EXTINF:0,Sport 1 (Russian)
 http://testlivestream.rfn.ru/live/smil:sport1hd.smil/chunklist_b3000000.m3u8
 #EXTINF:0,i24 News English
