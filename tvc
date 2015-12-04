@@ -20,7 +20,7 @@ rtmp://str103.setplex.net/228/stv_online
 #EXTINF:-1,STV FOLK TVHD
 rtmp://str103.setplex.net:1935/228/stv_folk
 #EXTINF:-1,TV OPOJA HD
-rtmp://109.123.114.178:1935/8000/8000
+rtmp://live.opoja.tv:1935/8000/8000
 #EXTINF:-1,ALB Music HD
 http://188.138.17.8:1935/albuk/albmus.stream/index.m3u8
 
