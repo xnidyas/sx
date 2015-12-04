@@ -11,7 +11,7 @@ rtmp://fs-b4e3010000000000.id.cdn.cv.net/vxedge/fs-afe3010000000000 playpath=fs-
 rtmp://live.opoja.tv:1935/8006/8006
 
 #EXTINF:-1,TV OPOJA Link 1
-rtmp://live.opoja.tv:1935/8016/8016
+rtmp://live.opoja.tv:1935/8000/8000
 
 #EXTINF:-1,Super Sonic TVHD link 1
 rtmp://str103.setplex.net/228/stv_online
