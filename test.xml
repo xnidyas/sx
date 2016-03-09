@@ -7,8 +7,15 @@
 <externallink>http://pastebin.com/raw/xxxxxx$$LSProEncKey=xxxxx$$</externallink>
 </item>
 
-
-
-
-
+<item>
+  <title></title>
+  <link>$doregex[getURL|User-Agent=</link>
+  
+  <regex>
+    <name>getURL</name>
+    <expres>location.*(http.*?)[',"]</expres>
+    <page></page>
+    <referer></referer>
+  </regex>
+</item>
 
