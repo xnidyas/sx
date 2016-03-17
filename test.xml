@@ -7,6 +7,13 @@
 <externallink>http://pastebin.com/raw/xxxxxx$$LSProEncKey=xxxxx$$</externallink>
 </item>
 
+<regex>
+<name>finalURL</name>
+<expres>$pyFunction: '$doregex[getVLC]' if not '$doregex[getVLC]'=='' else '$doregex[getA1]' if not '$doregex[getA1]'=='' else '$doregex[getFile]'</expres>
+<page></page>
+</regex>
+
+
 <item>
   <title></title>
   <link>$doregex[getURL|User-Agent=</link>
@@ -19,25 +26,9 @@
   </regex>
 </item>
 
+ > = &gt;  < = &lt;
 
-
-
-
-
-                                
-                                
-                                
-                                
-                                
-                                
-
-
-
-
-
-
-
-
+c&gt;(.*?)&lt;.*\n.*(http.*w).*\n.*\n.*\n.*\n.*(http.*)&lt;
 
 
 
