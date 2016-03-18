@@ -26,7 +26,35 @@
   </regex>
 </item>
 
- > = &gt;  < = &lt;
+ > = &gt;  < = &lt;  //// c>(.*?)<\D*(http.*).<[\d\D]*?i>(http.*)< ///// c&gt;(.*?)&lt;.*\n.*(http.*w).*\n.*\n.*\n.*\n.*(http.*)&lt;
 
-c&gt;(.*?)&lt;.*\n.*(http.*w).*\n.*\n.*\n.*\n.*(http.*)&lt;
 
+
+<item>
+<title>TEST</title>
+<link>$doregex[makelist]|User-Agent=iPhone</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param2]</title>
+<link>$doregex[getRTMP] playpath=$doregex[get-path] swfUrl=http://cdn.deltatv.xyz/players.swf live=1 pageUrl=http://deltatv.xyz/stream.php?id=$doregex[get-ID]&width=640&height=460 token=TokenHereSeeInbox</link>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres>a href="(.*?)".*\n.*\n.(.*)</expres>
+<page>http://www.sports-x.net/livetv</page>
+<referer>http://www.sports-x.net/</referer>
+<agent>MoziMozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0</agent>
+</regex>
+</item>
+
+
+<regex>
+  <name>getRTMP</name>
+  <expres></expres>
+</regex>
+
+
+<item>
+<title>Arena 1</title>
+<link>rtmp://195.154.199.178:80/liverepeater playpath=142306 swfUrl=http://cdn.deltatv.xyz/players.swf live=1 pageUrl=http://deltatv.xyz/stream.php?id=142306&width=640&height=460 token=TokenHereSeeInbox</link>
+</item>
