@@ -2,9 +2,16 @@
 <items xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
 <item>  > = &gt;  < = &lt;
-<title>Test LSPro EncKey v8!!</title>
+<title>Test LSP EncKey!</title>
 <link>ignoreme</link> MoziMozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0
 <externallink>http://pastebin.com/raw/xxxxxx$$LSProEncKey=xxxxx$$</externallink>
+</item>http://pastebin.com/raw/xxxx$$LSProEncKey=xxx$$
+
+<item>
+  <title>TEST</title>
+  <link>IgnoreME</link>
+  <externallink>xxxxx$$LSProEncKey=xxx$$</externallink>
+  <thumbnail></thumbnail>
 </item>
 
 <regex>
@@ -62,7 +69,10 @@
 =====
 
 
- 
+
+
+
+
 
 
 
