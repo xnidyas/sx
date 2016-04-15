@@ -1,16 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
-<item>  > = &gt;  < = &lt;
+<item>  > = &gt;  < = &lt;  
+
+watch.php.*?&(.*?)"[d\D\S].*?img src="(.*?)" w.*?=".*?" h.*?=".*?" b.*?=".*?"[d\D\S].*?&gt;(.*?)&lt;
+
+a href="(.*?)".*?background-image: url\((.*?)\)".*?movie_name roboto_regular"&gt;(.*?)&lt;span style=".*?"&gt;(.*?)&lt;.*?&gt;&lt;p class=".*?"&gt;(.*?)&lt;
+
+<item>
 <title>Test LSP EncKey!</title>
 <link>ignoreme</link> MoziMozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0
 <externallink>http://pastebin.com/raw/xxxxxx$$LSProEncKey=xxxxx$$</externallink>
-</item>http://pastebin.com/raw/xxxx$$LSProEncKey=xxx$$
+</item>
 
 <item>
   <title>TEST</title>
   <link>IgnoreME</link>
-  <externallink>xxxxx$$LSProEncKey=xxx$$</externallink>
+  <externallink></externallink>
   <thumbnail></thumbnail>
 </item>
 
@@ -35,6 +41,11 @@
 
  > = &gt;  < = &lt;  //// c>(.*?)<\D*(http.*).<[\d\D]*?i>(http.*)< ///// c&gt;(.*?)&lt;.*\n.*(http.*w).*\n.*\n.*\n.*\n.*(http.*)&lt;
 
+title.*?".*?href="(http.*?)".*?title=".*?"[\d\D](.*?)<.*?>(vs).*?title=".*?"[\d\D](.*?)<.*?c_live.*?"[\d\D](.*?)<.*?title="(.*?)"
+
+ > = &gt;  < = &lt; 
+ 
+c&gt;(.*?)&lt;\D*?s&gt;(http.*?).&lt;.*?[\d\D]*?DV[\d\D]*?i&gt;(.*?)&lt;
 
 
 <item>
@@ -54,29 +65,20 @@
 </regex>
 </item>
 
-
-<regex>
-  <name>getRTMP</name>
-  <expres></expres>
-</regex>
-
+-----------------------
 
 <item>
-<title>Arena 1</title>
-<link>rtmp://195.154.199.178:80/liverepeater playpath=142306 swfUrl=http://cdn.deltatv.xyz/players.swf live=1 pageUrl=http://deltatv.xyz/stream.php?id=142306&width=640&height=460 token=Fo5_n0w?U.rA6l3-70w47ch</link>
+  <title></title>
+  <link>$doregex[getsxtream]</link>
+  
+  <regex>
+    <name>getsxtream</name>
+    <expres></expres>
+    <page></page>
+    <referer></referer>
+    <agent></agent>
+    <cookieJar></cookieJar>
+  </regex>
+  <thumbnail></thumbnail>
 </item>
-
-=====
-
-
-
-
-
-
-
-
-
-
-
-
-
+----------------------
