@@ -21,8 +21,8 @@ a href="(.*?)".*?background-image: url\((.*?)\)".*?movie_name roboto_regular"&gt
 </item>
 
 <regex>
-<name>finalURL</name>
-<expres>$pyFunction: '$doregex[getVLC]' if not '$doregex[getVLC]'=='' else '$doregex[getA1]' if not '$doregex[getA1]'=='' else '$doregex[getFile]'</expres>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_openload]' if not '$doregex[get_openload]'=='' else '$doregex[get_uptostream]' if not '$doregex[get_uptostream]'=='' else 'plugin://plugin.video.youtube/play/?video_id=CEGSitBJ7Gw'</expres>
 <page></page>
 </regex>
 
@@ -83,21 +83,23 @@ c&gt;(.*?)&lt;\D*?s&gt;(http.*?).&lt;.*?[\d\D]*?DV[\d\D]*?i&gt;(.*?)&lt;
 </item>
 ----------------------
 
-
 <item>
-<title>M3U8 | http://www.startv.com.tr/canli</title>
-<link>$doregex[finalurl]</link>
+<title>TEST | URL= </title>
+<link>$doregex[get=URL]|User-Agent=iPhone</link>
 <regex>
-<name>finalurl</name>
+<name>get=URL</name>
 <expres><![CDATA[#$pyFunction
 import requests, re
-def GetLSProData(page_data,Cookie_Jar,m,url = 'http://www.startv.com.tr/canli'):
- headers = {'User-Agent': 'Mozilla/5.0','Referer': 'http://www.startv.com.tr/canli'}
+def GetLSProData(page_data,Cookie_Jar,m,url = 'http://XXXXX.com/XXXXX/2675843/XXXXX/1839332'):
+ headers = {'User-Agent': 'Mozilla/5.0','Referer': 'http://XXXXX.com/'}
  source = requests.get(url, headers=headers)
- m3u8 = re.findall('mobileUrl.*[",\'](http.*?)[",\']', source.text)[0]
- return m3u8 + '|User-Agent=Mozila/5.0' + 'Referer=http://www.startv.com.tr/canli'
+ m3u8 = re.findall('ExpresherE', source.text)[0]
+ return m3u8 + '|headers'
 ]]></expres>
 <page></page>
 <cookieJar></cookieJar>
 </regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </item>
+
