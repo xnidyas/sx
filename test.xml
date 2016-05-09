@@ -102,4 +102,30 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://XXXXX.com/XXXXX/2675843/XX
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
+----------------------------
 
+<item>
+  <title>TEST | undefined | http://streame.net/p5nzug708w5a</title>
+  <link>$doregex[getsxtream]|User-Agent=iPhone&amp;Accept-Encoding=gzip&amp;Cookie=lang=1;</link>
+  
+  <regex>
+    <name>getsxtream</name>
+    <expres>source.*?file:"([^"]+)",</expres>
+    <page>http://streame.net/p5nzug708w5a</page>
+	<rawpost>op=download1&amp;usr_login=&amp;id=p5nzug708w5a&amp;fname=undefined&amp;referer=&amp;hash=$doregex[hash=key]&amp;imhuman=Proceed+to+video</rawpost>
+    <referer>http://streame.net/p5nzug708w5a</referer>
+    <agent>Mozilla/5.0</agent>
+	<accept>,*/*;q=0.8</accept>
+    <cookieJar></cookieJar>
+  </regex>
+  <regex>
+  <name>hash=key</name>
+  <expres>name="hash" value="([^"]+)"</expres>
+  <page>http://streame.net/p5nzug708w5a</page>
+  <referer>http://streame.net/p5nzug708w5a</referer>
+  <agent>Mozilla/5.0</agent>
+  <accept>,*/*;q=0.8</accept>
+  <cookieJar></cookieJar>
+  </regex>
+  <thumbnail></thumbnail>
+</item>
