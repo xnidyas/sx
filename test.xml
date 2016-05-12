@@ -20,6 +20,39 @@ a href="(.*?)".*?background-image: url\((.*?)\)".*?movie_name roboto_regular"&gt
   <thumbnail></thumbnail>
 </item>
 
+-----------
+
+<item>
+    <title>Stream fr</title>
+    <link>$doregex[geturl]</link>
+    <regex>
+        <name>geturl</name>
+        <expres>(http.*?)"</expres>
+        <page>$doregex[getunpacked]</page>
+    </regex>
+    <regex>
+        <name>getunpacked</name>
+        <expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)' )</expres>
+        <page>$doregex[getunescaped]</page>
+    </regex>
+    <regex>
+        <name>getunescaped</name>
+        <expres>$pyFunction:urllib.unquote('$doregex[getdecoded]')</expres>
+        <page></page>
+    </regex>
+    <regex>
+        <name>getdecoded</name>
+        <expres>$pyFunction:base64.b64decode('$doregex[getEnc]')</expres>
+        <page></page>
+    </regex>
+    <regex>
+        <name>getEnc</name>
+        <expres>atob\(\"(.*?)\"</expres>
+        <page>http://en.iphone-tv.eu/stream/fr/8</page>
+    </regex>
+</item>
+
+-----------
 <regex>
 <name>select_Url</name>
 <expres>$pyFunction: '$doregex[get_openload]' if not '$doregex[get_openload]'=='' else '$doregex[get_uptostream]' if not '$doregex[get_uptostream]'=='' else 'plugin://plugin.video.youtube/play/?video_id=CEGSitBJ7Gw'</expres>
@@ -38,31 +71,10 @@ a href="(.*?)".*?background-image: url\((.*?)\)".*?movie_name roboto_regular"&gt
   </regex>
 </item>
 
- > = &gt;  < = &lt;  //// c>(.*?)<\D*(http.*).<[\d\D]*?i>(http.*)< ///// c&gt;(.*?)&lt;.*\n.*(http.*w).*\n.*\n.*\n.*\n.*(http.*)&lt;
-
-title.*?".*?href="(http.*?)".*?title=".*?"[\d\D](.*?)<.*?>(vs).*?title=".*?"[\d\D](.*?)<.*?c_live.*?"[\d\D](.*?)<.*?title="(.*?)"
+ > = &gt;  < = &lt;  //// ///// c&gt;(.*?)&lt;.*\n.*(http.*w).*\n.*\n.*\n.*\n.*(http.*)&lt;
 
  > = &gt;  < = &lt; 
- 
-c&gt;(.*?)&lt;\D*?s&gt;(http.*?).&lt;.*?[\d\D]*?DV[\d\D]*?i&gt;(.*?)&lt;
 
-
-<item>
-<title>TEST</title>
-<link>$doregex[makelist]|User-Agent=iPhone</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param2]</title>
-<link>$doregex[getRTMP] playpath=$doregex[get-path] swfUrl=http://cdn.deltatv.xyz/players.swf live=1 pageUrl=http://deltatv.xyz/stream.php?id=$doregex[get-ID]&width=640&height=460 token=TokenHereSeeInbox</link>
-<thumbnail></thumbnail>
-]]></listrepeat>
-<expres>a href="(.*?)".*\n.*\n.(.*)</expres>
-<page>http://www.sports-x.net/livetv</page>
-<referer>http://www.sports-x.net/</referer>
-<agent>MoziMozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0</agent>
-</regex>
-</item>
 
 -----------------------
 
@@ -108,8 +120,5 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://XXXXX.com/XXXXX/2675843/XX
 <expres>$pyFunction: '$doregex[get_openload]' if not '$doregex[get_openload]'=='' else 'http://$doregex[get_uptostream]' if not '$doregex[get_uptostream]'=='' else 'plugin://plugin.video.youtube/play/?video_id=CEGSitBJ7Gw'</expres>
 <page></page>
 </regex>
-
-
-
-
+----------------------------------------
 
