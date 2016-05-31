@@ -120,5 +120,5 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://XXXXX.com/XXXXX/2675843/XX
 <expres>$pyFunction: '$doregex[get_openload]' if not '$doregex[get_openload]'=='' else 'http://$doregex[get_uptostream]' if not '$doregex[get_uptostream]'=='' else 'plugin://plugin.video.youtube/play/?video_id=CEGSitBJ7Gw'</expres>
 <page></page>
 </regex>
-----------------------------------------
-
+----------------------------------------http://s33.postimg.org/6kp1z575b/cast4u.png
+"
