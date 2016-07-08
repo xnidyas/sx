@@ -115,6 +115,27 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://XXXXX.com/XXXXX/2675843/XX
 </item>
 ----------------------------
 
+<item>
+<title>TEST | MAKELIST | URL=</title>
+<link>$doregex[list]</link>
+
+<regex>
+<name>list</name>
+<listrepeat><![CDATA[
+<title>[list.param1]</title>
+<link>[list.param2]</link>
+<referer></referer>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres><![CDATA[BANDWIDTH=([^\D]+).*\n.*(chunklist.*)]]></expres>
+<page></page>
+<agent></agent>
+<referer></referer>
+<accept></accept>
+<cookieJar></cookieJar>
+</regex>
+
+-----------------------------------
 <regex>
 <name>select_Url</name>
 <expres>$pyFunction: '$doregex[get_openload]' if not '$doregex[get_openload]'=='' else 'http://$doregex[get_uptostream]' if not '$doregex[get_uptostream]'=='' else 'plugin://plugin.video.youtube/play/?video_id=CEGSitBJ7Gw'</expres>
