@@ -156,5 +156,3 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://XXXXX.com/XXXXX/2675843/XX
 <page></page>
 </regex>
 ----------------------------------------
-
-rtmp://185.63.252.131:1935/goLive/?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTYgMzowMTo1OCBBTSZoYXNoX3ZhbHVlPUlGNVdzM0NsMitwMGFmeXU0SHJXVlE9PSZ2YWxpZG1pbnV0ZXM9MTA=/<playpath>ibrodtv21_6vhudlq8 <swfUrl>http://cdn.ibrod.tv/player/jwplayer.flash.swf <pageUrl>http://miplayer.net/embedplayer.php?width=640&height=480&id=ibrodtv21&autoplay=true&strech=exactfit <objectEncoding>
