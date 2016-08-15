@@ -144,8 +144,10 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://XXXXX.com/XXXXX/2675843/XX
 <listrepeat><![CDATA[
 <title>[makelist.param1]</title>
 <link>$doregex[makelist2]</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
 ]]></listrepeat>
-<expres>option value="[A-Z]">(.*?)<</expres>
+<expres><![CDATA[option value="[A-Z]">(.*?)]]></expres>
 <page></page>
 </regex>
 </item>
@@ -156,3 +158,4 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://XXXXX.com/XXXXX/2675843/XX
 <page></page>
 </regex>
 ----------------------------------------
+
